@@ -12,7 +12,7 @@ https://github.com/rigtorp/awesome-modern-cpp
 Fast C++ logging library.
 https://github.com/gabime/spdlog
 
-#Embedded
+# Embedded
 Not recommend due to code bloat
 
 C++ binding to Lua 
@@ -21,7 +21,8 @@ https://github.com/satoren/kaguya
 JSON for Modern C++
 https://github.com/nlohmann/json
 
-On list
+**On list**
+
 SWIG 
 http://www.swig.org/
 
