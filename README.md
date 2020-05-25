@@ -5,6 +5,17 @@ Links to various cpp patterns or tutorials
 * [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 
+# Delegate
+* [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
+* [nikitablack](https://github.com/nikitablack/cpp-tests) - C++ code tests and examples
+* [EnTT](https://skypjack.github.io/2019-01-25-delegate-revised/) - Generic, type-safe delegates in C++ (revised)
+
+# Observable
+* [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
+
+# Design pattern
+* [xcheng85](https://github.com/xcheng85/DesignPatternCpp)
+
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
