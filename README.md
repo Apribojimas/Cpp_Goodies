@@ -21,6 +21,10 @@ https://github.com/satoren/kaguya
 JSON for Modern C++
 https://github.com/nlohmann/json
 
+Convert JSON into gorgeous, typesafe code in any language.
+https://quicktype.io/
+
+
 **On list**
 
 SWIG 
