@@ -12,6 +12,7 @@ Links to various cpp patterns or tutorials
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
+* [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) - Event-driven library with statefull observable obejcts.
 
 # Design pattern
 * [xcheng85](https://github.com/xcheng85/DesignPatternCpp)
