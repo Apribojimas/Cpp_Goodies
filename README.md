@@ -14,6 +14,10 @@ Links to various cpp patterns or tutorials
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
 * [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) - Event-driven library with statefull observable obejcts.
 
+# MPMC queue (multi-consumer multi-producer)
+* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
+* [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
+
 # Design pattern
 * [xcheng85](https://github.com/xcheng85/DesignPatternCpp)
 
