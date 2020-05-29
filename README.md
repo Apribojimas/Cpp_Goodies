@@ -18,6 +18,9 @@ Links to various cpp patterns or tutorials
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
 * [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
 
+# Data reflection
+* [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
+
 # Design pattern
 * [xcheng85](https://github.com/xcheng85/DesignPatternCpp)
 
