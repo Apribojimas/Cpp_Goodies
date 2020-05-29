@@ -17,6 +17,7 @@ Links to various cpp patterns or tutorials
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
 * [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
+* [SeaStar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
