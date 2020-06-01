@@ -24,7 +24,7 @@ Links to various cpp patterns or tutorials
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
 
 # Design pattern
-* [xcheng85](https://github.com/xcheng85/DesignPatternCpp)
+* [Refactoring.Guru](https://refactoring.guru/)
 
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
