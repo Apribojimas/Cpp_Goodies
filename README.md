@@ -13,6 +13,7 @@ Links to various cpp patterns or tutorials
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
 * [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) - Event-driven library with statefull observable obejcts.
+* [rocket](https://github.com/tripleslash/rocket) - Fast C++ Observer Pattern
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
@@ -39,3 +40,4 @@ Links to various cpp patterns or tutorials
 ## On list
 * [SWIG](http://www.swig.org/)
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
+* [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
