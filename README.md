@@ -20,6 +20,7 @@ Links to various cpp patterns or tutorials
 * [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
 * [SeaStar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner
 * [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
+* [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
