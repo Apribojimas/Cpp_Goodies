@@ -42,3 +42,4 @@ Links to various cpp patterns or tutorials
 * [SWIG](http://www.swig.org/)
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
+* [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
