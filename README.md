@@ -22,6 +22,9 @@ Links to various cpp patterns or tutorials
 * [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
 * [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
 
+# Serialization
+* [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
+
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
 
