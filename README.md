@@ -23,6 +23,7 @@ Links to various cpp patterns or tutorials
 * [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
 
 # Serialization
+* [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
 
 # Data reflection
