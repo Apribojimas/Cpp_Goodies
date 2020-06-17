@@ -36,7 +36,7 @@ Links to various cpp patterns or tutorials
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
 # Embedded
-## Not recommend due to code bloat
+## Not recommend due to code bloat -> anything what's starts "header only"
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
