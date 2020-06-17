@@ -47,3 +47,4 @@ Links to various cpp patterns or tutorials
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
+* [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
