@@ -22,6 +22,9 @@ Links to various cpp patterns or tutorials
 * [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
 * [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
 
+# Event
+* [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
+
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
