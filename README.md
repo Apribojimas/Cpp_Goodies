@@ -5,6 +5,7 @@ Links to various cpp patterns or tutorials
 * [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 * [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) - C++ Data Structures and Algorithms Cheat Sheet
+* [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
 
 # Delegate
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
