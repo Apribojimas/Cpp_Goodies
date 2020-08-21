@@ -11,6 +11,7 @@ Links to various cpp patterns or tutorials
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
 * [nikitablack](https://github.com/nikitablack/cpp-tests) - C++ code tests and examples
 * [EnTT](https://skypjack.github.io/2019-01-25-delegate-revised/) - Generic, type-safe delegates in C++ (revised)
+* [Asynchronous Multicast Delegates](https://www.codeproject.com/Articles/5277036/Asynchronous-Multicast-Delegates-in-Modern-Cpluspl) - A C++ delegate library that supports synchronous and asynchronous function invocation on any C++17
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
