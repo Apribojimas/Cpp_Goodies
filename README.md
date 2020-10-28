@@ -36,6 +36,7 @@ Links to various cpp patterns or tutorials
 # Actor frameworks
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
 * [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
+* [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
