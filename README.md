@@ -66,3 +66,4 @@ Links to various cpp patterns or tutorials
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
 * [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
 * [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
+* [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana is a collection of general purpose C++ utilities
