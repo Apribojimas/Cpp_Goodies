@@ -33,6 +33,7 @@ Links to various cpp patterns or tutorials
 
 # Event
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
+* [eventbus](https://github.com/DeveloperPaul123/eventbus) - eventbus is a simple, header only C++17 event bus library
 
 # Actor frameworks
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
