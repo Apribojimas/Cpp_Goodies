@@ -19,6 +19,7 @@ Links to various cpp patterns or tutorials
 * [nikitablack](https://github.com/nikitablack/cpp-tests) - C++ code tests and examples
 * [EnTT](https://skypjack.github.io/2019-01-25-delegate-revised/) - Generic, type-safe delegates in C++ (revised)
 * [Asynchronous Multicast Delegates](https://www.codeproject.com/Articles/5277036/Asynchronous-Multicast-Delegates-in-Modern-Cpluspl) - A C++ delegate library that supports synchronous and asynchronous function invocation on any C++17
+* [delegate](https://github.com/rosbacke/delegate) - Embedded friendly std::function alternative. Never heap alloc, no exceptions. Is trivially_copyable.
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
