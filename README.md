@@ -70,3 +70,4 @@ Links to various cpp patterns or tutorials
 * [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana is a collection of general purpose C++ utilities
 * [xenium](https://github.com/mpoeter/xenium) - xenium is a header-only library that provides a collection of concurrent data structures and memory reclamation algorithms
+* [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmbeddedInfraLib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
