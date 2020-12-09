@@ -26,7 +26,7 @@ Links to various cpp patterns or tutorials
 * [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) - Event-driven library with statefull observable obejcts.
 * [rocket](https://github.com/tripleslash/rocket) - Fast C++ Observer Pattern
 * [Sigslot](https://github.com/palacaze/sigslot) - Sigslot is a header-only, thread safe implementation of signal-slots for C++.
-* [Signals](https://github.com/TheWisp/signals) - library is optimized for video games
+* [Signals](https://github.com/TheWisp/signals) - library is optimized for video games. signal-slot-benchmarks!!! with sources of plenty libraries
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
