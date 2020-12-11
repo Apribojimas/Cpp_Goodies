@@ -76,3 +76,4 @@ Links to various cpp patterns or tutorials
 * [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmbeddedInfraLib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
 * [WLib](https://github.com/wloop/wlib) - The goal of WLib is to create a lighter and safer alternative to C++ STL. 
 * [libunifex](https://github.com/facebookexperimental/libunifex) - The 'libunifex' project is a prototype implementation of the C++ sender/receiver async programming model
+* [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
