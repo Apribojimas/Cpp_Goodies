@@ -53,6 +53,7 @@ Links to various cpp patterns or tutorials
 
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
+* [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
 
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
