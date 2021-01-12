@@ -7,6 +7,7 @@ Links to various cpp patterns or tutorials
 * [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) - C++ Data Structures and Algorithms Cheat Sheet
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
+* [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet)
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
