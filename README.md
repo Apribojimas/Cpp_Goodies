@@ -4,6 +4,7 @@ Links to various cpp patterns or tutorials
 # Tutorials
 * [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) - C++ Data Structures and Algorithms Cheat Sheet
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
