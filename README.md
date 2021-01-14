@@ -1,7 +1,7 @@
 # Cpp_Goodies
 Links to various cpp patterns or tutorials
 
-# Tutorials
+# Tutorials / Links collections
 * [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -9,6 +9,7 @@ Links to various cpp patterns or tutorials
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
 * [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) - The cheatsheet focus is both on the language as well as common classes from the standard library.
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
