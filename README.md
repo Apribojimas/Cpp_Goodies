@@ -47,6 +47,7 @@ Links to various cpp patterns or tutorials
 * [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
 * [C++ Actor Framework](https://github.com/isndev/qb) - The qb framework is a thin-layer multicore-optimized the Actor model
+* [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
