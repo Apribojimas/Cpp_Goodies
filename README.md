@@ -10,6 +10,7 @@ Links to various cpp patterns or tutorials
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
 * [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) - The cheatsheet focus is both on the language as well as common classes from the standard library.
 * [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
+* [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) - C++ examples cover a wide range of programming areas in Computer Science
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
