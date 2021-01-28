@@ -71,6 +71,8 @@ Links to various cpp patterns or tutorials
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
 
+## Software
+* [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
 
 ## On list
 * [SWIG](http://www.swig.org/)
