@@ -43,6 +43,9 @@ Links to various cpp patterns or tutorials
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
 * [eventbus](https://github.com/DeveloperPaul123/eventbus) - eventbus is a simple, header only C++17 event bus library
 
+# Thread pool
+* [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
+
 # Actor frameworks
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
 * [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
@@ -65,14 +68,14 @@ Links to various cpp patterns or tutorials
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
+## Software
+* [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
+
 # Embedded
 ## Not recommend due to code bloat -> anything what's starts "header only"
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
-
-## Software
-* [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
 
 ## On list
 * [SWIG](http://www.swig.org/)
