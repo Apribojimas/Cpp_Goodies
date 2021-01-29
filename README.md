@@ -43,8 +43,9 @@ Links to various cpp patterns or tutorials
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
 * [eventbus](https://github.com/DeveloperPaul123/eventbus) - eventbus is a simple, header only C++17 event bus library
 
-# Thread pool
+# Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
+* [cpptask](https://github.com/Kolkir/cpptask) - "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
 
 # Actor frameworks
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
