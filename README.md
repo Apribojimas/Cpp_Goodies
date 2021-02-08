@@ -96,3 +96,4 @@ Links to various cpp patterns or tutorials
 * [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
+* [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
