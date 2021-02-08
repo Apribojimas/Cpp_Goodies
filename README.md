@@ -69,6 +69,9 @@ Links to various cpp patterns or tutorials
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
+# Libraries
+* [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
+
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
 
