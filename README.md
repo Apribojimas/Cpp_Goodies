@@ -73,6 +73,7 @@ Links to various cpp patterns or tutorials
 
 # Libraries
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
+* [Facebook Template Library](https://github.com/facebook/fatal) - Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.
 * [tools](https://github.com/abbycin/tools) - header-only libraries written in modern C++ (11, 14, 17, 20).
 
 ## Software
