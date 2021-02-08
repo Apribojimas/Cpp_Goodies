@@ -32,6 +32,7 @@ Links to various cpp patterns or tutorials
 * [rocket](https://github.com/tripleslash/rocket) - Fast C++ Observer Pattern
 * [Sigslot](https://github.com/palacaze/sigslot) - Sigslot is a header-only, thread safe implementation of signal-slots for C++.
 * [Signals](https://github.com/TheWisp/signals) - library is optimized for video games. signal-slot-benchmarks!!! with sources of plenty libraries
+* [observer_ptr](https://github.com/martinmoene/observer-ptr-lite) - observer-ptr is a single-file header-only library with a variant of std::experimental::observer_ptr for C++98 and later.
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
