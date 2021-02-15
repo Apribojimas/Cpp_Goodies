@@ -72,6 +72,9 @@ Links to various cpp patterns or tutorials
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 
+# Date
+* [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
+
 # Libraries
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
 * [Facebook Template Library](https://github.com/facebook/fatal) - Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.
