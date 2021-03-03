@@ -68,6 +68,7 @@ Links to various cpp patterns or tutorials
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
 * [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
+* [Design-Patterns](https://github.com/arxitect/Design-Patterns) - Design patterns in the C++ programming language
 
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
