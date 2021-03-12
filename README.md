@@ -59,6 +59,7 @@ Links to various cpp patterns or tutorials
 * [C++ Actor Framework](https://github.com/isndev/qb) - The qb framework is a thin-layer multicore-optimized the Actor model
 * [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
 * [Theron](http://www.ashtonmason.net/portfolio/theron/) - For sources and doc http://www.ashtonmason.net/portfolio/theron/
+* [qb](https://github.com/isndev/qb) - It's a complete development framework for multicore processing
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
