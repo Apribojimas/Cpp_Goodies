@@ -13,6 +13,7 @@ Links to various cpp patterns or tutorials
 * [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) - C++ examples cover a wide range of programming areas in Computer Science
 * [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) - This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - The repository is a collection of open-source implementation of a variety of algorithms implemented in C++
+* [atomics](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md) - C++ links: atomics, lock free, memory model
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
