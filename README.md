@@ -113,3 +113,4 @@ Links to various cpp patterns or tutorials
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
 * [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
 * [FastFlow](https://github.com/fastflow/fastflow) - FastFlow: high-performance parallel patterns and building blocks in C++
+* [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
