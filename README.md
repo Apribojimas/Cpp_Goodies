@@ -27,6 +27,7 @@ Links to various cpp patterns or tutorials
 * [EnTT](https://skypjack.github.io/2019-01-25-delegate-revised/) - Generic, type-safe delegates in C++ (revised)
 * [Asynchronous Multicast Delegates](https://www.codeproject.com/Articles/5277036/Asynchronous-Multicast-Delegates-in-Modern-Cpluspl) - A C++ delegate library that supports synchronous and asynchronous function invocation on any C++17
 * [delegate](https://github.com/rosbacke/delegate) - Embedded friendly std::function alternative. Never heap alloc, no exceptions. Is trivially_copyable.
+* [delegates](https://github.com/gammasoft71/delegates) - Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
@@ -116,3 +117,4 @@ Links to various cpp patterns or tutorials
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 * [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
+* [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
