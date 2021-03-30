@@ -115,3 +115,4 @@ Links to various cpp patterns or tutorials
 * [FastFlow](https://github.com/fastflow/fastflow) - FastFlow: high-performance parallel patterns and building blocks in C++
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
+* [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
