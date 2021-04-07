@@ -5,11 +5,11 @@ Links to various cpp patterns or tutorials
 * [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 * [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) - C++ Data Structures and Algorithms Cheat Sheet
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
 * [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) - The cheatsheet focus is both on the language as well as common classes from the standard library.
-* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 * [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) - C++ examples cover a wide range of programming areas in Computer Science
 * [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) - This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - The repository is a collection of open-source implementation of a variety of algorithms implemented in C++
