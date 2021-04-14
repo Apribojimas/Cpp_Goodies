@@ -49,6 +49,7 @@ Links to various cpp patterns or tutorials
 # Event
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
 * [eventbus](https://github.com/DeveloperPaul123/eventbus) - eventbus is a simple, header only C++17 event bus library
+* [courier](https://github.com/reconndev/courier) - A simple, lightweight C++17 event bus/dispatcher.
 
 # Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
