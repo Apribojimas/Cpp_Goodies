@@ -119,3 +119,4 @@ Links to various cpp patterns or tutorials
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 * [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
 * [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
+* [pystring](https://github.com/imageworks/pystring) - Pystring is a collection of C++ functions which match the interface and behavior of python's string class methods using std::string.
