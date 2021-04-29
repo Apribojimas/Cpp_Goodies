@@ -19,6 +19,7 @@ Links to various cpp patterns or tutorials
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
+* [RxCpp](https://github.com/ReactiveX/RxCpp) - The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time
 * [tower120](https://github.com/tower120/reactive) - Simple only reactive C++ library.
 * [schlangster](https://github.com/schlangster/cpp.react) - Data dependencies between state and event flows
 * [Elma](https://github.com/klavinslab/elma) - Elma is an event loop and process manager for embedded and reactive systems.
