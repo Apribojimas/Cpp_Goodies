@@ -93,6 +93,7 @@ Links to various cpp patterns or tutorials
 * [tools](https://github.com/abbycin/tools) - header-only libraries written in modern C++ (11, 14, 17, 20).
 * [C++ libraries](https://cpp.libhunt.com/categories) - A curated list with C++ libraries
 * [The Reactive C++ Toolbox](https://github.com/reactivemarkets/toolbox-cpp) - The Reactive C++ Toolbox is an open source library of C++20 components designed for efficient aynchronous IO network applications on the Linux platform.
+* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - helps you write concise and readable C++ code.
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
