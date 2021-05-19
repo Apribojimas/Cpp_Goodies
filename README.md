@@ -131,3 +131,4 @@ Links to various cpp patterns or tutorials
 * [pystring](https://github.com/imageworks/pystring) - Pystring is a collection of C++ functions which match the interface and behavior of python's string class methods using std::string.
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
+* [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
