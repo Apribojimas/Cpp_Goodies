@@ -45,6 +45,7 @@ Links to various cpp patterns or tutorials
 # Property
 * [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
 * [bindey](https://github.com/kevin--/bindey) - provides the basic building block of MVVM -- an observable "Property" and a databinding mechanism.
+* [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
@@ -72,6 +73,8 @@ Links to various cpp patterns or tutorials
 * [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
 * [Theron](http://www.ashtonmason.net/portfolio/theron/) - For sources and doc http://www.ashtonmason.net/portfolio/theron/
 * [RStein.AsyncCpp](https://github.com/renestein/Rstein.AsyncCpp) - threadless actors (agents)
+* [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
+* [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
@@ -111,10 +114,7 @@ Links to various cpp patterns or tutorials
 ## On list
 * [SWIG](http://www.swig.org/)
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
-* [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
-* [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
-* [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana is a collection of general purpose C++ utilities
 * [xenium](https://github.com/mpoeter/xenium) - xenium is a header-only library that provides a collection of concurrent data structures and memory reclamation algorithms
 * [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmbeddedInfraLib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
