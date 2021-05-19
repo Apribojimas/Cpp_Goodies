@@ -132,3 +132,4 @@ Links to various cpp patterns or tutorials
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
+* [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
