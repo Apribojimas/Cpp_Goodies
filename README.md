@@ -42,6 +42,10 @@ Links to various cpp patterns or tutorials
 * [Observable Library](https://github.com/dacap/observable) - Library to use the observer pattern in C++11 programs with observable/observer classes or signals/slots.
 * [observer](https://github.com/PG1003/observer) - An observer pattern / signal slot pattern that can ignore extra parameters like Qt's signals and slots.
 
+# Property
+* [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
+* [bindey](https://github.com/kevin--/bindey) - provides the basic building block of MVVM -- an observable "Property" and a databinding mechanism.
+
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
 * [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
@@ -124,6 +128,5 @@ Links to various cpp patterns or tutorials
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 * [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
-* [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
 * [pystring](https://github.com/imageworks/pystring) - Pystring is a collection of C++ functions which match the interface and behavior of python's string class methods using std::string.
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
