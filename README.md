@@ -96,6 +96,11 @@ Links to various cpp patterns or tutorials
 # Date
 * [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
 
+# Finite state machine
+* [TinyFSM](https://github.com/digint/tinyfsm) - simple finite state machine library for C++, designed for optimal performance and low memory footprint.
+* [Another Finite State Machine](https://github.com/zmij/afsm) - afsm is a finite state machine C++14 library designed for usage in multithreaded asynchronous environment.
+* [HFSM2](https://github.com/andrew-gresyk/HFSM2) - Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.
+
 # Libraries
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
 * [Facebook Template Library](https://github.com/facebook/fatal) - Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.
@@ -136,3 +141,4 @@ Links to various cpp patterns or tutorials
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
+  
