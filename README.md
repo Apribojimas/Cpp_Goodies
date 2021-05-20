@@ -46,6 +46,8 @@ Links to various cpp patterns or tutorials
 * [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
 * [bindey](https://github.com/kevin--/bindey) - provides the basic building block of MVVM -- an observable "Property" and a databinding mechanism.
 * [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
+* [C++ PropertySystem](https://github.com/KonanM/CppProperties) - this library are a wrapper around a value and a signal
+* [xproperty](https://github.com/jupyter-xeus/xproperty) - C++ properties and observer pattern
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
