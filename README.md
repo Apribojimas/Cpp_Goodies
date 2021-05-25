@@ -100,6 +100,7 @@ Links to various cpp patterns or tutorials
 * [TinyFSM](https://github.com/digint/tinyfsm) - simple finite state machine library for C++, designed for optimal performance and low memory footprint.
 * [Another Finite State Machine](https://github.com/zmij/afsm) - afsm is a finite state machine C++14 library designed for usage in multithreaded asynchronous environment.
 * [HFSM2](https://github.com/andrew-gresyk/HFSM2) - Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.
+* [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
 
 # Libraries
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
@@ -128,7 +129,6 @@ Links to various cpp patterns or tutorials
 * [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmbeddedInfraLib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
 * [WLib](https://github.com/wloop/wlib) - The goal of WLib is to create a lighter and safer alternative to C++ STL. 
 * [libunifex](https://github.com/facebookexperimental/libunifex) - The 'libunifex' project is a prototype implementation of the C++ sender/receiver async programming model
-* [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
 * [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
