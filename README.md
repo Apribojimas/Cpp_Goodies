@@ -121,6 +121,7 @@ Links to various cpp patterns or tutorials
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
 * [The Inefficiency of C++, Fact or Fiction?](http://staffwww.fullcoll.edu/thegarty/iar_fact_the_inefficiency_of_C--.pdf) - The cost in terms of code size overhead compared to C for the C++ constructs
+* [SymbolSort](https://github.com/adrianstone55/SymbolSort) - SymbolSort is a utility for analyzing code bloat in C++ applications.
 
 # Embedded
 ## Not recommend due to code bloat -> anything what's starts "header only"
