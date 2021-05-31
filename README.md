@@ -83,6 +83,7 @@ Links to various cpp patterns or tutorials
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
+* [zpp serializer](https://github.com/eyalz800/serializer) - A single header only standard C++ serialization framework.
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
