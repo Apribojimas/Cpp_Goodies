@@ -124,6 +124,9 @@ Links to various cpp patterns or tutorials
 * [SymbolSort](https://github.com/adrianstone55/SymbolSort) - SymbolSort is a utility for analyzing code bloat in C++ applications.
 
 # Embedded
+## Embedded oriented libs
+* [ETL](https://www.etlcpp.com/) - Embedded Template Library
+* [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
 ## Not recommend due to code bloat -> anything what's starts "header only"
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -131,7 +134,6 @@ Links to various cpp patterns or tutorials
 
 ## On list
 * [SWIG](http://www.swig.org/)
-* [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana is a collection of general purpose C++ utilities
 * [xenium](https://github.com/mpoeter/xenium) - xenium is a header-only library that provides a collection of concurrent data structures and memory reclamation algorithms
