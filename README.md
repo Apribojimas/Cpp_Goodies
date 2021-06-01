@@ -116,13 +116,14 @@ Links to various cpp patterns or tutorials
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
-* [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+* [ghidra-sre](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
 * [The Inefficiency of C++, Fact or Fiction?](http://staffwww.fullcoll.edu/thegarty/iar_fact_the_inefficiency_of_C--.pdf) - The cost in terms of code size overhead compared to C for the C++ constructs
 * [SymbolSort](https://github.com/adrianstone55/SymbolSort) - SymbolSort is a utility for analyzing code bloat in C++ applications.
+* [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra Software Reverse Engineering Framework
 
 # Embedded
 ## Embedded oriented libs
