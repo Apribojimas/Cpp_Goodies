@@ -116,6 +116,7 @@ Links to various cpp patterns or tutorials
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
+* [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
