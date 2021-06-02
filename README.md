@@ -22,6 +22,7 @@ Links to various cpp patterns or tutorials
 * [RxCpp](https://github.com/ReactiveX/RxCpp) - The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time
 * [tower120](https://github.com/tower120/reactive) - Simple only reactive C++ library.
 * [schlangster](https://github.com/schlangster/cpp.react) - Data dependencies between state and event flows
+* [snakster](https://github.com/snakster/cpp.react) - C++React is reactive programming library for C++14
 * [Elma](https://github.com/klavinslab/elma) - Elma is an event loop and process manager for embedded and reactive systems.
 
 # Delegate
