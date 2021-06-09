@@ -149,7 +149,6 @@ Links to various cpp patterns or tutorials
 * [WLib](https://github.com/wloop/wlib) - The goal of WLib is to create a lighter and safer alternative to C++ STL. 
 * [libunifex](https://github.com/facebookexperimental/libunifex) - The 'libunifex' project is a prototype implementation of the C++ sender/receiver async programming model
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns
-* [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
 * [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
 * [FastFlow](https://github.com/fastflow/fastflow) - FastFlow: high-performance parallel patterns and building blocks in C++
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
