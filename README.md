@@ -74,6 +74,7 @@ Links to various cpp patterns or tutorials
 * [Async++](https://github.com/Amanieu/asyncplusplus) - Async++ is a lightweight concurrency framework for C++11
 * [Marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11.
 * [riften::Thiefpool](https://github.com/ConorWilliams/Threadpool) - A blazing-fast, lightweight, work-stealing thread-pool for C++20
+* [transwarp](https://github.com/bloomen/transwarp) - C++ library for task concurrency
 
 # Actor frameworks
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
