@@ -162,4 +162,5 @@ Links to various cpp patterns or tutorials
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
 * [elapsed_timer](https://github.com/maurodelazeri/elapsed_timer) - Elapsed time for code blocks execution written in C++11
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
+* [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
   
