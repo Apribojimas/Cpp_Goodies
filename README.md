@@ -165,4 +165,5 @@ Links to various cpp patterns or tutorials
 * [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
 * [flags](https://github.com/sailormoon/flags) - Command line parser
 * [csv2](https://github.com/p-ranav/csv2) - csv reader/writer
+* [dtl](https://github.com/cubicdaiya/dtl) - DIFF template library written
   
