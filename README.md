@@ -52,6 +52,7 @@ Links to various cpp patterns or tutorials
 * [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
 * [C++ PropertySystem](https://github.com/KonanM/CppProperties) - this library are a wrapper around a value and a signal
 * [xproperty](https://github.com/jupyter-xeus/xproperty) - C++ properties and observer pattern
+* [EntityPlus](https://github.com/Yelnats321/EntityPlus) - EntityPlus is an Entity Component System library
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
