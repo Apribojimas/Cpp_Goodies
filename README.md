@@ -163,4 +163,5 @@ Links to various cpp patterns or tutorials
 * [elapsed_timer](https://github.com/maurodelazeri/elapsed_timer) - Elapsed time for code blocks execution written in C++11
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
+* [flags](https://github.com/sailormoon/flags) - Command line parser
   
