@@ -113,6 +113,7 @@ Links to various cpp patterns or tutorials
 * [Another Finite State Machine](https://github.com/zmij/afsm) - afsm is a finite state machine C++14 library designed for usage in multithreaded asynchronous environment.
 * [HFSM2](https://github.com/andrew-gresyk/HFSM2) - Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.
 * [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
+* [State machine](https://github.com/AdamsPL/state-machine/) - This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.
 
 # Libraries
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
