@@ -18,7 +18,7 @@ Links to various cpp patterns or tutorials
 * [Cpp20](https://github.com/RainerGrimm/Cpp20) - This is the code repository for my book "C++20 - Get the Details" 
 * [MV(X)](https://habr.com/ru/company/croc/blog/549590/) - MV(X)
 * [croc](https://habr.com/ru/company/croc/blog/560674/) - Clean Architecture
-* 
+* [GETTERS AND SETTERS](https://cpp-rendering.io/thoughts-about-getters-and-setters-in-c/) - This article deals with getters and setters in C++.
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
