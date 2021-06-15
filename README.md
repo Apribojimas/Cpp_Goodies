@@ -169,4 +169,5 @@ Links to various cpp patterns or tutorials
 * [flags](https://github.com/sailormoon/flags) - Command line parser
 * [csv2](https://github.com/p-ranav/csv2) - csv reader/writer
 * [dtl](https://github.com/cubicdaiya/dtl) - DIFF template library written
+* [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
   
