@@ -81,15 +81,16 @@ Links to various cpp patterns or tutorials
 * [Marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11.
 
 # Actor frameworks
+* [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
+* [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
+* [C++ Actor Framework](https://github.com/isndev/qb) - The qb framework is a thin-layer multicore-optimized the Actor model
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
 * [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
-* [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
-* [C++ Actor Framework](https://github.com/isndev/qb) - The qb framework is a thin-layer multicore-optimized the Actor model
-* [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
 * [Theron](http://www.ashtonmason.net/portfolio/theron/) - For sources and doc http://www.ashtonmason.net/portfolio/theron/
 * [RStein.AsyncCpp](https://github.com/renestein/Rstein.AsyncCpp) - threadless actors (agents)
 * [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
 * [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
+* [protoactor-cpp](https://github.com/whitglint/protoactor-cpp) - Ultra-fast, distributed, cross-platform actors.
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
