@@ -92,6 +92,7 @@ Links to various cpp patterns or tutorials
 * [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
 * [protoactor-cpp](https://github.com/whitglint/protoactor-cpp) - Ultra-fast, distributed, cross-platform actors.
 * [artpaul](https://github.com/artpaul/acto) -  Actors are light-weight objects, and they interact fully asynchronously with messages.
+* [christianparpart](https://github.com/christianparpart/actor-model) - Actor Model library. It was written purely out of fun.
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
