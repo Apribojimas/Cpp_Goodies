@@ -30,11 +30,14 @@ Links to various cpp patterns or tutorials
 
 # Delegate
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
+* [marcmo](https://github.com/marcmo/delegates) - Small delegate implementation.
+* [bdiamand](https://github.com/bdiamand/Delegate) - Fixed-size C++ delegates - efficient alternatives to std::function.
 * [nikitablack](https://github.com/nikitablack/cpp-tests) - C++ code tests and examples
 * [EnTT](https://skypjack.github.io/2019-01-25-delegate-revised/) - Generic, type-safe delegates in C++ (revised)
 * [Asynchronous Multicast Delegates](https://www.codeproject.com/Articles/5277036/Asynchronous-Multicast-Delegates-in-Modern-Cpluspl) - A C++ delegate library that supports synchronous and asynchronous function invocation on any C++17
-* [delegate](https://github.com/rosbacke/delegate) - Embedded friendly std::function alternative. Never heap alloc, no exceptions. Is trivially_copyable.
-* [delegates](https://github.com/gammasoft71/delegates) - Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.
+* [rosbacke](https://github.com/rosbacke/delegate) - Embedded friendly std::function alternative. Never heap alloc, no exceptions. Is trivially_copyable.
+* [gammasoft71](https://github.com/gammasoft71/delegates) - Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.
+* [Unbelievably Fast Delegate](https://github.com/bitwizeshift/Delegate) - Delegate is an unbelievably fast, lightweight, and 0-overhead function container.
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
