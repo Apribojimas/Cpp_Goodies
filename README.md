@@ -132,6 +132,7 @@ Links to various cpp patterns or tutorials
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - helps you write concise and readable C++ code.
 * [Yato](https://github.com/agruzdev/Yato) - useful snippets and abstractions for C++ development.
 * [cppfan](https://github.com/chunquedong/cppfan) - A collection of C++ foundation class.
+* [apex](https://github.com/netlify/apex) - providing shims for upcoming C++ standards library features
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
