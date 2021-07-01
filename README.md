@@ -125,6 +125,7 @@ Links to various cpp patterns or tutorials
 * [State machine](https://github.com/AdamsPL/state-machine/) - This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.
 
 # Libraries
+library: a collection of types, functions, classes, etc. implementing a set of facilities (abstractions) meant to be potentially used as part of more that one program.
 * [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
 * [Facebook Template Library](https://github.com/facebook/fatal) - Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.
 * [tools](https://github.com/abbycin/tools) - header-only libraries written in modern C++ (11, 14, 17, 20).
@@ -135,6 +136,7 @@ Links to various cpp patterns or tutorials
 * [cppfan](https://github.com/chunquedong/cppfan) - A collection of C++ foundation class.
 * [apex](https://github.com/netlify/apex) - providing shims for upcoming C++ standards library features
 * [Flutter Engine](https://github.com/flutter/engine) - Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. 
+* [libsolace](https://github.com/abbyssoul/libsolace) - libSolace is a library to help to build a mission-critical application.
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
