@@ -76,6 +76,7 @@ Links to various cpp patterns or tutorials
 * [WormHoles](https://github.com/helcl42/WormHoles) - WormHoles is a multiplatform header-only library implementing a general and threadsafe event bus.
 * [Events](https://github.com/itstristanb/Events) - Event system that allows for clients to attach callbacks to a host which then can be invoked at any time
 * [PubBus](https://github.com/eXpl0it3r/PubBus) - PubBus is a simple, header-only implementation of a MessageBus.
+* [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
 
 # Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
