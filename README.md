@@ -104,6 +104,7 @@ Links to various cpp patterns or tutorials
 * [Asynchronous Agents Library](http://msdn.microsoft.com/en-us/library/dd492627.aspx) - The Agents Library is a C++ template library that promotes an actor-based programming model and in-process message passing for coarse-grained dataflow and pipelining tasks.
 * [syscpp](https://github.com/lightful/syscpp/) - ActorThread: Active Object pattern in C++
 * [HAM-2015/CPP-Actor-framework](https://github.com/HAM-2015/CPP-Actor-framework) - 
+* [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
