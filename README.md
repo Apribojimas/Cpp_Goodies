@@ -56,7 +56,8 @@ Links to various cpp patterns or tutorials
 * [C++ PropertySystem](https://github.com/KonanM/CppProperties) - this library are a wrapper around a value and a signal
 * [xproperty](https://github.com/jupyter-xeus/xproperty) - C++ properties and observer pattern
 * [EntityPlus](https://github.com/Yelnats321/EntityPlus) - EntityPlus is an Entity Component System library
-* [Event notifier](https://github.com/Stypox/event-notifier) - A C++ header-only library that lets you connect events to functions with a small and intuitive interface. 
+* [Event notifier](https://github.com/Stypox/event-notifier) - A C++ header-only library that lets you connect events to functions with a small and intuitive interface.
+* [gammasoft71_properties](https://github.com/gammasoft71/properties) - another c#-like property accessor for C++11 and above.
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
