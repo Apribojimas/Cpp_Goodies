@@ -101,6 +101,7 @@ Links to various cpp patterns or tutorials
 * [protoactor-cpp](https://github.com/whitglint/protoactor-cpp) - Ultra-fast, distributed, cross-platform actors.
 * [artpaul](https://github.com/artpaul/acto) -  Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [christianparpart](https://github.com/christianparpart/actor-model) - Actor Model library. It was written purely out of fun.
+* [Asynchronous Agents Library](https://docs.microsoft.com/en-us/cpp/parallel/concrt/asynchronous-agents-library?view=msvc-160) - The Agents Library is a C++ template library that promotes an actor-based programming model and in-process message passing for coarse-grained dataflow and pipelining tasks. 
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
