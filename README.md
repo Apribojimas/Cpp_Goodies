@@ -177,6 +177,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
 * [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
+* [lxgui](https://github.com/cschreib/lxgui) - GUI library
 * [elapsed_timer](https://github.com/maurodelazeri/elapsed_timer) - Elapsed time for code blocks execution written in C++11
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
