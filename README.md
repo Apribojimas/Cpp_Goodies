@@ -79,7 +79,7 @@ Links to various cpp patterns or tutorials
 * [Events](https://github.com/itstristanb/Events) - Event system that allows for clients to attach callbacks to a host which then can be invoked at any time
 * [PubBus](https://github.com/eXpl0it3r/PubBus) - PubBus is a simple, header-only implementation of a MessageBus.
 * [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
-* [q](https://github.com/grantila/q) - A platform-independent promise library for C++, implementing asynchronous continuations.
+* [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 
 # Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
@@ -90,6 +90,7 @@ Links to various cpp patterns or tutorials
 * [riften::Thiefpool](https://github.com/ConorWilliams/Threadpool) - A blazing-fast, lightweight, work-stealing thread-pool for C++20
 * [transwarp](https://github.com/bloomen/transwarp) - C++ library for task concurrency
 * [Marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11.
+* [q](https://github.com/grantila/q) - A platform-independent promise library for C++, implementing asynchronous continuations.
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
@@ -191,7 +192,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
 * [lxgui](https://github.com/cschreib/lxgui) - GUI library
 * [elapsed_timer](https://github.com/maurodelazeri/elapsed_timer) - Elapsed time for code blocks execution written in C++11
-* [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 * [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
 * [flags](https://github.com/sailormoon/flags) - Command line parser
 * [csv2](https://github.com/p-ranav/csv2) - csv reader/writer
