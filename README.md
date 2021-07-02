@@ -21,6 +21,8 @@ Links to various cpp patterns or tutorials
 * [GETTERS AND SETTERS](https://cpp-rendering.io/thoughts-about-getters-and-setters-in-c/) - This article deals with getters and setters in C++.
 * [C++17 STL Cookbook](https://github.com/PacktPublishing/Cpp17-STL-Cookbook) - This is the code repository for C++17 STL Cookbook, published by Packt.
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) - 30 Seconds of C++ (STL in C++)
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - These design patterns are useful for building reliable, scalable, secure applications in the cloud.
+* Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
