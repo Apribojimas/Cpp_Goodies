@@ -150,6 +150,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Flutter Engine](https://github.com/flutter/engine) - Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. 
 * [libsolace](https://github.com/abbyssoul/libsolace) - libSolace is a library to help to build a mission-critical application.
 * [vrm_core](https://github.com/SuperV1234/vrm_core) - Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
+* [bs::framework](https://github.com/GameFoundry/bsf) - library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
