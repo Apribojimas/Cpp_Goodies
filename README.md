@@ -202,4 +202,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [dtl](https://github.com/cubicdaiya/dtl) - DIFF template library written
 * [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
 * [libjwdpmi](https://github.com/jwt27/libjwdpmi) - This library aims to be a complete development framework for DPMI (32-bit DOS) applications, written in C++20.
+* [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
   
