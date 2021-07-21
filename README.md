@@ -152,6 +152,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libsolace](https://github.com/abbyssoul/libsolace) - libSolace is a library to help to build a mission-critical application.
 * [vrm_core](https://github.com/SuperV1234/vrm_core) - Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
 * [bs::framework](https://github.com/GameFoundry/bsf) - library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools
+* [bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
