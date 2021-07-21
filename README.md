@@ -206,4 +206,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libjwdpmi](https://github.com/jwt27/libjwdpmi) - This library aims to be a complete development framework for DPMI (32-bit DOS) applications, written in C++20.
 * [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
+* [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
   
