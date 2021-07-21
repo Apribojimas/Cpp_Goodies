@@ -170,6 +170,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
 * [theCore](https://github.com/theCore-embedded/theCore) - framework for various microcontroller applications, with or without RTOS (bare-metal).
+* [libcpp](https://github.com/peterzuger/libcpp) - C++ standard library for embedded systems
 ## Not recommend due to code bloat -> anything what's starts "header only"
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
