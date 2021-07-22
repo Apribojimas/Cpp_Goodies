@@ -42,6 +42,7 @@ Links to various cpp patterns or tutorials
 * [rosbacke](https://github.com/rosbacke/delegate) - Embedded friendly std::function alternative. Never heap alloc, no exceptions. Is trivially_copyable.
 * [gammasoft71](https://github.com/gammasoft71/delegates) - Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.
 * [Unbelievably Fast Delegate](https://github.com/bitwizeshift/Delegate) - Delegate is an unbelievably fast, lightweight, and 0-overhead function container.
+* [Armillus](https://github.com/Armillus/Delegate) - Blazing fast, lightweight, safe, heapless, non-templated and header-only replacement for std::function for C++ 17 and beyond.
 
 # Observable
 * [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
@@ -192,6 +193,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 * [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
 * [pystring](https://github.com/imageworks/pystring) - Pystring is a collection of C++ functions which match the interface and behavior of python's string class methods using std::string.
+* [libchain](https://github.com/jbaldwin/libchain) - Easy to use std::string enhancements.
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
@@ -207,4 +209,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
 * [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
+* [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
   
