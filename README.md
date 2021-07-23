@@ -63,6 +63,7 @@ Links to various cpp patterns or tutorials
 * [EntityPlus](https://github.com/Yelnats321/EntityPlus) - EntityPlus is an Entity Component System library
 * [Event notifier](https://github.com/Stypox/event-notifier) - A C++ header-only library that lets you connect events to functions with a small and intuitive interface.
 * [gammasoft71_properties](https://github.com/gammasoft71/properties) - another c#-like property accessor for C++11 and above.
+* [Tectu](https://github.com/Tectu/cpp-properties) - A library that brings C# like properties to modern C++.
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
@@ -70,6 +71,7 @@ Links to various cpp patterns or tutorials
 * [SeaStar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner
 * [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
 * [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
+* [craflin](https://github.com/craflin/LockFreeQueue) - A lock-free multi-producer multi-consumer ring buffer FIFO queue.
 
 # Event bus
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
