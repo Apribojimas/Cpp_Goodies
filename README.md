@@ -198,7 +198,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libchain](https://github.com/jbaldwin/libchain) - Easy to use std::string enhancements.
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
-* [NoesisGUI-NativeSDK](https://github.com/Epiphane/NCW/tree/53367105d08907d5bfdddea039f17523abd3b6ad/dependencies/noesisgui/3.0.6) - Simple and consistent way to present and interact with data using MVVM patterns. Provides a clean separation of business logic from UI.
+* [NoesisGUI-NativeSDK](https://github.com/Daspien27/HighPrice-Noesis/tree/c50074fa0c8ea1740cd18947f9dbf4044b94f693/ThirdParty/NoesisGUI-NativeSDK-win-3.0.12) - Simple and consistent way to present and interact with data using MVVM patterns. Provides a clean separation of business logic from UI.
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
 * [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
 * [lxgui](https://github.com/cschreib/lxgui) - GUI library
