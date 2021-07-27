@@ -53,6 +53,8 @@ Links to various cpp patterns or tutorials
 * [observer_ptr](https://github.com/martinmoene/observer-ptr-lite) - observer-ptr is a single-file header-only library with a variant of std::experimental::observer_ptr for C++98 and later.
 * [Observable Library](https://github.com/dacap/observable) - Library to use the observer pattern in C++11 programs with observable/observer classes or signals/slots.
 * [observer](https://github.com/PG1003/observer) - An observer pattern / signal slot pattern that can ignore extra parameters like Qt's signals and slots.
+* [prettybxp](https://github.com/prettybxp/sigslot) - An implementation of the observer pattern by c++11
+* [Proto](https://github.com/N-A-D/proto) - A dependency free, single-header C++17 signals and slots implementation.
 
 # Property
 * [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
@@ -64,6 +66,7 @@ Links to various cpp patterns or tutorials
 * [Event notifier](https://github.com/Stypox/event-notifier) - A C++ header-only library that lets you connect events to functions with a small and intuitive interface.
 * [gammasoft71_properties](https://github.com/gammasoft71/properties) - another c#-like property accessor for C++11 and above.
 * [Tectu](https://github.com/Tectu/cpp-properties) - A library that brings C# like properties to modern C++.
+* [PropertyEvent](https://github.com/DanIsraelMalta/Event) - This header only repository include the files required for the creation of an event system (not thread safe).
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
@@ -156,6 +159,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [vrm_core](https://github.com/SuperV1234/vrm_core) - Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
 * [bs::framework](https://github.com/GameFoundry/bsf) - library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools
 * [bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
+* [RxLib](https://github.com/intact-software-systems/cpp-software-patterns) - collection of cpp patterns
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
