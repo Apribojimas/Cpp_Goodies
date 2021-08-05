@@ -185,6 +185,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 ## LUA
 * [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
+* [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
 
 # On list
 * [SWIG](http://www.swig.org/)
