@@ -217,4 +217,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
 * [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
+* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
   
