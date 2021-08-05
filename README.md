@@ -182,8 +182,11 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
+## LUA
+* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
+* [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
 
-## On list
+# On list
 * [SWIG](http://www.swig.org/)
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
 * [eMQTT5](https://github.com/X-Ryl669/eMQTT5) - An embedded MQTTv5 client in C++ with minimal footprint, maximal performance
@@ -217,5 +220,3 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
 * [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
-* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
-  
