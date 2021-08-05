@@ -183,10 +183,12 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
 ## LUA
-* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
 * [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
+### LUA Object Oriented Programming (OOP)
+* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [LuaWOO](https://github.com/claudix/lua-woo) - A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.
+* [class2](https://github.com/MCJack123/class2) - Object-oriented programming for Lua/ComputerCraft. Version 2.
 
 # On list
 * [SWIG](http://www.swig.org/)
