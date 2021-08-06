@@ -189,6 +189,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [LuaWOO](https://github.com/claudix/lua-woo) - A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.
 * [class2](https://github.com/MCJack123/class2) - Object-oriented programming for Lua/ComputerCraft. Version 2.
+* [Luaoop](https://github.com/ImagicTheCat/Luaoop) - Lua library to do OOP (Object Oriented Programming).
 
 # On list
 * [SWIG](http://www.swig.org/)
