@@ -183,6 +183,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
 ## LUA
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 * [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
 * [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
 ### [LUA Object Oriented Programming (OOP)](http://lua-users.org/wiki/ObjectOrientedProgramming)
