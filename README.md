@@ -227,3 +227,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
 * [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
+* [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
