@@ -12,7 +12,7 @@ Links to various cpp patterns or tutorials
 * [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
 * [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) - The cheatsheet focus is both on the language as well as common classes from the standard library.
 * [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) - C++ examples cover a wide range of programming areas in Computer Science
-* [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) - This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.
+* [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) - This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.* 
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - The repository is a collection of open-source implementation of a variety of algorithms implemented in C++
 * [atomics](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md) - C++ links: atomics, lock free, memory model
 * [Cpp20](https://github.com/RainerGrimm/Cpp20) - This is the code repository for my book "C++20 - Get the Details" 
@@ -23,6 +23,7 @@ Links to various cpp patterns or tutorials
 * [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) - 30 Seconds of C++ (STL in C++)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - These design patterns are useful for building reliable, scalable, secure applications in the cloud.
 * Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context
+* [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
