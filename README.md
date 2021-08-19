@@ -187,6 +187,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [My Awesome Lua List](https://github.com/MegaBedder/my-awesome-lua) - My list of quality Lua packages and resources.
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 * [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
+* [RxLua](https://github.com/bjornbytes/rxlua) - Reactive Extensions for Lua
 * [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
 ### [LUA Object Oriented Programming (OOP)](http://lua-users.org/wiki/ObjectOrientedProgramming)
 * [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
