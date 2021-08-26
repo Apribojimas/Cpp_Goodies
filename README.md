@@ -76,6 +76,8 @@ Links to various cpp patterns or tutorials
 * [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
 * [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
 * [craflin](https://github.com/craflin/LockFreeQueue) - A lock-free multi-producer multi-consumer ring buffer FIFO queue.
+* [SPSC_Queue](https://github.com/MengRao/SPSC_Queue) - A highly optimized single producer single consumer message queue C++ template
+* [WFMPMC](https://github.com/MengRao/WFMPMC) - A bounded wait-free(almost) zero-copy MPMC queue written in C++11, which can also reside in SHM for IPC
 
 # Event bus
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
