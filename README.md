@@ -161,6 +161,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [bs::framework](https://github.com/GameFoundry/bsf) - library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools
 * [bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 * [RxLib](https://github.com/intact-software-systems/cpp-software-patterns) - collection of cpp patterns
+* [eCAL](https://github.com/continental/ecal) - eCAL - enhanced Communication Abstraction Layer
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
