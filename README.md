@@ -194,6 +194,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
 * [Factorio-Stdlib](https://github.com/Afforess/Factorio-Stdlib) - Factorio Standard Library Project 
 * [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
+* [date.lua](https://github.com/ReFreezed/LuaWebGen/blob/master/lib/date.lua) - date.lua
 ### [LUA Object Oriented Programming (OOP)](http://lua-users.org/wiki/ObjectOrientedProgramming)
 * [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [LuaWOO](https://github.com/claudix/lua-woo) - A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.
