@@ -27,7 +27,7 @@ Links to various cpp patterns or tutorials
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
-* [Templates for CMake projects](https://github.com/izvolov/mylib) - 
+* [Templates for CMake projects](https://github.com/izvolov/mylib) - Blog https://habr.com/ru/post/535602/
 
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
