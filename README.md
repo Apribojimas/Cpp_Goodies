@@ -25,6 +25,10 @@ Links to various cpp patterns or tutorials
 * Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context
 * [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 
+# CMake
+* [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
+* [Templates for CMake projects](https://github.com/izvolov/mylib) - 
+
 # Reactive systems
 * [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
 * [RxCpp](https://github.com/ReactiveX/RxCpp) - The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time
