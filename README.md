@@ -243,3 +243,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - zero-copy inter-process-communication
 * [pubsublite](https://github.com/subatomicdev/pubsublite) - Lightweight header-only for intra-process publish subscribe (within a single app). Supports channels with multiple publishers and subscribers.
+* [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
