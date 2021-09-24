@@ -169,6 +169,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 * [RxLib](https://github.com/intact-software-systems/cpp-software-patterns) - collection of cpp patterns
 * [eCAL](https://github.com/continental/ecal) - eCAL - enhanced Communication Abstraction Layer
+* [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.
 
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
