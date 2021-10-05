@@ -246,3 +246,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [pubsublite](https://github.com/subatomicdev/pubsublite) - Lightweight header-only for intra-process publish subscribe (within a single app). Supports channels with multiple publishers and subscribers.
 * [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
+* [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
