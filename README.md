@@ -248,3 +248,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
 * [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
+* [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
