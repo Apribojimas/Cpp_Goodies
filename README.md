@@ -114,6 +114,7 @@ Links to various cpp patterns or tutorials
 * [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
 * [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
 * [Theron](http://www.ashtonmason.net/portfolio/theron/) - For sources and doc http://www.ashtonmason.net/portfolio/theron/
+* [Theron++: An Actor Framework for C++](https://github.com/GeirHo/TheronPlusPlus) - Theron++ is an actor framework conforming to the Theron API with extensions for distributed communication
 * [RStein.AsyncCpp](https://github.com/renestein/Rstein.AsyncCpp) - threadless actors (agents)
 * [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
 * [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
@@ -125,7 +126,7 @@ Links to various cpp patterns or tutorials
 * [HAM-2015/CPP-Actor-framework](https://github.com/HAM-2015/CPP-Actor-framework) - 
 * [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
-* [Theron++: An Actor Framework for C++](https://github.com/GeirHo/TheronPlusPlus) - Theron++ is an actor framework conforming to the Theron API with extensions for distributed communication
+
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
