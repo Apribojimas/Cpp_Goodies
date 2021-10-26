@@ -84,6 +84,7 @@ Links to various cpp patterns or tutorials
 * [craflin](https://github.com/craflin/LockFreeQueue) - A lock-free multi-producer multi-consumer ring buffer FIFO queue.
 * [SPSC_Queue](https://github.com/MengRao/SPSC_Queue) - A highly optimized single producer single consumer message queue C++ template
 * [WFMPMC](https://github.com/MengRao/WFMPMC) - A bounded wait-free(almost) zero-copy MPMC queue written in C++11, which can also reside in SHM for IPC
+* [lockfree_mpmc_queue](https://github.com/erez-strauss/lockfree_mpmc_queue) - Lockfree, atomic, multi producer, multi consumer, C++, in process and inter-process queue
 
 # Event bus
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
