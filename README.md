@@ -95,6 +95,7 @@ Links to various cpp patterns or tutorials
 * [PubBus](https://github.com/eXpl0it3r/PubBus) - PubBus is a simple, header-only implementation of a MessageBus.
 * [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
+* [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
 
 # Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
