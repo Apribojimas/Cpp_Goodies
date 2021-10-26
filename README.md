@@ -153,6 +153,7 @@ Links to various cpp patterns or tutorials
 * [HFSM2](https://github.com/andrew-gresyk/HFSM2) - Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.
 * [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
 * [State machine](https://github.com/AdamsPL/state-machine/) - This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.
+* [HSMCPP](https://github.com/igor-krechetov/hsmcpp) - C++ based Hierarchical / Finite State Machine library oriented for embedded and RTOS systems.
 
 # Libraries
 library: a collection of types, functions, classes, etc. implementing a set of facilities (abstractions) meant to be potentially used as part of more that one program.
