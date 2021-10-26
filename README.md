@@ -37,6 +37,7 @@ Links to various cpp patterns or tutorials
 * [schlangster](https://github.com/schlangster/cpp.react) - Data dependencies between state and event flows
 * [snakster](https://github.com/snakster/cpp.react) - C++React is reactive programming library for C++14
 * [Elma](https://github.com/klavinslab/elma) - Elma is an event loop and process manager for embedded and reactive systems.
+* [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++
 
 # Delegate
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
