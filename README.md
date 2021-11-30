@@ -129,7 +129,7 @@ Links to various cpp patterns or tutorials
 * [HAM-2015/CPP-Actor-framework](https://github.com/HAM-2015/CPP-Actor-framework) - 
 * [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
-
+* [μActor](https://github.com/uActor/uActor) - μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
