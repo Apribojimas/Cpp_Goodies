@@ -130,6 +130,7 @@ Links to various cpp patterns or tutorials
 * [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
 * [μActor](https://github.com/uActor/uActor) - μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.
+* [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
