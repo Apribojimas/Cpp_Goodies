@@ -2,6 +2,7 @@
 Links to various cpp patterns or tutorials
 
 # Tutorials / Links collections
+* [C++ Developer Roadmap](https://salmer.github.io/CppDeveloperRoadmap/) - “Where should I start? What and in what order should I study? What books should I read?”
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
