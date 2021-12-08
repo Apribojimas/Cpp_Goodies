@@ -75,6 +75,7 @@ Links to various cpp patterns or tutorials
 * [gammasoft71_properties](https://github.com/gammasoft71/properties) - another c#-like property accessor for C++11 and above.
 * [Tectu](https://github.com/Tectu/cpp-properties) - A library that brings C# like properties to modern C++.
 * [PropertyEvent](https://github.com/DanIsraelMalta/Event) - This header only repository include the files required for the creation of an event system (not thread safe).
+* [RGBBinding](https://github.com/Epiphane/NCW/tree/master/source/Library/RGBBinding) - Rapidjson property binding
 
 # MPMC queue (multi-consumer multi-producer)
 * [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
