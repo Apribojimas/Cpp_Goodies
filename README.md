@@ -260,3 +260,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
+* [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
