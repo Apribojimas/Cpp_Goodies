@@ -186,6 +186,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
 * [ghidra-sre](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 * [JsonGrid](https://jsongrid.com/) - All-in-One Json solutions online
+* [sqlwatch.io](https://sqlwatch.io/) - Monitor and learn SQL Server for free.
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
