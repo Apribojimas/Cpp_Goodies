@@ -140,6 +140,7 @@ Links to various cpp patterns or tutorials
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
 * [zpp serializer](https://github.com/eyalz800/serializer) - A single header only standard C++ serialization framework.
 * [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
+* [DAW JSON Link v2](https://github.com/beached/daw_json_link) - Fast JSON serialization and parsing in C++
 
 # JSON
 * [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
