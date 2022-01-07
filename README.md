@@ -230,10 +230,9 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Luaoop](https://github.com/ImagicTheCat/Luaoop) - Lua library to do OOP (Object Oriented Programming).
 
 # On list
-* [SWIG](http://www.swig.org/)
+* [SWIG](http://www.swig.org/) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
 * [eMQTT5](https://github.com/X-Ryl669/eMQTT5) - An embedded MQTTv5 client in C++ with minimal footprint, maximal performance
-* [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana is a collection of general purpose C++ utilities
 * [xenium](https://github.com/mpoeter/xenium) - xenium is a header-only library that provides a collection of concurrent data structures and memory reclamation algorithms
 * [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmbeddedInfraLib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
 * [WLib](https://github.com/wloop/wlib) - The goal of WLib is to create a lighter and safer alternative to C++ STL. 
