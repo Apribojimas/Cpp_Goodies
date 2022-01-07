@@ -139,6 +139,11 @@ Links to various cpp patterns or tutorials
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
 * [zpp serializer](https://github.com/eyalz800/serializer) - A single header only standard C++ serialization framework.
+* [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
+* 
+# JSON
+* [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
+* [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
@@ -201,10 +206,11 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
 * [theCore](https://github.com/theCore-embedded/theCore) - framework for various microcontroller applications, with or without RTOS (bare-metal).
 * [libcpp](https://github.com/peterzuger/libcpp) - C++ standard library for embedded systems
-## Not recommend due to code bloat -> anything what's starts "header only"
+## Avoid anything what's starts "header only". Code bloat! Pure design! Too abstract!
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
 * [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
+* [RapidJSON](https://github.com/Tencent/rapidjson) - Low quality code, requires lot of extra coding for proper usages, JSON parsing performance gains are diminishing. 
 ## LUA
 * [My Awesome Lua List](https://github.com/MegaBedder/my-awesome-lua) - My list of quality Lua packages and resources.
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
@@ -257,9 +263,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - zero-copy inter-process-communication
 * [pubsublite](https://github.com/subatomicdev/pubsublite) - Lightweight header-only for intra-process publish subscribe (within a single app). Supports channels with multiple publishers and subscribers.
-* [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
-* [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
-* [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
