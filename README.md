@@ -140,10 +140,13 @@ Links to various cpp patterns or tutorials
 * [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
 * [zpp serializer](https://github.com/eyalz800/serializer) - A single header only standard C++ serialization framework.
 * [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
-* 
+
 # JSON
 * [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
 * [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
+* [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
+* [coreJSON Library](https://github.com/FreeRTOS/coreJSON) - a parser that strictly enforces the ECMA-404 JSON standard and is suitable for low memory footprint embedded devices.
+* MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
@@ -263,6 +266,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - zero-copy inter-process-communication
 * [pubsublite](https://github.com/subatomicdev/pubsublite) - Lightweight header-only for intra-process publish subscribe (within a single app). Supports channels with multiple publishers and subscribers.
-* [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
