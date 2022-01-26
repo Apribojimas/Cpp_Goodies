@@ -199,6 +199,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [ghidra-sre](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 * [JsonGrid](https://jsongrid.com/) - All-in-One Json solutions online
 * [sqlwatch.io](https://sqlwatch.io/) - Monitor and learn SQL Server for free.
+* [DevToys](https://devtoys.app/) - An Open-Source Swiss Army knife for developers.
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
