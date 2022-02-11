@@ -277,3 +277,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
+* [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
