@@ -114,6 +114,7 @@ Links to various cpp patterns or tutorials
 * [Marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11.
 * [q](https://github.com/grantila/q) - A platform-independent promise library for C++, implementing asynchronous continuations.
 * [enkiTS](https://github.com/dougbinks/enkiTS) - Task Scheduler for creating parallel programs
+* [lockfreepool](https://github.com/leaout/lockfreepool) - a lockfree thread pool
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
