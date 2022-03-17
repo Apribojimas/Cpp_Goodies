@@ -147,6 +147,7 @@ Links to various cpp patterns or tutorials
 * [DAW JSON Link v2](https://github.com/beached/daw_json_link) - Fast JSON serialization and parsing in C++
 
 # JSON
+* [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
 * [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
 * [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
