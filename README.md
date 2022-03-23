@@ -287,3 +287,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
 * [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
 * [DAW JSON Link v2](https://github.com/beached/daw_json_link) - The DAW JSON Link library provides parsing of JSON directly to your C++ data structures.
+* [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++
