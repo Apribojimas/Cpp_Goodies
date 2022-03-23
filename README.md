@@ -27,6 +27,7 @@ Links to various cpp patterns or tutorials
 * Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context
 * [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 * [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md) - This repository meets the need of people who wants to really know about C++
+* [Operators](https://github.com/taocpp/operators) - A highly efficient, move-aware operators library
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
