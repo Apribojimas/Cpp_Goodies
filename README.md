@@ -157,6 +157,7 @@ Links to various cpp patterns or tutorials
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
+* [USRefl](https://github.com/Ubpa/USRefl) - Header-only, tiny (99 lines) and powerful C++20 static reflection library.
 
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
