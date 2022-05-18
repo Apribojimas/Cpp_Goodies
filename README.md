@@ -28,6 +28,7 @@ Links to various cpp patterns or tutorials
 * [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 * [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md) - This repository meets the need of people who wants to really know about C++
 * [Operators](https://github.com/taocpp/operators) - A highly efficient, move-aware operators library
+* [C++ Patterns - Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns curated by the community.
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
