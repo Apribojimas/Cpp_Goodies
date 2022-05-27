@@ -225,6 +225,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
 * [theCore](https://github.com/theCore-embedded/theCore) - framework for various microcontroller applications, with or without RTOS (bare-metal).
 * [libcpp](https://github.com/peterzuger/libcpp) - C++ standard library for embedded systems
+* [Real-Time-C++](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
 ## Avoid anything what's starts "header only". Code bloat! Pure design! Too abstract!
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
