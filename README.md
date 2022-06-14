@@ -172,6 +172,7 @@ Links to various cpp patterns or tutorials
 
 # Logging
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+* [Binlog](https://github.com/morganstanley/binlog) - A high performance C++ log library, producing structured binary logs
 
 # Date
 * [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
