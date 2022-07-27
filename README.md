@@ -232,6 +232,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [freertos_cpp_util](https://github.com/jacobschloss/freertos_cpp_util) - A collection of C++ wrappers and utility code for FreeRTOS.
 * [FreeRTOScpp](https://github.com/richard-damon/FreeRTOScpp) - FreeRTOS C++ Wrappers
 * [Book 'Building real-time embedded systems'](https://www.packtpub.com/product/hands-on-rtos-with-microcontrollers/9781838826734) - Hands-On RTOS with Microcontrollers: Building real-time embedded systems
+* [C++ FreeRTOS GCC](https://github.com/grygorek/FreeRTOS_cpp11) - Enable GCC C++ STL multitasking library in FreeRTOS projects
 ## Avoid anything what's starts "header only". Code bloat! Pure design! Too abstract!
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
 * [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
