@@ -221,6 +221,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra Software Reverse Engineering Framework
 
 # Embedded
+* [Awesome embedded software list](https://github.com/iDoka/awesome-embedded-software) - attempt to create list of software (HW, libs, protocols, etc) for Embedded Systems
 ## Embedded oriented libs
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
