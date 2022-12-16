@@ -110,6 +110,7 @@ Links to various cpp patterns or tutorials
 * [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 * [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
+* [PhxQueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
 
 # Threading and concurancy
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
