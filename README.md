@@ -124,6 +124,7 @@ Links to various cpp patterns or tutorials
 * [q](https://github.com/grantila/q) - A platform-independent promise library for C++, implementing asynchronous continuations.
 * [enkiTS](https://github.com/dougbinks/enkiTS) - Task Scheduler for creating parallel programs
 * [lockfreepool](https://github.com/leaout/lockfreepool) - a lockfree thread pool
+* [BlockingCollection](https://github.com/CodeExMachina/BlockingCollection) - C++11 thread safe, multi-producer, multi-consumer blocking queue, stack & priority queue class
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
