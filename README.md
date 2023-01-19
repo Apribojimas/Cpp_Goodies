@@ -312,3 +312,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [UNITS](https://github.com/nholthaus/units) - A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 * [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
+* [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
