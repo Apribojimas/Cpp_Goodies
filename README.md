@@ -146,7 +146,6 @@ Links to various cpp patterns or tutorials
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
 * [μActor](https://github.com/uActor/uActor) - μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.
 * [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
-* [Asynchronous Agents Library](https://docs.microsoft.com/en-us/cpp/parallel/concrt/asynchronous-agents-library) - Use the Agents library when you have multiple operations that must communicate with one another asynchronously
 * [nano-caf-2](https://github.com/godsme/nano-caf-2) - a simple C++ actor framework for embedded system.
 
 # Serialization
