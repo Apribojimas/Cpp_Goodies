@@ -125,6 +125,7 @@ Links to various cpp patterns or tutorials
 * [lockfreepool](https://github.com/leaout/lockfreepool) - a lockfree thread pool
 * [BlockingCollection](https://github.com/CodeExMachina/BlockingCollection) - C++11 thread safe, multi-producer, multi-consumer blocking queue, stack & priority queue class
 * [Smart Thread Pool](https://github.com/Leosocy/SmartThreadPool) - A smart C++11 thread pool. Efficiently schedule your threads using "Classify Thread Pool", "Priority Task Queue". And also provide "Self-Adaption Pool Capacity" policy, "State Monitor" of tasks and workers function.
+* [Grid Dispatcher](https://github.com/paintdream/grid_dispatcher) - Grid dispatcher is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher.
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
