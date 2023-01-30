@@ -124,6 +124,7 @@ Links to various cpp patterns or tutorials
 * [enkiTS](https://github.com/dougbinks/enkiTS) - Task Scheduler for creating parallel programs
 * [lockfreepool](https://github.com/leaout/lockfreepool) - a lockfree thread pool
 * [BlockingCollection](https://github.com/CodeExMachina/BlockingCollection) - C++11 thread safe, multi-producer, multi-consumer blocking queue, stack & priority queue class
+* [Smart Thread Pool](https://github.com/Leosocy/SmartThreadPool) - A smart C++11 thread pool. Efficiently schedule your threads using "Classify Thread Pool", "Priority Task Queue". And also provide "Self-Adaption Pool Capacity" policy, "State Monitor" of tasks and workers function.
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
