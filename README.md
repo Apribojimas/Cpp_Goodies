@@ -312,3 +312,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
 * [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+* [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
