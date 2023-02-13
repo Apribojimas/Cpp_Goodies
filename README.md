@@ -31,6 +31,7 @@ Links to various cpp patterns or tutorials
 * [Operators](https://github.com/taocpp/operators) - A highly efficient, move-aware operators library
 * [C++ Patterns - Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns curated by the community.
 * [CPP/C](https://github.com/akshitagit/CPP) - Repository for C++/C codes and algos.
+* [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes) - Notes about modern C++, C++11, C++14 and C++17, Boost Libraries, ABI, foreign function interface and reference cards.
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
