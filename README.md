@@ -172,6 +172,9 @@ Links to various cpp patterns or tutorials
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
 * [USRefl](https://github.com/Ubpa/USRefl) - Header-only, tiny (99 lines) and powerful C++20 static reflection library.
 
+# Dependency Injection (DI)
+* [injector](https://github.com/demurzasty/injector) - Header-only, tiny and easy to use library for dependency injection written in C++17.
+
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
 * [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
