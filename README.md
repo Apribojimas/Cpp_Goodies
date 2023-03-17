@@ -32,6 +32,7 @@ Links to various cpp patterns or tutorials
 * [C++ Patterns - Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns curated by the community.
 * [CPP/C](https://github.com/akshitagit/CPP) - Repository for C++/C codes and algos.
 * [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes) - Notes about modern C++, C++11, C++14 and C++17, Boost Libraries, ABI, foreign function interface and reference cards.
+* [Dependency Injection Pattern](https://www.codeproject.com/Articles/5333947/Dependency-Injection-Pattern-in-Csharp-Short-Tutor) - tutorial on Dependency Injection Pattern and related topics: Dependency inversion principle (DIP), Inversion of control (IoC) principle, and Dependency Injection Container (aka IoC container).
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
