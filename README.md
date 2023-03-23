@@ -176,6 +176,7 @@ Links to various cpp patterns or tutorials
 # Dependency Injection (DI)
 * [injector](https://github.com/demurzasty/injector) - Header-only, tiny and easy to use library for dependency injection written in C++17.
 * [inject](https://github.com/z9u2k/inject) - Dependency injection for C++ - no macros, no code generation, no common base class
+* [inversify-cpp](https://github.com/mosure/inversify-cpp) - C++17 inversion of control and dependency injection container library.
 
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
