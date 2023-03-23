@@ -173,7 +173,7 @@ Links to various cpp patterns or tutorials
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
 * [USRefl](https://github.com/Ubpa/USRefl) - Header-only, tiny (99 lines) and powerful C++20 static reflection library.
 
-# Dependency Injection (DI)
+# Dependency Injection (DI), Inversion of Control, Lifecycle management
 * [injector](https://github.com/demurzasty/injector) - Header-only, tiny and easy to use library for dependency injection written in C++17.
 * [inject](https://github.com/z9u2k/inject) - Dependency injection for C++ - no macros, no code generation, no common base class
 * [inversify-cpp](https://github.com/mosure/inversify-cpp) - C++17 inversion of control and dependency injection container library.
