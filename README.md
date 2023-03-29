@@ -160,6 +160,7 @@ Links to various cpp patterns or tutorials
 * [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
 * [DAW JSON Link v2](https://github.com/beached/daw_json_link) - Fast JSON serialization and parsing in C++
 * [alpaca](https://github.com/p-ranav/alpaca) - Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code
+* [zpp::bits](https://github.com/eyalz800/zpp_bits) - A lightweight C++20 serialization and RPC library
 
 # JSON
 * [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
