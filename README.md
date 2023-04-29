@@ -240,6 +240,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 
 # Embedded
 * [Awesome embedded software list](https://github.com/iDoka/awesome-embedded-software) - attempt to create list of software (HW, libs, protocols, etc) for Embedded Systems
+* [STM32Cube MCU Overall Offer](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer) - This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products
 ## Embedded oriented libs
 * [ETL](https://www.etlcpp.com/) - Embedded Template Library
 * [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
