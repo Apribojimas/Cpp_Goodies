@@ -167,6 +167,7 @@ Links to various cpp patterns or tutorials
 * [DAW JSON Link v2](https://github.com/beached/daw_json_link) - Fast JSON serialization and parsing in C++
 * [alpaca](https://github.com/p-ranav/alpaca) - Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code
 * [zpp::bits](https://github.com/eyalz800/zpp_bits) - A lightweight C++20 serialization and RPC library. [zpp serializer](https://github.com/eyalz800/serializer) - same C++17
+* [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
 
 # JSON
 * [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -313,11 +314,9 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
 * [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - zero-copy inter-process-communication
-* [pubsublite](https://github.com/subatomicdev/pubsublite) - Lightweight header-only for intra-process publish subscribe (within a single app). Supports channels with multiple publishers and subscribers.
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
