@@ -172,6 +172,7 @@ Links to various cpp patterns or tutorials
 * [zpp::bits](https://github.com/eyalz800/zpp_bits) - A lightweight C++20 serialization and RPC library. [zpp serializer](https://github.com/eyalz800/serializer) - same C++17
 * [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
 * [Cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
+* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 
 # JSON
 * [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -235,6 +236,15 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.
 * [C++ utilities](https://github.com/Martchus/cpp-utilities) - Useful C++ classes and routines such as argument parser, IO and conversion utilities.
 
+# GUI
+* [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
+* [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
+* [lxgui](https://github.com/cschreib/lxgui) - GUI library
+* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+* [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+* [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
+* [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
+
 ## Software
 * [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
 * [ghidra-sre](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
@@ -295,40 +305,31 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libunifex](https://github.com/facebookexperimental/libunifex) - The 'libunifex' project is a prototype implementation of the C++ sender/receiver async programming model
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns
 * [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
+* [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
+* [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [FastFlow](https://github.com/fastflow/fastflow) - FastFlow: high-performance parallel patterns and building blocks in C++
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
-* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
 * [string_utils](https://github.com/mwkpe/string-utils) - Utility functions for strings using on C++17 <string_view> and <charconv> to avoid unnecessary string copies.
 * [pystring](https://github.com/imageworks/pystring) - Pystring is a collection of C++ functions which match the interface and behavior of python's string class methods using std::string.
 * [libchain](https://github.com/jbaldwin/libchain) - Easy to use std::string enhancements.
 * [PureMVC](https://github.com/PureMVC/puremvc-cpp-multicore-framework) - PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern.
 * [PureMVC++](https://github.com/schell/PureMVC-Plus-Plus) - C++ version of the PureMVC architecture.
 * [NoesisGUI-NativeSDK](https://github.com/Daspien27/HighPrice-Noesis/tree/c50074fa0c8ea1740cd18947f9dbf4044b94f693/ThirdParty/NoesisGUI-NativeSDK-win-3.0.12) - Simple and consistent way to present and interact with data using MVVM patterns. Provides a clean separation of business logic from UI.
-* [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
-* [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
-* [lxgui](https://github.com/cschreib/lxgui) - GUI library
 * [elapsed_timer](https://github.com/maurodelazeri/elapsed_timer) - Elapsed time for code blocks execution written in C++11
 * [simple_match](https://github.com/jbandela/simple_match) - Simple, Extensible C++ Pattern Matching Library
 * [flags](https://github.com/sailormoon/flags) - Command line parser
 * [csv2](https://github.com/p-ranav/csv2) - csv reader/writer
 * [dtl](https://github.com/cubicdaiya/dtl) - DIFF template library written
 * [libjwdpmi](https://github.com/jwt27/libjwdpmi) - This library aims to be a complete development framework for DPMI (32-bit DOS) applications, written in C++20.
-* [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
-* [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
 * [sanitizers](https://github.com/google/sanitizers) - Google android AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - zero-copy inter-process-communication
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
-* [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 * [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
-* [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
 * [UNITS](https://github.com/nholthaus/units) - A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
-* [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
-* [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
 * [coralkashri](https://github.com/coralkashri?tab=repositories) - FS developer - a passionate Linux C++ RT developer.
