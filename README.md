@@ -117,6 +117,7 @@ Links to various cpp patterns or tutorials
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
 * [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
 * [PhxQueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
+* [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
 
 # Threading, concurancy, task execution
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
@@ -305,7 +306,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [flags](https://github.com/sailormoon/flags) - Command line parser
 * [csv2](https://github.com/p-ranav/csv2) - csv reader/writer
 * [dtl](https://github.com/cubicdaiya/dtl) - DIFF template library written
-* [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
 * [libjwdpmi](https://github.com/jwt27/libjwdpmi) - This library aims to be a complete development framework for DPMI (32-bit DOS) applications, written in C++20.
 * [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [Veho](https://github.com/notfoundry/veho) - Auto-optimizing modern C++11 CAN interface generator
