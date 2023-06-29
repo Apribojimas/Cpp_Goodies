@@ -160,6 +160,7 @@ Links to various cpp patterns or tutorials
 * [Sactor](https://github.com/r12f/sactor) - A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.
 * [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
+* [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
@@ -321,7 +322,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
-* [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 * [Cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 * [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
