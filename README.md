@@ -276,6 +276,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Factorio-Stdlib](https://github.com/Afforess/Factorio-Stdlib) - Factorio Standard Library Project 
 * [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 * [date.lua](https://github.com/ReFreezed/LuaWebGen/blob/master/lib/date.lua) - date.lua
+* [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
 ### [LUA Object Oriented Programming (OOP)](http://lua-users.org/wiki/ObjectOrientedProgramming)
 * [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
 * [LuaWOO](https://github.com/claudix/lua-woo) - A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.
@@ -319,7 +320,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [Arcana.cpp](https://github.com/microsoft/arcana.cpp) - Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony.
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
-* [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
