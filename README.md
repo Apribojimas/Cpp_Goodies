@@ -158,6 +158,8 @@ Links to various cpp patterns or tutorials
 * [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
 * [nano-caf-2](https://github.com/godsme/nano-caf-2) - a simple C++ actor framework for embedded system.
 * [Sactor](https://github.com/r12f/sactor) - A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.
+* [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
+* [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
@@ -319,14 +321,12 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
-* [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
 * [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 * [Cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 * [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
 * [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
 * [UNITS](https://github.com/nholthaus/units) - A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
-* [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
 * [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
