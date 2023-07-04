@@ -329,6 +329,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
 * [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
+* [TinyExpr](https://github.com/codeplea/tinyexpr) - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
 * [UNITS](https://github.com/nholthaus/units) - A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
