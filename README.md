@@ -186,6 +186,7 @@ Links to various cpp patterns or tutorials
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
 * [USRefl](https://github.com/Ubpa/USRefl) - Header-only, tiny (99 lines) and powerful C++20 static reflection library.
+* [meta.hpp](https://github.com/BlackMATov/meta.hpp) - C++20 Dynamic Reflection Library
 
 # Dependency Injection (DI), Inversion of Control, Lifecycle management
 * [injector](https://github.com/demurzasty/injector) - Header-only, tiny and easy to use library for dependency injection written in C++17.
