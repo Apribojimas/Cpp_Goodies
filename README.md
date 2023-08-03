@@ -36,6 +36,7 @@ Links to various cpp patterns or tutorials
 * [Dependency Injection - a 25-dollar term for a 5-cent concept](https://github.com/bobbyzhu/cppnow_presentations_2019/blob/master/05-06-2019_monday/Dependency_Injection_a_25-dollar_Term_for_a_5-cent_Concept__Kris_Jusiak__cppnow_05062019.pdf) - examples of DI implementation with pros/cons
 * [Programming in C/C++ Efficiently](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.
 * [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053/) - 60 terrible coding tips — and explanations of why they are terrible
+* [C++ performance guidelines](https://fekir.info/post/cpp-perf-guidelines/) - about avoiding pessimization, and fixing low hanging-fruits for improving performance.
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
