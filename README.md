@@ -37,6 +37,7 @@ Links to various cpp patterns or tutorials
 * [Programming in C/C++ Efficiently](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.
 * [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053/) - 60 terrible coding tips — and explanations of why they are terrible
 * [C++ performance guidelines](https://fekir.info/post/cpp-perf-guidelines/) - about avoiding pessimization, and fixing low hanging-fruits for improving performance.
+* [Igor's C++ Grimoire](http://knockknock.org.uk/igor.html) - Igor's C++ Grimoire aims to be a reasonably complete reference to C++11, C++14 and C++17
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
