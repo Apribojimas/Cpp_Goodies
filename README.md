@@ -204,6 +204,7 @@ Links to various cpp patterns or tutorials
 * [Design-Patterns](https://github.com/arxitect/Design-Patterns) - Design patterns in the C++ programming language
 
 # Logging
+* [Reckless logging](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 * [Binlog](https://github.com/morganstanley/binlog) - A high performance C++ log library, producing structured binary logs
 
