@@ -205,6 +205,7 @@ Links to various cpp patterns or tutorials
 
 # Logging
 * [Reckless logging](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
+* [ulog](https://github.com/shawnfeng0/ulog) - Micro C/C++ log library suitable for use with lightweight embedded devices.
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 * [Binlog](https://github.com/morganstanley/binlog) - A high performance C++ log library, producing structured binary logs
 
