@@ -340,3 +340,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
 * [coralkashri](https://github.com/coralkashri?tab=repositories) - FS developer - a passionate Linux C++ RT developer.
+* [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
