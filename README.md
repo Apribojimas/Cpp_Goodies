@@ -38,6 +38,7 @@ Links to various cpp patterns or tutorials
 * [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053/) - 60 terrible coding tips — and explanations of why they are terrible
 * [C++ performance guidelines](https://fekir.info/post/cpp-perf-guidelines/) - about avoiding pessimization, and fixing low hanging-fruits for improving performance.
 * [Igor's C++ Grimoire](http://knockknock.org.uk/igor.html) - Igor's C++ Grimoire aims to be a reasonably complete reference to C++11, C++14 and C++17
+* [LearnCpp](https://www.learncpp.com/) - Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
