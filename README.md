@@ -342,3 +342,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Waffle++ code generator](https://github.com/Izaron/WafflePlusPlus) - Waffle++ is a C++ code generation framework and tool
 * [coralkashri](https://github.com/coralkashri?tab=repositories) - FS developer - a passionate Linux C++ RT developer.
 * [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
+* [cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
