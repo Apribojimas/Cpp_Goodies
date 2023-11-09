@@ -167,6 +167,7 @@ Links to various cpp patterns or tutorials
 * [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [Light Actor Framework](https://github.com/tyckesak/laugh) - Laughably simple yet effective Actor concurrency framework for C++20
 * [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
+* [coroactors](https://github.com/snaury/coroactors) - Experimental actors with C++ coroutines
 
 # Serialization
 * [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
