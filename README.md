@@ -349,3 +349,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
 * [cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
 * [corona](https://github.com/marangisto/corona) - Zero Cost HAL
+* [liballocator](https://github.com/kubasejdak/liballocator) - C++ memory allocator for embedded systems
