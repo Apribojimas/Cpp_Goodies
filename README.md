@@ -190,9 +190,10 @@ Links to various cpp patterns or tutorials
 * MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 
-# Key/Value db is alternative for JSON
+# Key/Value store is alternative for JSON
 * [LevelDB](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 * [UnQLite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
+* [CalicoDB](https://github.com/andy-byers/CalicoDB) - A tiny embedded, transactional key-value database
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
