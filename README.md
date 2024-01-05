@@ -192,6 +192,7 @@ Links to various cpp patterns or tutorials
 
 # Key/Value db is alternative for JSON
 * [LevelDB](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [UnQLite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
