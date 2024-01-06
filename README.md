@@ -190,7 +190,8 @@ Links to various cpp patterns or tutorials
 * MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 
-# Key/Value store is alternative for JSON
+# Key/Value store
+Sometimes key/value store can replace configuration files, flat-file database, json files, log files
 * [FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data
 * [LevelDB](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 * [UnQLite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
@@ -198,6 +199,7 @@ Links to various cpp patterns or tutorials
 * [alphaKV](https://github.com/zhouxingtuan/alphaKV) - A simple key-value database, fast and lightweight.
 * [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 * [SKVDB](https://github.com/negativ/skvdb) - Embedded simple key-value database library written in C++17.
+* [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
