@@ -360,3 +360,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [corona](https://github.com/marangisto/corona) - Zero Cost HAL
 * [liballocator](https://github.com/kubasejdak/liballocator) - C++ memory allocator for embedded systems
 * [EventBus](https://github.com/gelldur/EventBus) - A lightweight and very fast event bus / event framework for C++17
+* [db2023](https://github.com/sjk7/db2023) - Simple flat-file C++ database
