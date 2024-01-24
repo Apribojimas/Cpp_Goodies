@@ -365,4 +365,3 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [EventBus](https://github.com/gelldur/EventBus) - A lightweight and very fast event bus / event framework for C++17
 * [db2023](https://github.com/sjk7/db2023) - Simple flat-file C++ database
 * [json_dto](https://github.com/Stiffstream/json_dto) - A small header-only library for converting data between json representation and c++ structs
-* [zpp::bits](https://github.com/eyalz800/zpp_bits) - A lightweight C++20 serialization and RPC library
