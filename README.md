@@ -201,6 +201,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [SKVDB](https://github.com/negativ/skvdb) - Embedded simple key-value database library written in C++17.
 * [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store
+* [Litecask](https://github.com/dfeneyrou/litecask) - A high performance single-header embeddable persistent key-value store with indexing capabilities
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
