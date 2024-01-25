@@ -298,6 +298,8 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [FreeRTOScpp](https://github.com/richard-damon/FreeRTOScpp) - FreeRTOS C++ Wrappers
 * [Book 'Building real-time embedded systems'](https://www.packtpub.com/product/hands-on-rtos-with-microcontrollers/9781838826734) - Hands-On RTOS with Microcontrollers: Building real-time embedded systems
 * [C++ FreeRTOS GCC](https://github.com/grygorek/FreeRTOS_cpp11) - Enable GCC C++ STL multitasking library in FreeRTOS projects
+## HAL
+* [corona](https://github.com/marangisto/corona) - Zero Cost HAL
 * [STM_HAL](https://github.com/polybassa/STM_HAL) - C++ Hardware Abstraction Layer and Framework for STM32F3 and STM32F1 with FreeRTOS
 ## Avoid anything what's starts "header only". Code bloat! Pure design! Too abstract!
 * [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
@@ -361,6 +363,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [coralkashri](https://github.com/coralkashri?tab=repositories) - FS developer - a passionate Linux C++ RT developer.
 * [disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
 * [cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
-* [corona](https://github.com/marangisto/corona) - Zero Cost HAL
 * [liballocator](https://github.com/kubasejdak/liballocator) - C++ memory allocator for embedded systems
 * [json_dto](https://github.com/Stiffstream/json_dto) - A small header-only library for converting data between json representation and c++ structs
