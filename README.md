@@ -366,3 +366,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [cpp-dump](https://github.com/philip82148/cpp-dump) - An all-round dump function library for C++ that supports even user-defined classes.
 * [liballocator](https://github.com/kubasejdak/liballocator) - C++ memory allocator for embedded systems
 * [json_dto](https://github.com/Stiffstream/json_dto) - A small header-only library for converting data between json representation and c++ structs
+* [lmdb](https://github.com/LMDB/lmdb) - Symas LMDB is an extraordinarily fast, memory-efficient database
