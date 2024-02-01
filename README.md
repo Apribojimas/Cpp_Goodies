@@ -228,6 +228,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 * [Binlog](https://github.com/morganstanley/binlog) - A high performance C++ log library, producing structured binary logs
 * [NanoLog](https://github.com/Iyengar111/NanoLog) - Low Latency C++11 Logging Library
+* [NanoLogLite](https://github.com/MengRao/NanoLogLite) - A revised version of NanoLog which writes human readable log file, and is easier to use.
 
 # Date
 * [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
