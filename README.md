@@ -369,3 +369,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [liballocator](https://github.com/kubasejdak/liballocator) - C++ memory allocator for embedded systems
 * [json_dto](https://github.com/Stiffstream/json_dto) - A small header-only library for converting data between json representation and c++ structs
 * [lmdb](https://github.com/LMDB/lmdb) - Symas LMDB is an extraordinarily fast, memory-efficient database. [lmdb++](https://github.com/drycpp/lmdbxx) - a C++11 wrapper for LMDB
+* [Serenity_Logger](https://github.com/USAFrenzy/Serenity_Logger) - Yet another Fast and Efficient logging framework.
