@@ -371,3 +371,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [lmdb](https://github.com/LMDB/lmdb) - Symas LMDB is an extraordinarily fast, memory-efficient database. [lmdb++](https://github.com/drycpp/lmdbxx) - a C++11 wrapper for LMDB
 * [Serenity_Logger](https://github.com/USAFrenzy/Serenity_Logger) - Yet another Fast and Efficient logging framework.
 * [BS::thread_pool](https://github.com/bshoshany/thread-pool) - BS::thread_pool: a fast, lightweight, and easy-to-use C++17 thread pool library
+* [SML2 (UML-2.5 State Machine Language)](https://github.com/boost-ext/sml2) - sml2: C++20 State Machine library
