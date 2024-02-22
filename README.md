@@ -268,7 +268,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [lxgui](https://github.com/cschreib/lxgui) - GUI library
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 * [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
-* [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
 * [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
 
 ## Software
