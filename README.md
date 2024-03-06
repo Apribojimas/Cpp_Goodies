@@ -373,3 +373,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [SML2 (UML-2.5 State Machine Language)](https://github.com/boost-ext/sml2) - sml2: C++20 State Machine library
 * [YAS](https://github.com/niXman/yas) - Yet Another Serialization
 * [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
+* [DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
