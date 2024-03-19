@@ -375,3 +375,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
 * [DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
 * [reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection.
+* [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library
