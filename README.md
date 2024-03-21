@@ -378,3 +378,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [DesignPattern](https://github.com/FengJungle/DesignPattern) - Design pattern demo code
 * [reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection.
 * [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library
+* [SDB (string database)](https://github.com/rizinorg/sdb) - Simple string-based Key/Value database
