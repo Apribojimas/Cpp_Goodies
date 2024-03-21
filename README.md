@@ -205,6 +205,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [EmbedDB](https://github.com/ubco-db/EmbedDB) - EmbedDB Embedded Database for IoT and Sensors Supporting Key-Value and Relational Data
 * [EasyFlash](https://github.com/armink/EasyFlash) - Lightweight IoT device information storage solution: KV/IAP/LOG.
 * [IncludeDB](https://github.com/PitilessPeanut/IncludeDB) - Tiny key/value-store in a single, embeddable C file. For games, small servers, sbc, etc...
+* [pupa key-value library](https://github.com/agile6v/pupa) - A simple and efficient key-value library that can be easily integrated into your projects.
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
