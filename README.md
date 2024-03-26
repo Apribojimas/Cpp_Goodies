@@ -381,3 +381,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection.
 * [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library
 * [SDB (string database)](https://github.com/rizinorg/sdb) - Simple string-based Key/Value database
+* [MLIB - Multi-purpose Library](https://github.com/neacsum/mlib) - This is a collection of bits and pieces crafted over the years
