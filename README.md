@@ -383,3 +383,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [SDB (string database)](https://github.com/rizinorg/sdb) - Simple string-based Key/Value database
 * [MLIB - Multi-purpose Library](https://github.com/neacsum/mlib) - This is a collection of bits and pieces crafted over the years
 * [mlib](https://github.com/robertshepherdcpp/mlib) - mlib is a fast, simple c++ meta-programming library that uses c++20.
+* [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
