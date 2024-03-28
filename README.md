@@ -384,3 +384,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [MLIB - Multi-purpose Library](https://github.com/neacsum/mlib) - This is a collection of bits and pieces crafted over the years
 * [mlib](https://github.com/robertshepherdcpp/mlib) - mlib is a fast, simple c++ meta-programming library that uses c++20.
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
+* [xmem](https://github.com/iboB/xmem) - An alternative memory and smart pointer library for C++
