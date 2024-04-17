@@ -386,3 +386,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 * [xmem](https://github.com/iboB/xmem) - An alternative memory and smart pointer library for C++
 * [C++ Thread Pool](https://github.com/Razirp/ThreadPool) - A high-performance thread pool implementation in Modern C++ for executing tasks concurrently.
+* [UTF8-CPP](https://github.com/nemtrif/utfcpp) - UTF-8 with C++ in a Portable Way
