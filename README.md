@@ -389,3 +389,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [UTF8-CPP](https://github.com/nemtrif/utfcpp) - UTF-8 with C++ in a Portable Way
 * [Ystring](https://github.com/jebreimo/Ystring) - A C++ string library for the most common encodings. In particular it makes it convenient to manipulate UTF-8 encoded strings
 * [cpp-unicodelib](https://github.com/yhirose/cpp-unicodelib) - A C++17 header-only Unicode library. (Unicode 15.1)
+* [UTF-8 string](https://github.com/procxx/utf8_string) - A simple implementation of utf8 strings for C++
