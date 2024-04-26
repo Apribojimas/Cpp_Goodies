@@ -391,3 +391,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [cpp-unicodelib](https://github.com/yhirose/cpp-unicodelib) - A C++17 header-only Unicode library. (Unicode 15.1)
 * [UTF-8 string](https://github.com/procxx/utf8_string) - A simple implementation of utf8 strings for C++
 * [freertos-addons](https://github.com/michaelbecker/freertos-addons) - Additions to FreeRTOS
+* [Rapidcsv](https://github.com/d99kris/rapidcsv) - Rapidcsv is an easy-to-use C++ CSV parser library. 
