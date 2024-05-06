@@ -393,3 +393,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [freertos-addons](https://github.com/michaelbecker/freertos-addons) - Additions to FreeRTOS
 * [Rapidcsv](https://github.com/d99kris/rapidcsv) - Rapidcsv is an easy-to-use C++ CSV parser library.
 * [enum_name](https://github.com/mguludag/enum_name) - Converting (scoped)enum values to string names written in C++>=11.
+* [UML State Machine in C](https://github.com/kiishor/UML-State-Machine-in-C) - A minimalist UML State machine framework for finite state machine and hierarchical state machine in C
