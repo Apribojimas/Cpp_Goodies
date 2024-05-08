@@ -338,7 +338,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libunifex](https://github.com/facebookexperimental/libunifex) - The 'libunifex' project is a prototype implementation of the C++ sender/receiver async programming model
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns
 * [CoroBase](https://github.com/sfu-dis/corobase) - Coroutine-Oriented Main-Memory Database Engine
-* [GuinsooDB](https://github.com/ciusji/guinsoodb) - embedded database
+* [GuinsooDB](https://github.com/xunliu/guinsoodb) - embedded database
 * [Ouroboros](https://github.com/belyaev-ms/ouroboros) - Embedded NoSQL storage of data.
 * [FastFlow](https://github.com/fastflow/fastflow) - FastFlow: high-performance parallel patterns and building blocks in C++
 * [distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
