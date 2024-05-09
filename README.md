@@ -189,6 +189,7 @@ Links to various cpp patterns or tutorials
 * [coreJSON Library](https://github.com/FreeRTOS/coreJSON) - a parser that strictly enforces the ECMA-404 JSON standard and is suitable for low memory footprint embedded devices.
 * MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
+* [Bourne](https://github.com/r-lyeh-archived/bourne) - Bourne is a lightweight JSON de/serializer (C++11).
 
 # Key/Value store
 Sometimes key/value store can replace configuration files, flat-file database, json files, log files
