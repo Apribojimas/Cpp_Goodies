@@ -398,3 +398,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [UML State Machine in C](https://github.com/kiishor/UML-State-Machine-in-C) - A minimalist UML State machine framework for finite state machine and hierarchical state machine in C
 * [json-model](https://github.com/Forestryks/json-model) - C++ struct to JSON mappings
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A high-performance, fully-featured CSV parser and serializer for modern C++.
+* [LittleD](https://github.com/graemedouglas/LittleD) - A relational database for embedded devices and sensors nodes
