@@ -400,3 +400,5 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A high-performance, fully-featured CSV parser and serializer for modern C++.
 * [LittleD](https://github.com/graemedouglas/LittleD) - A relational database for embedded devices and sensors nodes
 * [Log-Structured-KV-Storage-Engine](https://github.com/ashwaniYDV/Log-Structured-KV-Storage-Engine) - Log-structured Key-Value storage engine written in C++
+* [rabbit](https://github.com/mashiro/rabbit) - Very handy rapidjson wrapper library for C++03
+* [Wrapidjson is RapidJSON wrapper](https://github.com/hadesragon/rapidjson_wrapper) - C++11 RapidjsonWrapper
