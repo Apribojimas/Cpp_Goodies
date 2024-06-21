@@ -108,6 +108,7 @@ Links to various cpp patterns or tutorials
 * [WFMPMC](https://github.com/MengRao/WFMPMC) - A bounded wait-free(almost) zero-copy MPMC queue written in C++11, which can also reside in SHM for IPC
 * [lockfree_mpmc_queue](https://github.com/erez-strauss/lockfree_mpmc_queue) - Lockfree, atomic, multi producer, multi consumer, C++, in process and inter-process queue
 * [lockfree](https://github.com/huachaohuang/lockfree) - Lockfree algorithms collection
+* [C++ Lockless MP/MC Queue](https://github.com/NoxxGames/MPMCQueueLocklessCPP) - A simple Lockless Multi-Producer, Multi-Consumer Queue Type. Written in Cpp
 
 # Event bus
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
