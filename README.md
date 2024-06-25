@@ -404,3 +404,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [rabbit](https://github.com/mashiro/rabbit) - Very handy rapidjson wrapper library for C++03
 * [Wrapidjson is RapidJSON wrapper](https://github.com/hadesragon/rapidjson_wrapper) - C++11 RapidjsonWrapper
 * [lockfree](https://github.com/DNedic/lockfree) - A collection of lock-free data structures written in standard C++11
+* [Argparse](https://github.com/morrisfranken/argparse) - A Simple Argument Parser for C++
