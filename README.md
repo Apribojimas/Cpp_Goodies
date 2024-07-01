@@ -406,3 +406,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [lockfree](https://github.com/DNedic/lockfree) - A collection of lock-free data structures written in standard C++11
 * [Argparse](https://github.com/morrisfranken/argparse) - A Simple Argument Parser for C++
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++
+* [Async CPP](https://github.com/maxrt101/asyncpp) - Async C++ Utilities
