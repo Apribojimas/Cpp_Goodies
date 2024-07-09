@@ -124,7 +124,7 @@ Links to various cpp patterns or tutorials
 * [PhxQueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
 * [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
 
-# Threading, concurancy, task execution
+# Threading, concurancy, task execution, timers
 * [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
 * [cpptask](https://github.com/Kolkir/cpptask) - "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
@@ -140,6 +140,8 @@ Links to various cpp patterns or tutorials
 * [Grid Dispatcher](https://github.com/paintdream/grid_dispatcher) - Grid dispatcher is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher.
 * [psched](https://github.com/p-ranav/psched) - Priority-based Task Scheduling for Modern C++
 * [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool
+* [Thread-Safe Timer Pool](https://github.com/abcminiuser/cpptimerpool) - Simple C++14 thread-safe timer pool.
+* [TimerThread](https://github.com/Clovel/TimerThread) - This class impelements a threaded timer/clock system.
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
