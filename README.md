@@ -139,7 +139,6 @@ Links to various cpp patterns or tutorials
 * [Smart Thread Pool](https://github.com/Leosocy/SmartThreadPool) - A smart C++11 thread pool. Efficiently schedule your threads using "Classify Thread Pool", "Priority Task Queue". And also provide "Self-Adaption Pool Capacity" policy, "State Monitor" of tasks and workers function.
 * [Grid Dispatcher](https://github.com/paintdream/grid_dispatcher) - Grid dispatcher is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher.
 * [psched](https://github.com/p-ranav/psched) - Priority-based Task Scheduling for Modern C++
-* [transwarp](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency
 * [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool
 
 # Actor frameworks
