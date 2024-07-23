@@ -409,3 +409,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Argparse](https://github.com/morrisfranken/argparse) - A Simple Argument Parser for C++
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++
 * [Async CPP](https://github.com/maxrt101/asyncpp) - Async C++ Utilities
+* [FreeRTOS Modern C++ Wrappers](https://github.com/IntergatedCircuits/freertos-mcpp) - Wrapping FreeRTOS in modern C++ classes
