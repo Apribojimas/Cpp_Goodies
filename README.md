@@ -81,7 +81,6 @@ Links to various cpp patterns or tutorials
 * [prettybxp](https://github.com/prettybxp/sigslot) - An implementation of the observer pattern by c++11
 * [Proto](https://github.com/N-A-D/proto) - A dependency free, single-header C++17 signals and slots implementation.
 * [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++17 Signals and Slots
-* [Sigslot](https://github.com/palacaze/sigslot) - A simple C++14 signal-slots implementation
 
 # Property
 * [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
