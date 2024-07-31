@@ -142,6 +142,7 @@ Links to various cpp patterns or tutorials
 * [Thread-Safe Timer Pool](https://github.com/abcminiuser/cpptimerpool) - Simple C++14 thread-safe timer pool.
 * [TimerThread](https://github.com/Clovel/TimerThread) - This class impelements a threaded timer/clock system.
 * [Callback Timer](https://github.com/messenger1th/Callback-Timer) - Callback Timer: restart, pause, set_period, shutdown. Based On C++11.
+* [thread-pool-cpp](https://github.com/yvoinov/thread-pool-cpp) - High performance C++11 thread pool
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
