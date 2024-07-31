@@ -108,6 +108,9 @@ Links to various cpp patterns or tutorials
 * [lockfree_mpmc_queue](https://github.com/erez-strauss/lockfree_mpmc_queue) - Lockfree, atomic, multi producer, multi consumer, C++, in process and inter-process queue
 * [lockfree](https://github.com/huachaohuang/lockfree) - Lockfree algorithms collection
 * [C++ Lockless MP/MC Queue](https://github.com/NoxxGames/MPMCQueueLocklessCPP) - A simple Lockless Multi-Producer, Multi-Consumer Queue Type. Written in Cpp
+* [atomic_queues](https://github.com/joadnacer/atomic_queues) - Fast bounded MPMC and SPSC queues for C++20
+* [riften::Deque](https://github.com/ConorWilliams/ConcurrentDeque) - Fast, generalized, implementation of the Chase-Lev lock-free work-stealing deque for C++17
+* [Lock Free Data Structures](https://github.com/BagritsevichStepan/lock-free-data-structures) - Low latency lock free SPSC, SPMC, MPMC Queue and Stack. Fast SpinLock, SeqLock
 
 # Event bus
 * [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
