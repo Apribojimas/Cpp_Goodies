@@ -414,3 +414,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Async CPP](https://github.com/maxrt101/asyncpp) - Async C++ Utilities
 * [FreeRTOS Modern C++ Wrappers](https://github.com/IntergatedCircuits/freertos-mcpp) - Wrapping FreeRTOS in modern C++ classes
 * [FreeRTOS-Cpp](https://github.com/jonenz/FreeRTOS-Cpp) - C++17 header-only interface to the FreeRTOS kernel API.
+* [C++ Function Benchmark](https://github.com/jamboree/CxxFunctionBenchmark) - benchmark for various C++ function implementations; focus on invocation time
