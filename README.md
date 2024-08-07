@@ -415,3 +415,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [FreeRTOS Modern C++ Wrappers](https://github.com/IntergatedCircuits/freertos-mcpp) - Wrapping FreeRTOS in modern C++ classes
 * [FreeRTOS-Cpp](https://github.com/jonenz/FreeRTOS-Cpp) - C++17 header-only interface to the FreeRTOS kernel API.
 * [C++ Function Benchmark](https://github.com/jamboree/CxxFunctionBenchmark) - benchmark for various C++ function implementations; focus on invocation time
+* [umm_malloc](https://github.com/rhempel/umm_malloc) - Memory Manager For Small(ish) Microprocessors
