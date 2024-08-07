@@ -417,3 +417,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [C++ Function Benchmark](https://github.com/jamboree/CxxFunctionBenchmark) - benchmark for various C++ function implementations; focus on invocation time
 * [umm_malloc](https://github.com/rhempel/umm_malloc) - Memory Manager For Small(ish) Microprocessors
 * [Mimalloc-bench](https://github.com/daanx/mimalloc-bench) - Suite for benchmarking malloc implementations.
+* [ltalloc](https://github.com/r-lyeh-archived/ltalloc) - LightweighT Almost Lock-Less Oriented for C++ programs memory allocator
