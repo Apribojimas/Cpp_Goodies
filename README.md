@@ -272,6 +272,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [eCAL](https://github.com/continental/ecal) - eCAL - enhanced Communication Abstraction Layer
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.
 * [C++ utilities](https://github.com/Martchus/cpp-utilities) - Useful C++ classes and routines such as argument parser, IO and conversion utilities.
+* [amp-embedded-infra-lib (EmIL)](https://github.com/philips-software/amp-embedded-infra-lib) - amp-embedded-infra-lib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development
 
 # GUI
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
