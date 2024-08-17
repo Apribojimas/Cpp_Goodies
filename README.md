@@ -213,6 +213,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [EasyFlash](https://github.com/armink/EasyFlash) - Lightweight IoT device information storage solution: KV/IAP/LOG.
 * [IncludeDB](https://github.com/PitilessPeanut/IncludeDB) - Tiny key/value-store in a single, embeddable C file. For games, small servers, sbc, etc...
 * [pupa key-value library](https://github.com/agile6v/pupa) - A simple and efficient key-value library that can be easily integrated into your projects.
+* [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
 
 # Data reflection
 * [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
@@ -369,7 +370,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [JSONCONS](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
-* [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
 * [TinyExpr](https://github.com/codeplea/tinyexpr) - tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
 * [UNITS](https://github.com/nholthaus/units) - A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 * [AnyAny](https://github.com/kelbon/anyany) - C++20 library for comfortable and efficient dynamic polymorphism
