@@ -169,7 +169,6 @@ Links to various cpp patterns or tutorials
 * [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
 * [nano-caf-2](https://github.com/godsme/nano-caf-2) - a simple C++ actor framework for embedded system.
 * [Sactor](https://github.com/r12f/sactor) - A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.
-* [acto](https://github.com/artpaul/acto) - An actor-based framework for C++. Actors are light-weight objects, and they interact fully asynchronously with messages.
 * [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
 * [coroactors](https://github.com/snaury/coroactors) - Experimental actors with C++ coroutines
 
