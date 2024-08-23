@@ -147,6 +147,7 @@ Links to various cpp patterns or tutorials
 * [Callback Timer](https://github.com/messenger1th/Callback-Timer) - Callback Timer: restart, pause, set_period, shutdown. Based On C++11.
 * [thread-pool-cpp](https://github.com/yvoinov/thread-pool-cpp) - High performance C++11 thread pool
 * [C++11 Task Scheduler](https://github.com/Naios/TaskScheduler) - Use functors, lambdas and std::chrono to schedule tasks in the near future
+* [ThreadPool + jthread](https://github.com/mjshakir/ThreadPool) - Efficient, flexible parallel task execution in C++ using std::jthread. ThreadPool simplifies thread management and offers priority-based task scheduling with Deque or PriorityQueue.
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
