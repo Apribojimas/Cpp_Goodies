@@ -186,6 +186,7 @@ Links to various cpp patterns or tutorials
 * [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
 * [Cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 * [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
+* [libnop: C++ Native Object Protocols](https://github.com/google/libnop) - libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.
 
 # JSON
 * [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
