@@ -122,7 +122,6 @@ Links to various cpp patterns or tutorials
 * [PubBus](https://github.com/eXpl0it3r/PubBus) - PubBus is a simple, header-only implementation of a MessageBus.
 * [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
 * [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
-* [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
 * [PhxQueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
 * [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
 
@@ -149,6 +148,7 @@ Links to various cpp patterns or tutorials
 * [C++11 Task Scheduler](https://github.com/Naios/TaskScheduler) - Use functors, lambdas and std::chrono to schedule tasks in the near future
 * [ThreadPool + jthread](https://github.com/mjshakir/ThreadPool) - Efficient, flexible parallel task execution in C++ using std::jthread. ThreadPool simplifies thread management and offers priority-based task scheduling with Deque or PriorityQueue.
 * [Taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
+* [DeveloperPaul123-thread-pool](https://github.com/DeveloperPaul123/thread-pool) - A modern, fast, lightweight thread pool library based on C++20
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
