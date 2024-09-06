@@ -427,3 +427,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language
 * [Stroika v3 - modern C++ made easy](https://github.com/SophistSolutions/Stroika) - Modern C++ made easy
 * [C++ Bare Metal Senders and Receivers](https://github.com/intel/cpp-baremetal-senders-and-receivers) - An implementation of C++ "senders and receivers" async framework suitable for embedded platforms.
+* [actor--](https://github.com/Leont/actor--) - A header-only C++17 type-safe actor model threading library
