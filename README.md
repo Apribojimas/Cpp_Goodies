@@ -311,6 +311,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [theCore](https://github.com/theCore-embedded/theCore) - framework for various microcontroller applications, with or without RTOS (bare-metal).
 * [libcpp](https://github.com/peterzuger/libcpp) - C++ standard library for embedded systems
 * [Real-Time-C++](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
+* [estd](https://github.com/malachi-iot/estdlib) - C++ Standard Lib adapted to embedded environments
 ## FreeRTOS
 * [freertos-addons](https://github.com/michaelbecker/freertos-addons) - Additions to FreeRTOS
 * [freertos_cpp_util](https://github.com/jacobschloss/freertos_cpp_util) - A collection of C++ wrappers and utility code for FreeRTOS.
