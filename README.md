@@ -198,6 +198,7 @@ Links to various cpp patterns or tutorials
 * MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 * [Bourne](https://github.com/r-lyeh-archived/bourne) - Bourne is a lightweight JSON de/serializer (C++11).
+* [Jsonifier](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON, in C++ - very rapidly.
 
 # Key/Value store
 Sometimes key/value store can replace configuration files, flat-file database, json files, log files
@@ -230,6 +231,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [solinject](https://github.com/SemperSolus0x3d/solinject) - C++17 Dependency Injection header-only library
 * [kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11, C++14 and later
 * [cpp-di](https://github.com/snakster/cpp-di) - A minimalistic C++17 dependency injection framework.
+* [DI: Dependency Injection library](https://github.com/qlibs/di) - C++20 Dependency Injection library
 
 # Design pattern
 * [Refactoring.Guru](https://refactoring.guru/)
