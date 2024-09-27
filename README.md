@@ -257,6 +257,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
 * [State machine](https://github.com/AdamsPL/state-machine/) - This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.
 * [HSMCPP](https://github.com/igor-krechetov/hsmcpp) - C++ based Hierarchical / Finite State Machine library oriented for embedded and RTOS systems.
+* [Finite State Machine for C++](https://github.com/eglimi/cppfsm) - A simple, generic, header-only state machine implementation for C++.
 
 # Libraries
 library: a collection of types, functions, classes, etc. implementing a set of facilities (abstractions) meant to be potentially used as part of more that one program.
