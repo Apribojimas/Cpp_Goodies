@@ -57,6 +57,7 @@ Links to various cpp patterns or tutorials
 * [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++
 * [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) - One more implementation of ReactiveX approach in C++ with care about performance and templates in mind
 * [reactor](https://github.com/fantasy-peak/reactor) - C++17 and reactor mode task/timer executor
+* [ReCpp](https://github.com/pribault/ReCpp) - Reactive Extensions for C++
 
 # Delegate
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
