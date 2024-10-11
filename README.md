@@ -437,3 +437,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [actor--](https://github.com/Leont/actor--) - A header-only C++17 type-safe actor model threading library
 * [iod](https://github.com/matt-42/iod) - Meta programming utilities for C++14. Merged in matt-42/lithium
 * [tlsf-bsd: Two-Level Segregated Fit Memory Allocator](https://github.com/jserv/tlsf-bsd) - Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License
+* [O(1) heap](https://github.com/pavel-kirienko/o1heap) - Constant-complexity deterministic memory allocator (heap) for hard real-time high-integrity embedded systems. There is very little activity because the project is finished and does not require further changes.
