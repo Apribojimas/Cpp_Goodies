@@ -438,3 +438,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [iod](https://github.com/matt-42/iod) - Meta programming utilities for C++14. Merged in matt-42/lithium
 * [tlsf-bsd: Two-Level Segregated Fit Memory Allocator](https://github.com/jserv/tlsf-bsd) - Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License
 * [O(1) heap](https://github.com/pavel-kirienko/o1heap) - Constant-complexity deterministic memory allocator (heap) for hard real-time high-integrity embedded systems. There is very little activity because the project is finished and does not require further changes.
+* [xstd](https://github.com/can1357/xstd) - A portable header only library extending the C++20 STL. It is mainly extracted from VTIL-Common => [VTIL-Core](https://github.com/vtil-project/VTIL-Core/tree/master/VTIL-Common/util)
