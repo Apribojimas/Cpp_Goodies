@@ -441,3 +441,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [xstd](https://github.com/can1357/xstd) - A portable header only library extending the C++20 STL. It is mainly extracted from VTIL-Common => [VTIL-Core](https://github.com/vtil-project/VTIL-Core/tree/master/VTIL-Common/util)
 * [Bearbytes C++ utilities](https://github.com/bearbytes/bb-utils) - This repository contains various utilities written in C++23 but without standard library
 * [sling](https://github.com/adrg/sling) - Lightweight C++ Signals and Slots implementation
+* [Iara](https://github.com/andsmedeiros/iara) - The asynchronous framework for modern C++
