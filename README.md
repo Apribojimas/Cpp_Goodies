@@ -440,3 +440,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [O(1) heap](https://github.com/pavel-kirienko/o1heap) - Constant-complexity deterministic memory allocator (heap) for hard real-time high-integrity embedded systems. There is very little activity because the project is finished and does not require further changes.
 * [xstd](https://github.com/can1357/xstd) - A portable header only library extending the C++20 STL. It is mainly extracted from VTIL-Common => [VTIL-Core](https://github.com/vtil-project/VTIL-Core/tree/master/VTIL-Common/util)
 * [Bearbytes C++ utilities](https://github.com/bearbytes/bb-utils) - This repository contains various utilities written in C++23 but without standard library
+* [sling](https://github.com/adrg/sling) - Lightweight C++ Signals and Slots implementation
