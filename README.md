@@ -442,3 +442,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Bearbytes C++ utilities](https://github.com/bearbytes/bb-utils) - This repository contains various utilities written in C++23 but without standard library
 * [sling](https://github.com/adrg/sling) - Lightweight C++ Signals and Slots implementation
 * [Iara](https://github.com/andsmedeiros/iara) - The asynchronous framework for modern C++
+* [Ereignis](https://github.com/Curve/ereignis) - A thread-safe C++20 Event Library
