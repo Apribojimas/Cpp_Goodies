@@ -174,6 +174,7 @@ Links to various cpp patterns or tutorials
 * [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
 * [μActor](https://github.com/uActor/uActor) - μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.
 * [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
+* [nano-caf](https://github.com/netcan/nano-caf) - A rapid tiny C++ actor framework for embedded system.
 * [nano-caf-2](https://github.com/godsme/nano-caf-2) - a simple C++ actor framework for embedded system.
 * [Sactor](https://github.com/r12f/sactor) - A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.
 * [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
