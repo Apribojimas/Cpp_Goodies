@@ -446,3 +446,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Ereignis](https://github.com/Curve/ereignis) - A thread-safe C++20 Event Library
 * [STDX-event](https://github.com/ShinuziKyura/STDX/blob/master/event.hpp) - Intresting event implementation
 * [uxs](https://github.com/gbuzykin/uxs) - Utilities and eXtensionS (UXS) library is a collection of useful (template) classes and functions developed upon standard C++ library
+* [std_e](https://github.com/onera/std_e) - C++ standard library extension
