@@ -444,3 +444,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [sling](https://github.com/adrg/sling) - Lightweight C++ Signals and Slots implementation
 * [Iara](https://github.com/andsmedeiros/iara) - The asynchronous framework for modern C++
 * [Ereignis](https://github.com/Curve/ereignis) - A thread-safe C++20 Event Library
+* [STDX-event](https://github.com/ShinuziKyura/STDX/blob/master/event.hpp) - Intresting event implementation
