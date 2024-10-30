@@ -447,3 +447,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [STDX-event](https://github.com/ShinuziKyura/STDX/blob/master/event.hpp) - Intresting event implementation
 * [uxs](https://github.com/gbuzykin/uxs) - Utilities and eXtensionS (UXS) library is a collection of useful (template) classes and functions developed upon standard C++ library
 * [std_e](https://github.com/onera/std_e) - C++ standard library extension
+* [Gaia-ECS](https://github.com/richardbiely/gaia-ecs) - A simple and powerful entity component system (ECS) written in C++17
