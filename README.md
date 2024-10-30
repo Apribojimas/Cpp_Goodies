@@ -448,3 +448,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [uxs](https://github.com/gbuzykin/uxs) - Utilities and eXtensionS (UXS) library is a collection of useful (template) classes and functions developed upon standard C++ library
 * [std_e](https://github.com/onera/std_e) - C++ standard library extension
 * [Gaia-ECS](https://github.com/richardbiely/gaia-ecs) - A simple and powerful entity component system (ECS) written in C++17
+* [Embedded Template Library](https://github.com/tobanteEmbedded/tetl) - Embedded template library
