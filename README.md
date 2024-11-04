@@ -450,3 +450,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Gaia-ECS](https://github.com/richardbiely/gaia-ecs) - A simple and powerful entity component system (ECS) written in C++17
 * [Embedded Template Library](https://github.com/tobanteEmbedded/tetl) - Embedded template library
 * [multiindex](https://github.com/rafaelfassi/multiindex) - C++11 implementation of a container with multiple indexes
+* [tmi](https://github.com/theuni/tmi) - A slimmed down but very functional version of boost::multi_index
