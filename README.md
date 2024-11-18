@@ -452,3 +452,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [multiindex](https://github.com/rafaelfassi/multiindex) - C++11 implementation of a container with multiple indexes
 * [tmi](https://github.com/theuni/tmi) - A slimmed down but very functional version of boost::multi_index
 * [multi_index.hpp](https://github.com/Bendancom/BlogCodes/blob/main/multi_index/multi_index.hpp) - multi_index.hpp
+* [okdp](https://github.com/lkimuk/okdp) - A design pattern library developed in modern c++.
