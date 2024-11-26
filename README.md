@@ -455,3 +455,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [okdp](https://github.com/lkimuk/okdp) - A design pattern library developed in modern c++.
 * [libchain](https://github.com/jbaldwin/libchain) - Easy to use std::string enhancements.
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
+* [activecpp](https://github.com/samiralavi/activecpp) - Active Objects for Modern C++
