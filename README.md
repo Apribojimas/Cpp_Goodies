@@ -457,3 +457,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [libcappuccino](https://github.com/jbaldwin/libcappuccino) - C++17 Cache Data Structure Library
 * [activecpp](https://github.com/samiralavi/activecpp) - Active Objects for Modern C++
 * [micro{containers}](https://github.com/micro-gl/micro-containers) - Headers Only C++11 Containers library. No standard library is required.
+* [cpp-lazy-stringization](https://github.com/basiliscos/cpp-lazy-stringization) - 
