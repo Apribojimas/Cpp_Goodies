@@ -299,6 +299,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [JsonGrid](https://jsongrid.com/) - All-in-One Json solutions online
 * [sqlwatch.io](https://sqlwatch.io/) - Monitor and learn SQL Server for free.
 * [DevToys](https://devtoys.app/) - An Open-Source Swiss Army knife for developers.
+* [CPPINCLUDE](https://github.com/cppinclude/cppinclude) - Tool for analyzing includes in C++
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
