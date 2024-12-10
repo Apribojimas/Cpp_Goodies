@@ -41,6 +41,7 @@ Links to various cpp patterns or tutorials
 * [LearnCpp](https://www.learncpp.com/) - Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
 * [hacking C++](https://hackingcpp.com/) - collection of various C++ learning resources.
 * [Concurrency_With_Modern_Cpp](https://github.com/pvthuyet/Concurrency_With_Modern_Cpp) - Concurrency with modern C++
+* [STL Preview](https://github.com/lackhole/stl-preview) - C++26 STL for C++14~ developers
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
