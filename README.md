@@ -463,3 +463,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [BLogger](https://github.com/d-tatianin/BLogger) - An easy to use modern C++14/17 async cross-platform logger which supports custom formatting/patterns, colored output, Unicode, file logging, log rotation & more!
 * [Reflection++](https://github.com/hczhcz/reflectionpp) - A header-only C++11 reflection library
 * [Modern CMake Examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
+* [Poly map](https://github.com/andreiavrammsd/polymap) - Map with infinite levels and multiple types for keys and values.
