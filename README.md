@@ -251,6 +251,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 * [NanoLog](https://github.com/Iyengar111/NanoLog) - Low Latency C++11 Logging Library
 * [NanoLogLite](https://github.com/MengRao/NanoLogLite) - A revised version of NanoLog which writes human readable log file, and is easier to use.
 * [g3log](https://github.com/KjellKod/g3log) - G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.
+* [lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library
 
 # Date
 * [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
