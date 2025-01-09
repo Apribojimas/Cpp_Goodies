@@ -465,3 +465,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Reflection++](https://github.com/hczhcz/reflectionpp) - A header-only C++11 reflection library
 * [Modern CMake Examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
 * [Poly map](https://github.com/andreiavrammsd/polymap) - Map with infinite levels and multiple types for keys and values.
+* [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
