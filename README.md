@@ -467,3 +467,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Poly map](https://github.com/andreiavrammsd/polymap) - Map with infinite levels and multiple types for keys and values.
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library
+* [Ring Buffer](https://github.com/jnk0le/Ring-Buffer) - simple C++11 ring buffer implementation, allocated and evaluated at compile time
