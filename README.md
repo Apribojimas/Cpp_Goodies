@@ -468,3 +468,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library
 * [Ring Buffer](https://github.com/jnk0le/Ring-Buffer) - simple C++11 ring buffer implementation, allocated and evaluated at compile time
+* [Lock-Free Queues (SPSC & SPMC)](https://github.com/rezabrizi/AtomicRing) - Very fast lock-free queue (thread safe)
