@@ -469,3 +469,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library
 * [Ring Buffer](https://github.com/jnk0le/Ring-Buffer) - simple C++11 ring buffer implementation, allocated and evaluated at compile time
 * [Lock-Free Queues (SPSC & SPMC)](https://github.com/rezabrizi/AtomicRing) - Very fast lock-free queue (thread safe)
+* [Lock-Free data structures](https://github.com/fe-dagostino/lock-free) - https://github.com/fe-dagostino/lock-free
