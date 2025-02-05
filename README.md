@@ -286,6 +286,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.
 * [C++ utilities](https://github.com/Martchus/cpp-utilities) - Useful C++ classes and routines such as argument parser, IO and conversion utilities.
 * [amp-embedded-infra-lib (EmIL)](https://github.com/philips-software/amp-embedded-infra-lib) - amp-embedded-infra-lib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development
+* [bit::stl Standard library](https://github.com/bitwizeshift/bit-stl) - A header-only library of custom template types. This is the standard library for most personal libraries
 
 # GUI
 * [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
