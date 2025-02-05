@@ -473,3 +473,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Lock-Free Queues (SPSC & SPMC)](https://github.com/rezabrizi/AtomicRing) - Very fast lock-free queue (thread safe)
 * [Lock-Free data structures](https://github.com/fe-dagostino/lock-free) - https://github.com/fe-dagostino/lock-free
 * [micro{containers}](https://github.com/micro-gl/micro-containers) - Headers Only C++11 Containers library. No standard library is required.
+* [C++ Function Benchmark](https://github.com/jamboree/CxxFunctionBenchmark) - benchmark for various C++ function implementations; focus on invocation time
