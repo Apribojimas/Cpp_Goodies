@@ -465,6 +465,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Reflection++](https://github.com/hczhcz/reflectionpp) - A header-only C++11 reflection library
 * [Modern CMake Examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects
 * [Poly map](https://github.com/andreiavrammsd/polymap) - Map with infinite levels and multiple types for keys and values.
+* [Channel](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 * [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library
 * [Ring Buffer](https://github.com/jnk0le/Ring-Buffer) - simple C++11 ring buffer implementation, allocated and evaluated at compile time
