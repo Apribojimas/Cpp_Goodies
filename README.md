@@ -42,6 +42,7 @@ Links to various cpp patterns or tutorials
 * [hacking C++](https://hackingcpp.com/) - collection of various C++ learning resources.
 * [Concurrency_With_Modern_Cpp](https://github.com/pvthuyet/Concurrency_With_Modern_Cpp) - Concurrency with modern C++
 * [STL Preview](https://github.com/lackhole/stl-preview) - C++26 STL for C++14~ developers
+* [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
