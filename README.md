@@ -478,3 +478,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [workspace](https://github.com/CodingHanYa/workspace) - workspace is a lightweight asynchronous execution framework based on C++11, which supports: asynchronous concurrent execution of general tasks, priority task scheduling, adaptive dynamic thread pools, efficient static thread pools, and exception handling mechanisms.
 * [task-thread-pool](https://github.com/alugowski/task-thread-pool) - Fast and lightweight thread pool for C++11 and newer.
 * [task-pool](https://github.com/benny-edlund/task-pool) - A task orient thread pool library for C++14 with cancellation and allocator support
+* [nanothread](https://github.com/mitsuba-renderer/nanothread) - Minimal thread pool for task parallelism
