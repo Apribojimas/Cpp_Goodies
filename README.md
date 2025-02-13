@@ -476,3 +476,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [micro{containers}](https://github.com/micro-gl/micro-containers) - Headers Only C++11 Containers library. No standard library is required.
 * [C++ Function Benchmark](https://github.com/jamboree/CxxFunctionBenchmark) - benchmark for various C++ function implementations; focus on invocation time
 * [workspace](https://github.com/CodingHanYa/workspace) - workspace is a lightweight asynchronous execution framework based on C++11, which supports: asynchronous concurrent execution of general tasks, priority task scheduling, adaptive dynamic thread pools, efficient static thread pools, and exception handling mechanisms.
+* [task-thread-pool](https://github.com/alugowski/task-thread-pool) - Fast and lightweight thread pool for C++11 and newer.
