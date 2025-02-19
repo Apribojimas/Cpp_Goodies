@@ -1,8 +1,13 @@
 # Cpp_Goodies
 Links to various cpp patterns or tutorials
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # Tutorials / Links collections
-| [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) | C++ Tip of The Week|
+* [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) - C++ Tip of The Week|
 * [C++ Developer Roadmap](https://salmer.github.io/CppDeveloperRoadmap/) - “Where should I start? What and in what order should I study? What books should I read?”
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
