@@ -5,46 +5,46 @@ Links to various cpp patterns or tutorials
 | Link | Description |
 | --- | --- |
 | [C++ Tip of The Week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) | C++ Tip of The Week|
-* [C++ Developer Roadmap](https://salmer.github.io/CppDeveloperRoadmap/) - “Where should I start? What and in what order should I study? What books should I read?”
-* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
-* [Single-file libraries](https://github.com/nothings/single_file_libs) - Single-file public-domain/open source libraries with minimal dependencies
-* [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features) - Summarized overview
-* [Apress Source Code](https://github.com/Apress/beginning-cpp23) - Source Code for 'Beginning C++ 23' by Ivor Horton and Peter Van Weert
-* [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) - C++ Data Structures and Algorithms Cheat Sheet
-* [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms
-* [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)
-* [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) - The cheatsheet focus is both on the language as well as common classes from the standard library.
-* [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) - C++ examples cover a wide range of programming areas in Computer Science
-* [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) - This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.* 
-* [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) - The repository is a collection of open-source implementation of a variety of algorithms implemented in C++
-* [atomics](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md) - C++ links: atomics, lock free, memory model
-* [Cpp20](https://github.com/RainerGrimm/Cpp20) - This is the code repository for my book "C++20 - Get the Details" 
-* [MV(X)](https://habr.com/ru/company/croc/blog/549590/) - MV(X)
-* [croc](https://habr.com/ru/company/croc/blog/560674/) - Clean Architecture
-* [GETTERS AND SETTERS](https://cpp-rendering.io/thoughts-about-getters-and-setters-in-c/) - This article deals with getters and setters in C++.
-* [C++17 STL Cookbook](https://github.com/PacktPublishing/Cpp17-STL-Cookbook) - This is the code repository for C++17 STL Cookbook, published by Packt.
-* [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) - 30 Seconds of C++ (STL in C++)
-* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - These design patterns are useful for building reliable, scalable, secure applications in the cloud.
-* Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context
-* [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
-* [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md) - This repository meets the need of people who wants to really know about C++
-* [Operators](https://github.com/taocpp/operators) - A highly efficient, move-aware operators library
-* [C++ Patterns - Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns curated by the community.
-* [CPP/C](https://github.com/akshitagit/CPP) - Repository for C++/C codes and algos.
-* [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes) - Notes about modern C++, C++11, C++14 and C++17, Boost Libraries, ABI, foreign function interface and reference cards.
-* [Dependency Injection Pattern](https://www.codeproject.com/Articles/5333947/Dependency-Injection-Pattern-in-Csharp-Short-Tutor) - tutorial on Dependency Injection Pattern and related topics: Dependency inversion principle (DIP), Inversion of control (IoC) principle, and Dependency Injection Container (aka IoC container).
-* [Dependency Injection - a 25-dollar term for a 5-cent concept](https://github.com/bobbyzhu/cppnow_presentations_2019/blob/master/05-06-2019_monday/Dependency_Injection_a_25-dollar_Term_for_a_5-cent_Concept__Kris_Jusiak__cppnow_05062019.pdf) - examples of DI implementation with pros/cons
-* [Programming in C/C++ Efficiently](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.
-* [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053/) - 60 terrible coding tips — and explanations of why they are terrible
-* [C++ performance guidelines](https://fekir.info/post/cpp-perf-guidelines/) - about avoiding pessimization, and fixing low hanging-fruits for improving performance.
-* [Igor's C++ Grimoire](http://knockknock.org.uk/igor.html) - Igor's C++ Grimoire aims to be a reasonably complete reference to C++11, C++14 and C++17
-* [LearnCpp](https://www.learncpp.com/) - Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
-* [hacking C++](https://hackingcpp.com/) - collection of various C++ learning resources.
-* [Concurrency_With_Modern_Cpp](https://github.com/pvthuyet/Concurrency_With_Modern_Cpp) - Concurrency with modern C++
-* [STL Preview](https://github.com/lackhole/stl-preview) - C++26 STL for C++14~ developers
-* [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+| [C++ Developer Roadmap](https://salmer.github.io/CppDeveloperRoadmap/) | “Where should I start? What and in what order should I study? What books should I read?”|
+| [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) | A collection of resources on modern C++.|
+| [Awesome C++](https://github.com/fffaraz/awesome-cpp) | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.|
+| [awesome-hpp](https://github.com/p-ranav/awesome-hpp) | A curated list of awesome header-only C++ libraries|
+| [Single-file libraries](https://github.com/nothings/single_file_libs) | Single-file public-domain/open source libraries with minimal dependencies|
+| [C++20/17/14/11 overview](https://github.com/AnthonyCalandra/modern-cpp-features) | Summarized overview|
+| [Apress Source Code](https://github.com/Apress/beginning-cpp23) | Source Code for 'Beginning C++ 23' by Ivor Horton and Peter Van Weert|
+| [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md) | C++ Data Structures and Algorithms Cheat Sheet|
+| [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) | Aimed toward: Anyone with an intermediate level of knowledge in C++ and supported language paradigms|
+| [CPP C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/)||
+| [C++ CHEATSHEET](https://github.com/mortennobel/cpp-cheatsheet) | The cheatsheet focus is both on the language as well as common classes from the standard library.|
+| [sanfoundry](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/) | C++ examples cover a wide range of programming areas in Computer Science|
+| [Cpp-Learning-Resources](https://github.com/RedSkittleFox/Cpp-Learning-Resources) | This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers. |
+| [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) | The repository is a collection of open-source implementation of a variety of algorithms implemented in C++|
+| [atomics](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md) | C++ links: atomics, lock free, memory model|
+| [Cpp20](https://github.com/RainerGrimm/Cpp20) | This is the code repository for my book "C++20 - Get the Details" |
+| [MV(X)](https://habr.com/ru/company/croc/blog/549590/) | MV(X)|
+| [croc](https://habr.com/ru/company/croc/blog/560674/) | Clean Architecture|
+| [GETTERS AND SETTERS](https://cpp-rendering.io/thoughts-about-getters-and-setters-in-c/) | This article deals with getters and setters in C++.|
+| [C++17 STL Cookbook](https://github.com/PacktPublishing/Cpp17-STL-Cookbook) | This is the code repository for C++17 STL Cookbook, published by Packt.|
+| [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) | 30 Seconds of C++ (STL in C++)|
+| [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) | These design patterns are useful for building reliable, scalable, secure applications in the cloud.|
+| Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context|
+| [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) | Queueing theory: an introduction for software development|
+| [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md) | This repository meets the need of people who wants to really know about C++|
+| [Operators](https://github.com/taocpp/operators) | A highly efficient, move-aware operators library|
+| [C++ Patterns - Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) | A repository of modern C++ patterns curated by the community.|
+| [CPP/C](https://github.com/akshitagit/CPP) | Repository for C++/C codes and algos.|
+| [CPP C++ Papyrus](https://github.com/caiorss/C-Cpp-Notes) | Notes about modern C++, C++11, C++14 and C++17, Boost Libraries, ABI, foreign function interface and reference cards.|
+| [Dependency Injection Pattern](https://www.codeproject.com/Articles/5333947/Dependency-Injection-Pattern-in-Csharp-Short-Tutor) | tutorial on Dependency Injection Pattern and related topics: Dependency inversion principle (DIP), Inversion of control (IoC) principle, and Dependency Injection Container (aka IoC container).|
+| [Dependency Injection - a 25-dollar term for a 5-cent concept](https://github.com/bobbyzhu/cppnow_presentations_2019/blob/master/05-06-2019_monday/Dependency_Injection_a_25-dollar_Term_for_a_5-cent_Concept__Kris_Jusiak__cppnow_05062019.pdf) | examples of DI implementation with pros/cons|
+| [Programming in C/C++ Efficiently](https://github.com/ShiqiYu/CPP) | Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.|
+| [60 terrible tips for a C++ developer](https://pvs-studio.com/en/blog/posts/cpp/1053/) | 60 terrible coding tips — and explanations of why they are terrible|
+| [C++ performance guidelines](https://fekir.info/post/cpp-perf-guidelines/) | about avoiding pessimization, and fixing low hanging-fruits for improving performance.|
+| [Igor's C++ Grimoire](http://knockknock.org.uk/igor.html) | Igor's C++ Grimoire aims to be a reasonably complete reference to C++11, C++14 and C++17|
+| [LearnCpp](https://www.learncpp.com/) | Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.|
+| [hacking C++](https://hackingcpp.com/) | collection of various C++ learning resources.|
+| [Concurrency_With_Modern_Cpp](https://github.com/pvthuyet/Concurrency_With_Modern_Cpp) | Concurrency with modern C++|
+| [STL Preview](https://github.com/lackhole/stl-preview) | C++26 STL for C++14~ developers|
+| [C++ links](https://github.com/MattPD/cpplinks) | A categorized list of C++ resources.|
 
 # CMake
 * [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
