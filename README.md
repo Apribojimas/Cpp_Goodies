@@ -487,3 +487,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [task-thread-pool](https://github.com/alugowski/task-thread-pool) - Fast and lightweight thread pool for C++11 and newer.
 * [task-pool](https://github.com/benny-edlund/task-pool) - A task orient thread pool library for C++14 with cancellation and allocator support
 * [nanothread](https://github.com/mitsuba-renderer/nanothread) - Minimal thread pool for task parallelism
+* [Not Enough Standards](https://github.com/Alairion/not-enough-standards) - A modern header-only C++ library that provides platform-independent utilities.
