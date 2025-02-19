@@ -2,7 +2,7 @@
 Links to various cpp patterns or tutorials
 
 
-| ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
