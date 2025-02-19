@@ -1,7 +1,7 @@
 # Cpp_Goodies
 Links to various cpp patterns or tutorials
 
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
