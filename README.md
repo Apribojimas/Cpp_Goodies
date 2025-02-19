@@ -27,7 +27,8 @@ Links to various cpp patterns or tutorials
 | [C++17 STL Cookbook](https://github.com/PacktPublishing/Cpp17-STL-Cookbook) | This is the code repository for C++17 STL Cookbook, published by Packt.|
 | [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp) | 30 Seconds of C++ (STL in C++)|
 | [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) | These design patterns are useful for building reliable, scalable, secure applications in the cloud.|
-| Messaging Patterns in Service-Oriented Architecture [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)), [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) - Messaging Patterns Catalogue Within SOA Context|
+| [part 1](https://docs.microsoft.com/en-us/previous-versions/aa480027(v=msdn.10)) | Messaging Patterns in Service-Oriented Architecture |
+| [part 2](https://docs.microsoft.com/en-us/previous-versions/aa480061(v=msdn.10)) | Messaging Patterns Catalogue Within SOA Context|
 | [Queueing theory](https://github.com/joelparkerhenderson/queueing-theory) | Queueing theory: an introduction for software development|
 | [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings/blob/master/README_EN.md) | This repository meets the need of people who wants to really know about C++|
 | [Operators](https://github.com/taocpp/operators) | A highly efficient, move-aware operators library|
