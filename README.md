@@ -48,22 +48,26 @@ Links to various cpp patterns or tutorials
 | [C++ links](https://github.com/MattPD/cpplinks) | A categorized list of C++ resources.|
 
 # CMake
-* [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) - This repository collects sources for the recipes contained in the CMake Cookbook
-* [Templates for CMake projects](https://github.com/izvolov/mylib) - Blog https://habr.com/ru/post/535602/
-* [CMake Scripts](https://github.com/StableCoder/cmake-scripts) - A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.
-* [Awesome CMake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
+| Link | Description |
+| --- | --- |
+| [CMake Cookbook](https://github.com/dev-cafe/cmake-cookbook) | This repository collects sources for the recipes contained in the CMake Cookbook|
+| [Templates for CMake projects](https://github.com/izvolov/mylib) | Blog https://habr.com/ru/post/535602/|
+| [CMake Scripts](https://github.com/StableCoder/cmake-scripts) | A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.|
+| [Awesome CMake](https://github.com/onqtam/awesome-cmake) | A curated list of awesome CMake resources, scripts, modules and examples.|
 
 # Reactive systems
-* [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) - Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way
-* [RxCpp](https://github.com/ReactiveX/RxCpp) - The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time
-* [tower120](https://github.com/tower120/reactive) - Simple only reactive C++ library.
-* [schlangster](https://github.com/schlangster/cpp.react) - Data dependencies between state and event flows
-* [snakster](https://github.com/snakster/cpp.react) - C++React is reactive programming library for C++14
-* [Elma](https://github.com/klavinslab/elma) - Elma is an event loop and process manager for embedded and reactive systems.
-* [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++
-* [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) - One more implementation of ReactiveX approach in C++ with care about performance and templates in mind
-* [reactor](https://github.com/fantasy-peak/reactor) - C++17 and reactor mode task/timer executor
-* [ReCpp](https://github.com/pribault/ReCpp) - Reactive Extensions for C++
+| Link | Description |
+| --- | --- |
+| [C++ Reactive Programming](https://github.com/PacktPublishing/CPP-Reactive-Programming) | Book covers the essential functional reactive concepts that will help you build highly concurrent, event-driven, and asynchronous applications in a simpler and less error-prone way|
+| [RxCpp](https://github.com/ReactiveX/RxCpp) | The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time|
+| [tower120](https://github.com/tower120/reactive) | Simple only reactive C++ library.|
+| [schlangster](https://github.com/schlangster/cpp.react) | Data dependencies between state and event flows|
+| [snakster](https://github.com/snakster/cpp.react) | C++React is reactive programming library for C++14|
+| [Elma](https://github.com/klavinslab/elma) | Elma is an event loop and process manager for embedded and reactive systems.|
+| [µReact](https://github.com/YarikTH/ureact) | Minimalistic reactive library for c++|
+| [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) | One more implementation of ReactiveX approach in C++ with care about performance and templates in mind|
+| [reactor](https://github.com/fantasy-peak/reactor) | C++17 and reactor mode task/timer executor|
+| [ReCpp](https://github.com/pribault/ReCpp) | Reactive Extensions for C++|
 
 # Delegate
 * [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)
