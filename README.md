@@ -300,6 +300,7 @@ Good FSM implementation must support possibility easy inject custom code to:
 - TRANSITION pre/action/post
 - CONDITION for start/exit transition, being in state, etc.
 - Special cases like processing errors, shutdown, pause/resume, etc.
+
 | Link | Description |
 | --- | --- |
 | [TinyFSM](https://github.com/digint/tinyfsm) | simple finite state machine library for C++, designed for optimal performance and low memory footprint.|
