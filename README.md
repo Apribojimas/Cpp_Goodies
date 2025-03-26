@@ -72,7 +72,7 @@ Links to various cpp patterns or tutorials
 # Delegate
 | Link | Description |
 | --- | --- |
-| [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed)||
+| [The Impossibly Fast C++ Delegates, Fixed](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed) | Alternative for std::function|
 | [marcmo](https://github.com/marcmo/delegates) | Small delegate implementation.|
 | [bdiamand](https://github.com/bdiamand/Delegate) | Fixed-size C++ delegates - efficient alternatives to std::function.|
 | [nikitablack](https://github.com/nikitablack/cpp-tests) | C++ code tests and examples|
@@ -219,15 +219,17 @@ Links to various cpp patterns or tutorials
 | [libnop: C++ Native Object Protocols](https://github.com/google/libnop) | libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.|
 
 # JSON
-* [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
-* [ZenJSON](https://github.com/re-esper/zenjson) - Lightweight, ultra fast JSON parser/generator for C++ with intuitive API
-* [Fleece](https://github.com/couchbaselabs/fleece) - A super-fast, compact, JSON-equivalent binary data format
-* [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) - Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.
-* [coreJSON Library](https://github.com/FreeRTOS/coreJSON) - a parser that strictly enforces the ECMA-404 JSON standard and is suitable for low memory footprint embedded devices.
-* MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) - A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer
-* [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
-* [Bourne](https://github.com/r-lyeh-archived/bourne) - Bourne is a lightweight JSON de/serializer (C++11).
-* [Jsonifier](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON, in C++ - very rapidly.
+| Link | Description |
+| --- | --- |
+| [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) | C/C++ JSON parser/generator benchmark|
+| [ZenJSON](https://github.com/re-esper/zenjson) | Lightweight, ultra fast JSON parser/generator for C++ with intuitive API|
+| [Fleece](https://github.com/couchbaselabs/fleece) | A super-fast, compact, JSON-equivalent binary data format|
+| [Eonblast Fleece 0.3.1 Lite](https://github.com/Eonblast/fleece-lite) | Fleece is optimized for fastest Lua to JSON conversion and beats other JSON packages by around 10 times.|
+| [coreJSON Library](https://github.com/FreeRTOS/coreJSON) | a parser that strictly enforces the ECMA-404 JSON standard and is suitable for low memory footprint embedded devices.|
+| MiniJSON [minijson_reader](https://github.com/giacomodrago/minijson_reader) & [minijson_writer](https://github.com/giacomodrago/minijson_writer) | A simple, little-overhead, allocation-free, and extensible C++ JSON parser & writer|
+| [Glaze](https://github.com/stephenberry/glaze) | Extremely fast, in memory, JSON and interface library for modern C++|
+| [Bourne](https://github.com/r-lyeh-archived/bourne) | Bourne is a lightweight JSON de/serializer (C++11).|
+| [Jsonifier](https://github.com/RealTimeChris/Jsonifier) | A few classes for parsing and serializing objects from/into JSON, in C++ - very rapidly.|
 
 # Key/Value store
 Sometimes key/value store can replace configuration files, flat-file database, json files, log files
