@@ -233,103 +233,130 @@ Links to various cpp patterns or tutorials
 
 # Key/Value store
 Sometimes key/value store can replace configuration files, flat-file database, json files, log files
-* [FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data
-* [LevelDB](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-* [UnQLite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
-* [CalicoDB](https://github.com/andy-byers/CalicoDB) - A tiny embedded, transactional key-value database
-* [alphaKV](https://github.com/zhouxingtuan/alphaKV) - A simple key-value database, fast and lightweight.
-* [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
-* [SKVDB](https://github.com/negativ/skvdb) - Embedded simple key-value database library written in C++17.
-* [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-* [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store
-* [Litecask](https://github.com/dfeneyrou/litecask) - A high performance single-header embeddable persistent key-value store with indexing capabilities
-* [EmbedDB](https://github.com/ubco-db/EmbedDB) - EmbedDB Embedded Database for IoT and Sensors Supporting Key-Value and Relational Data
-* [EasyFlash](https://github.com/armink/EasyFlash) - Lightweight IoT device information storage solution: KV/IAP/LOG.
-* [IncludeDB](https://github.com/PitilessPeanut/IncludeDB) - Tiny key/value-store in a single, embeddable C file. For games, small servers, sbc, etc...
-* [pupa key-value library](https://github.com/agile6v/pupa) - A simple and efficient key-value library that can be easily integrated into your projects.
-* [C++ Cache implementation](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
+| Link | Description |
+| --- | --- |
+| [FlashDB](https://github.com/armink/FlashDB) | An ultra-lightweight database that supports key-value and time series data|
+| [LevelDB](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|
+| [UnQLite](https://github.com/symisc/unqlite) | An Embedded NoSQL, Transactional Database Engine|
+| [CalicoDB](https://github.com/andy-byers/CalicoDB) | A tiny embedded, transactional key-value database|
+| [alphaKV](https://github.com/zhouxingtuan/alphaKV) | A simple key-value database, fast and lightweight.|
+| [FASTER](https://github.com/microsoft/FASTER) | Fast persistent recoverable log and key-value store + cache, in C# and C++.|
+| [SKVDB](https://github.com/negativ/skvdb) | Embedded simple key-value database library written in C++17.|
+| [MMKV](https://github.com/Tencent/MMKV) | An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|
+| [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) | A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store|
+| [Litecask](https://github.com/dfeneyrou/litecask) | A high performance single-header embeddable persistent key-value store with indexing capabilities|
+| [EmbedDB](https://github.com/ubco-db/EmbedDB) | EmbedDB Embedded Database for IoT and Sensors Supporting Key-Value and Relational Data|
+| [EasyFlash](https://github.com/armink/EasyFlash) | Lightweight IoT device information storage solution: KV/IAP/LOG.|
+| [IncludeDB](https://github.com/PitilessPeanut/IncludeDB) | Tiny key/value-store in a single, embeddable C file. For games, small servers, sbc, etc...|
+| [pupa key-value library](https://github.com/agile6v/pupa) | A simple and efficient key-value library that can be easily integrated into your projects.|
+| [C++ Cache implementation](https://github.com/vpetrigo/caches) | C++ cache with LRU/LFU/FIFO policies implementation|
 
 # Data reflection
-* [Magic Enum C++](https://github.com/Neargye/magic_enum) - Library provides static reflection for enums
-* [USRefl](https://github.com/Ubpa/USRefl) - Header-only, tiny (99 lines) and powerful C++20 static reflection library.
-* [meta.hpp](https://github.com/BlackMATov/meta.hpp) - C++20 Dynamic Reflection Library
-* [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++
+| Link | Description |
+| --- | --- |
+| [Magic Enum C++](https://github.com/Neargye/magic_enum) | Library provides static reflection for enums|
+| [USRefl](https://github.com/Ubpa/USRefl) | Header-only, tiny (99 lines) and powerful C++20 static reflection library.|
+| [meta.hpp](https://github.com/BlackMATov/meta.hpp) | C++20 Dynamic Reflection Library|
+| [visit_struct](https://github.com/cbeck88/visit_struct) | A miniature library for struct-field reflection in C++|
 
 # Dependency Injection (DI), Inversion of Control, Lifecycle management
-* [injector](https://github.com/demurzasty/injector) - Header-only, tiny and easy to use library for dependency injection written in C++17.
-* [inject](https://github.com/z9u2k/inject) - Dependency injection for C++ - no macros, no code generation, no common base class
-* [inversify-cpp](https://github.com/mosure/inversify-cpp) - C++17 inversion of control and dependency injection container library.
-* [solinject](https://github.com/SemperSolus0x3d/solinject) - C++17 Dependency Injection header-only library
-* [kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11, C++14 and later
-* [cpp-di](https://github.com/snakster/cpp-di) - A minimalistic C++17 dependency injection framework.
-* [DI: Dependency Injection library](https://github.com/qlibs/di) - C++20 Dependency Injection library
+| Link | Description |
+| --- | --- |
+| [injector](https://github.com/demurzasty/injector) | Header-only, tiny and easy to use library for dependency injection written in C++17.|
+| [inject](https://github.com/z9u2k/inject) | Dependency injection for C++ - no macros, no code generation, no common base class|
+| [inversify-cpp](https://github.com/mosure/inversify-cpp) | C++17 inversion of control and dependency injection container library.|
+| [solinject](https://github.com/SemperSolus0x3d/solinject) | C++17 Dependency Injection header-only library|
+| [kangaru](https://github.com/gracicot/kangaru) | A dependency injection container for C++11, C++14 and later|
+| [cpp-di](https://github.com/snakster/cpp-di) | A minimalistic C++17 dependency injection framework.|
+| [DI: Dependency Injection library](https://github.com/qlibs/di) | C++20 Dependency Injection library|
 
 # Design pattern
-* [Refactoring.Guru](https://refactoring.guru/)
-* [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)
-* [Design-Patterns](https://github.com/arxitect/Design-Patterns) - Design patterns in the C++ programming language
+| Link | Description |
+| --- | --- |
+| [Refactoring.Guru](https://refactoring.guru/)||
+| [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)||
+| [Design-Patterns](https://github.com/arxitect/Design-Patterns) | Design patterns in the C++ programming language|
 
 # Logging
-* [Reckless logging](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
-* [ulog](https://github.com/shawnfeng0/ulog) - Micro C/C++ log library suitable for use with lightweight embedded devices.
-* [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
-* [Binlog](https://github.com/morganstanley/binlog) - A high performance C++ log library, producing structured binary logs
-* [NanoLog](https://github.com/Iyengar111/NanoLog) - Low Latency C++11 Logging Library
-* [NanoLogLite](https://github.com/MengRao/NanoLogLite) - A revised version of NanoLog which writes human readable log file, and is easier to use.
-* [g3log](https://github.com/KjellKod/g3log) - G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.
-* [lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library
+| Link | Description |
+| --- | --- |
+| [Reckless logging](https://github.com/mattiasflodin/reckless) | Low-latency, high-throughput, asynchronous logging library for C++.|
+| [ulog](https://github.com/shawnfeng0/ulog) | Micro C/C++ log library suitable for use with lightweight embedded devices.|
+| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library.|
+| [Binlog](https://github.com/morganstanley/binlog) | A high performance C++ log library, producing structured binary logs|
+| [NanoLog](https://github.com/Iyengar111/NanoLog) | Low Latency C++11 Logging Library|
+| [NanoLogLite](https://github.com/MengRao/NanoLogLite) | A revised version of NanoLog which writes human readable log file, and is easier to use.|
+| [g3log](https://github.com/KjellKod/g3log) | G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.|
+| [lwlog](https://github.com/ChristianPanov/lwlog) | Very fast synchronous and asynchronous C++17 logging library|
 
 # Date
-* [Date](https://github.com/HowardHinnant/date) - Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.
+| Link | Description |
+| --- | --- |
+| [Date](https://github.com/HowardHinnant/date) | Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.|
 
 # Finite state machine
-* [TinyFSM](https://github.com/digint/tinyfsm) - simple finite state machine library for C++, designed for optimal performance and low memory footprint.
-* [Another Finite State Machine](https://github.com/zmij/afsm) - afsm is a finite state machine C++14 library designed for usage in multithreaded asynchronous environment.
-* [HFSM2](https://github.com/andrew-gresyk/HFSM2) - Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.
-* [fea_state_machines](https://github.com/p-groarke/fea_state_machines) - A buffet of state machines.
-* [State machine](https://github.com/AdamsPL/state-machine/) - This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.
-* [HSMCPP](https://github.com/igor-krechetov/hsmcpp) - C++ based Hierarchical / Finite State Machine library oriented for embedded and RTOS systems.
-* [Finite State Machine for C++](https://github.com/eglimi/cppfsm) - A simple, generic, header-only state machine implementation for C++.
-* [cuestate](https://github.com/doraxcyle/cuestate) - C++ template metaprogramming FSM
+Good FSM implementation must support possibility easy inject custom code to:
+- STATE status/enter/exit
+- TRANSITION pre/action/post
+- CONDITION for start/exit transition, being in state, etc.
+- Special cases like processing errors, shutdown, pause/resume, etc.
+| Link | Description |
+| --- | --- |
+| [TinyFSM](https://github.com/digint/tinyfsm) | simple finite state machine library for C++, designed for optimal performance and low memory footprint.|
+| [Another Finite State Machine](https://github.com/zmij/afsm) | afsm is a finite state machine C++14 library designed for usage in multithreaded asynchronous environment.|
+| [HFSM2](https://github.com/andrew-gresyk/HFSM2) | Header-only heriarchical FSM framework in C++11, with fully statically-defined structure (no dynamic allocations), built with variadic templates.|
+| [fea_state_machines](https://github.com/p-groarke/fea_state_machines) | A buffet of state machines.|
+| [State machine](https://github.com/AdamsPL/state-machine/) | This repository contains code referenced in state-machine themed series of blog posts under sii.pl/blog/.|
+| [HSMCPP](https://github.com/igor-krechetov/hsmcpp) | C++ based Hierarchical / Finite State Machine library oriented for embedded and RTOS systems.|
+| [Finite State Machine for C++](https://github.com/eglimi/cppfsm) | A simple, generic, header-only state machine implementation for C++.|
+| [cuestate](https://github.com/doraxcyle/cuestate) | C++ template metaprogramming FSM|
 
 # Libraries
 library: a collection of types, functions, classes, etc. implementing a set of facilities (abstractions) meant to be potentially used as part of more that one program.
-* [Folly](https://github.com/facebook/folly) - Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.
-* [Facebook Template Library](https://github.com/facebook/fatal) - Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.
-* [tools](https://github.com/abbycin/tools) - header-only libraries written in modern C++ (11, 14, 17, 20).
-* [C++ libraries](https://cpp.libhunt.com/categories) - A curated list with C++ libraries
-* [The Reactive C++ Toolbox](https://github.com/reactivemarkets/toolbox-cpp) - The Reactive C++ Toolbox is an open source library of C++20 components designed for efficient aynchronous IO network applications on the Linux platform.
-* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - helps you write concise and readable C++ code.
-* [Yato](https://github.com/agruzdev/Yato) - useful snippets and abstractions for C++ development.
-* [cppfan](https://github.com/chunquedong/cppfan) - A collection of C++ foundation class.
-* [apex](https://github.com/netlify/apex) - providing shims for upcoming C++ standards library features
-* [Flutter Engine](https://github.com/flutter/engine) - Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. 
-* [libsolace](https://github.com/abbyssoul/libsolace) - libSolace is a library to help to build a mission-critical application.
-* [vrm_core](https://github.com/SuperV1234/vrm_core) - Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
-* [bs::framework](https://github.com/GameFoundry/bsf) - library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools
-* [bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
-* [RxLib](https://github.com/intact-software-systems/cpp-software-patterns) - collection of cpp patterns
-* [eCAL](https://github.com/continental/ecal) - eCAL - enhanced Communication Abstraction Layer
-* [CppCommon](https://github.com/chronoxor/CppCommon) - C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.
-* [C++ utilities](https://github.com/Martchus/cpp-utilities) - Useful C++ classes and routines such as argument parser, IO and conversion utilities.
-* [amp-embedded-infra-lib (EmIL)](https://github.com/philips-software/amp-embedded-infra-lib) - amp-embedded-infra-lib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development
-* [bit::stl Standard library](https://github.com/bitwizeshift/bit-stl) - A header-only library of custom template types. This is the standard library for most personal libraries
+| Link | Description |
+| --- | --- |
+| [Folly](https://github.com/facebook/folly) | Folly (acronymed loosely after Facebook Open Source Library) is a library of C++14 components designed with practicality and efficiency in mind. Folly contains a variety of core library components used extensively at Facebook.|
+| [Facebook Template Library](https://github.com/facebook/fatal) | Fatal (Facebook Template Library) is a library for fast prototyping software in modern C++.|
+| [tools](https://github.com/abbycin/tools) | header-only libraries written in modern C++ (11, 14, 17, 20).|
+| [C++ libraries](https://cpp.libhunt.com/categories) | A curated list with C++ libraries|
+| [The Reactive C++ Toolbox](https://github.com/reactivemarkets/toolbox-cpp) | The Reactive C++ Toolbox is an open source library of C++20 components designed for efficient aynchronous IO network applications on the Linux platform.|
+| [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | helps you write concise and readable C++ code.|
+| [Yato](https://github.com/agruzdev/Yato) | useful snippets and abstractions for C++ development.|
+| [cppfan](https://github.com/chunquedong/cppfan) | A collection of C++ foundation class.|
+| [apex](https://github.com/netlify/apex) | providing shims for upcoming C++ standards library features|
+| [Flutter Engine](https://github.com/flutter/engine) | Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. |
+| [libsolace](https://github.com/abbyssoul/libsolace) | libSolace is a library to help to build a mission-critical application.|
+| [vrm_core](https://github.com/SuperV1234/vrm_core) | Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)|
+| [bs::framework](https://github.com/GameFoundry/bsf) | library that aims to provide a unified foundation for the development of real-time graphical applications, whether games, engines or tools|
+| [bx](https://github.com/bkaradzic/bx) | Base library used across multiple projects|
+| [RxLib](https://github.com/intact-software-systems/cpp-software-patterns) | collection of cpp patterns|
+| [eCAL](https://github.com/continental/ecal) | eCAL - enhanced Communication Abstraction Layer|
+| [CppCommon](https://github.com/chronoxor/CppCommon) | C++ Common Library contains reusable components and patterns for error and exceptions handling, filesystem manipulations, math, string format and encoding, shared memory, threading, time management and others.|
+| [C++ utilities](https://github.com/Martchus/cpp-utilities) | Useful C++ classes and routines such as argument parser, IO and conversion utilities.|
+| [amp-embedded-infra-lib (EmIL)](https://github.com/philips-software/amp-embedded-infra-lib) | amp-embedded-infra-lib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development|
+| [bit::stl Standard library](https://github.com/bitwizeshift/bit-stl) | A header-only library of custom template types. This is the standard library for most personal libraries|
 
 # GUI
-* [GUI-lite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(4 KLOC) for all platforms
-* [Monochrome](https://github.com/FlareCoding/Monochrome) - Monochrome is an open source cross-platform GUI library
-* [lxgui](https://github.com/cschreib/lxgui) - GUI library
-* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
-* [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
-* [Elements C++ GUI library](https://github.com/cycfi/elements) - Elements is a lightweight, fine-grained, resolution independent, modular GUI library.
+| Link | Description |
+| --- | --- |
+| [GUI-lite](https://github.com/idea4good/GuiLite) | The smallest header-only GUI library(4 KLOC) for all platforms|
+| [Monochrome](https://github.com/FlareCoding/Monochrome) | Monochrome is an open source cross-platform GUI library|
+| [lxgui](https://github.com/cschreib/lxgui) | GUI library|
+| [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library|
+| [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.|
+| [Elements C++ GUI library](https://github.com/cycfi/elements) | Elements is a lightweight, fine-grained, resolution independent, modular GUI library.|
 
 ## Software
-* [MobaXterm](https://mobaxterm.mobatek.net/) - MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) 
-* [ghidra-sre](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
-* [JsonGrid](https://jsongrid.com/) - All-in-One Json solutions online
-* [sqlwatch.io](https://sqlwatch.io/) - Monitor and learn SQL Server for free.
-* [DevToys](https://devtoys.app/) - An Open-Source Swiss Army knife for developers.
-* [CPPINCLUDE](https://github.com/cppinclude/cppinclude) - Tool for analyzing includes in C++
+| Link | Description |
+| --- | --- |
+| [MobaXterm](https://mobaxterm.mobatek.net/) | MobaXterm provides all the important remote network tools (SSH, X11, RDP, VNC, FTP, MOSH, ...) |
+| [ghidra-sre](https://ghidra-sre.org/) | A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission|
+| [JsonGrid](https://jsongrid.com/) | All-in-One Json solutions online|
+| [sqlwatch.io](https://sqlwatch.io/) | Monitor and learn SQL Server for free.|
+| [DevToys](https://devtoys.app/) | An Open-Source Swiss Army knife for developers.|
+| [CPPINCLUDE](https://github.com/cppinclude/cppinclude) | Tool for analyzing includes in C++|
+| [Alligator](https://www.sikorskiy.net/info/prj/alligator/) | a tool to analyze debugger information .PDB files produced by 32/64-bit Visual Studio compiler and to present information about user defined structures (size, padding, members, etc).|
+| [Amap](https://www.sikorskiy.net/info/prj/amap/) | a tool to analyze .MAP files produced by 32/64-bit Visual Studio compiler and report the amount of memory being used by data and code. |
 
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
