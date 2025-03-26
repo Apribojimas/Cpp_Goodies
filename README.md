@@ -84,86 +84,96 @@ Links to various cpp patterns or tutorials
 | [Armillus](https://github.com/Armillus/Delegate) | Blazing fast, lightweight, safe, heapless, non-templated and header-only replacement for std::function for C++ 17 and beyond.|
 
 # Observable
-* [ddinu](https://github.com/ddinu/observable) - Generic observable objects and reactive expressions for C++
-* [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) - Event-driven library with statefull observable obejcts.
-* [rocket](https://github.com/tripleslash/rocket) - Fast C++ Observer Pattern
-* [Sigslot](https://github.com/palacaze/sigslot) - Sigslot is a header-only, thread safe implementation of signal-slots for C++.
-* [Signals](https://github.com/TheWisp/signals) - library is optimized for video games. signal-slot-benchmarks!!! with sources of plenty libraries
-* [observer_ptr](https://github.com/martinmoene/observer-ptr-lite) - observer-ptr is a single-file header-only library with a variant of std::experimental::observer_ptr for C++98 and later.
-* [Observable Library](https://github.com/dacap/observable) - Library to use the observer pattern in C++11 programs with observable/observer classes or signals/slots.
-* [observer](https://github.com/PG1003/observer) - An observer pattern / signal slot pattern that can ignore extra parameters like Qt's signals and slots.
-* [prettybxp](https://github.com/prettybxp/sigslot) - An implementation of the observer pattern by c++11
-* [Proto](https://github.com/N-A-D/proto) - A dependency free, single-header C++17 signals and slots implementation.
-* [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++17 Signals and Slots
+| Link | Description |
+| --- | --- |
+| [ddinu](https://github.com/ddinu/observable) | Generic observable objects and reactive expressions for C++|
+| [reactive-v4-observable](https://github.com/tower120/reactive-v4-observable) | Event-driven library with statefull observable obejcts.|
+| [rocket](https://github.com/tripleslash/rocket) | Fast C++ Observer Pattern|
+| [Sigslot](https://github.com/palacaze/sigslot) | Sigslot is a header-only, thread safe implementation of signal-slots for C++.|
+| [Signals](https://github.com/TheWisp/signals) | library is optimized for video games. signal-slot-benchmarks!!! with sources of plenty libraries|
+| [observer_ptr](https://github.com/martinmoene/observer-ptr-lite) | observer-ptr is a single-file header-only library with a variant of std::experimental::observer_ptr for C++98 and later.|
+| [Observable Library](https://github.com/dacap/observable) | Library to use the observer pattern in C++11 programs with observable/observer classes or signals/slots.|
+| [observer](https://github.com/PG1003/observer) | An observer pattern / signal slot pattern that can ignore extra parameters like Qt's signals and slots.|
+| [prettybxp](https://github.com/prettybxp/sigslot) | An implementation of the observer pattern by c++11|
+| [Proto](https://github.com/N-A-D/proto) | A dependency free, single-header C++17 signals and slots implementation.|
+| [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++17 Signals and Slots|
 
 # Property
-* [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) - A C++ API inspired by Cocoa's NSNotificationCenter API.
-* [bindey](https://github.com/kevin--/bindey) - provides the basic building block of MVVM -- an observable "Property" and a databinding mechanism.
-* [BODEN](https://github.com/AshampooSystems/boden/) - Property/Notifier
-* [C++ PropertySystem](https://github.com/KonanM/CppProperties) - this library are a wrapper around a value and a signal
-* [xproperty](https://github.com/jupyter-xeus/xproperty) - C++ properties and observer pattern
-* [EntityPlus](https://github.com/Yelnats321/EntityPlus) - EntityPlus is an Entity Component System library
-* [Event notifier](https://github.com/Stypox/event-notifier) - A C++ header-only library that lets you connect events to functions with a small and intuitive interface.
-* [gammasoft71_properties](https://github.com/gammasoft71/properties) - another c#-like property accessor for C++11 and above.
-* [Tectu](https://github.com/Tectu/cpp-properties) - A library that brings C# like properties to modern C++.
-* [PropertyEvent](https://github.com/DanIsraelMalta/Event) - This header only repository include the files required for the creation of an event system (not thread safe).
-* [RGBBinding](https://github.com/Epiphane/NCW/tree/master/source/Library/RGBBinding) - Rapidjson property binding
-* [basic_property](https://github.com/mvorbrodt/blog/blob/master/src/property.hpp) - Code samples from https://vorbrodt.blog
-* [EntityX](https://github.com/alecthomas/entityx) - EntityX - A fast, type-safe C++ Entity-Component system
+| Link | Description |
+| --- | --- |
+| [CPP-NotificationCenter](https://github.com/Geenz/CPP-NotificationCenter) | A C++ API inspired by Cocoa's NSNotificationCenter API.|
+| [bindey](https://github.com/kevin--/bindey) | provides the basic building block of MVVM -- an observable "Property" and a databinding mechanism.|
+| [BODEN](https://github.com/AshampooSystems/boden/) | Property/Notifier|
+| [C++ PropertySystem](https://github.com/KonanM/CppProperties) | this library are a wrapper around a value and a signal|
+| [xproperty](https://github.com/jupyter-xeus/xproperty) | C++ properties and observer pattern|
+| [EntityPlus](https://github.com/Yelnats321/EntityPlus) | EntityPlus is an Entity Component System library|
+| [Event notifier](https://github.com/Stypox/event-notifier) | A C++ header-only library that lets you connect events to functions with a small and intuitive interface.|
+| [gammasoft71_properties](https://github.com/gammasoft71/properties) | another c#-like property accessor for C++11 and above.|
+| [Tectu](https://github.com/Tectu/cpp-properties) | A library that brings C# like properties to modern C++.|
+| [PropertyEvent](https://github.com/DanIsraelMalta/Event) | This header only repository include the files required for the creation of an event system (not thread safe).|
+| [RGBBinding](https://github.com/Epiphane/NCW/tree/master/source/Library/RGBBinding) | Rapidjson property binding|
+| [basic_property](https://github.com/mvorbrodt/blog/blob/master/src/property.hpp) | Code samples from https://vorbrodt.blog|
+| [EntityX](https://github.com/alecthomas/entityx) | EntityX - A fast, type-safe C++ Entity-Component system|
 
 # MPMC queue (multi-consumer multi-producer)
-* [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - An industrial-strength lock-free queue for C++.
-* [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming.
-* [SeaStar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner
-* [eventpp](https://github.com/wqking/eventpp) - C++ library for event dispatcher and callback list
-* [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>
-* [craflin](https://github.com/craflin/LockFreeQueue) - A lock-free multi-producer multi-consumer ring buffer FIFO queue.
-* [SPSC_Queue](https://github.com/MengRao/SPSC_Queue) - A highly optimized single producer single consumer message queue C++ template
-* [WFMPMC](https://github.com/MengRao/WFMPMC) - A bounded wait-free(almost) zero-copy MPMC queue written in C++11, which can also reside in SHM for IPC
-* [lockfree_mpmc_queue](https://github.com/erez-strauss/lockfree_mpmc_queue) - Lockfree, atomic, multi producer, multi consumer, C++, in process and inter-process queue
-* [lockfree](https://github.com/huachaohuang/lockfree) - Lockfree algorithms collection
-* [C++ Lockless MP/MC Queue](https://github.com/NoxxGames/MPMCQueueLocklessCPP) - A simple Lockless Multi-Producer, Multi-Consumer Queue Type. Written in Cpp
-* [atomic_queues](https://github.com/joadnacer/atomic_queues) - Fast bounded MPMC and SPSC queues for C++20
-* [riften::Deque](https://github.com/ConorWilliams/ConcurrentDeque) - Fast, generalized, implementation of the Chase-Lev lock-free work-stealing deque for C++17
-* [Lock Free Data Structures](https://github.com/BagritsevichStepan/lock-free-data-structures) - Low latency lock free SPSC, SPMC, MPMC Queue and Stack. Fast SpinLock, SeqLock
+| Link | Description |
+| --- | --- |
+| [moodycamel::ConcurrentQueue](https://github.com/cameron314/concurrentqueue) | An industrial-strength lock-free queue for C++.|
+| [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree) | A collection of resources on wait-free and lock-free programming.|
+| [SeaStar](https://github.com/scylladb/seastar) | SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner|
+| [eventpp](https://github.com/wqking/eventpp) | C++ library for event dispatcher and callback list|
+| [atomic_queue](https://github.com/max0x7ba/atomic_queue) | C++11 multiple-producer-multiple-consumer lockless queues based on std::atomic<>|
+| [craflin](https://github.com/craflin/LockFreeQueue) | A lock-free multi-producer multi-consumer ring buffer FIFO queue.|
+| [SPSC_Queue](https://github.com/MengRao/SPSC_Queue) | A highly optimized single producer single consumer message queue C++ template|
+| [WFMPMC](https://github.com/MengRao/WFMPMC) | A bounded wait-free(almost) zero-copy MPMC queue written in C++11, which can also reside in SHM for IPC|
+| [lockfree_mpmc_queue](https://github.com/erez-strauss/lockfree_mpmc_queue) | Lockfree, atomic, multi producer, multi consumer, C++, in process and inter-process queue|
+| [lockfree](https://github.com/huachaohuang/lockfree) | Lockfree algorithms collection|
+| [C++ Lockless MP/MC Queue](https://github.com/NoxxGames/MPMCQueueLocklessCPP) | A simple Lockless Multi-Producer, Multi-Consumer Queue Type. Written in Cpp|
+| [atomic_queues](https://github.com/joadnacer/atomic_queues) | Fast bounded MPMC and SPSC queues for C++20|
+| [riften::Deque](https://github.com/ConorWilliams/ConcurrentDeque) | Fast, generalized, implementation of the Chase-Lev lock-free work-stealing deque for C++17|
+| [Lock Free Data Structures](https://github.com/BagritsevichStepan/lock-free-data-structures) | Low latency lock free SPSC, SPMC, MPMC Queue and Stack. Fast SpinLock, SeqLock|
 
 # Event bus
-* [EventBus](https://github.com/gelldur/EventBus) - Simple and very fast event bus
-* [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) - eventbus is a simple, header only C++17 event bus library
-* [courier](https://github.com/reconndev/courier) - A simple, lightweight C++17 event bus/dispatcher.
-* [mmcshane](https://github.com/mmcshane/eventbus) - It's an event bus. Subscribe to events. Publish events.
-* [WormHoles](https://github.com/helcl42/WormHoles) - WormHoles is a multiplatform header-only library implementing a general and threadsafe event bus.
-* [Events](https://github.com/itstristanb/Events) - Event system that allows for clients to attach callbacks to a host which then can be invoked at any time
-* [PubBus](https://github.com/eXpl0it3r/PubBus) - PubBus is a simple, header-only implementation of a MessageBus.
-* [Microcontroller message bus](https://github.com/cvra/msgbus) - Microcontroller message bus
-* [Ichor](https://github.com/volt-software/Ichor) - C++ framework/middleware for thread confinement and dependency injection.
-* [PhxQueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
-* [cyan](https://github.com/sayan-chaliha/cyan) - A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.
+| Link | Description |
+| --- | --- |
+| [EventBus](https://github.com/gelldur/EventBus) | Simple and very fast event bus|
+| [DeveloperPaul123](https://github.com/DeveloperPaul123/eventbus) | eventbus is a simple, header only C++17 event bus library|
+| [courier](https://github.com/reconndev/courier) | A simple, lightweight C++17 event bus/dispatcher.|
+| [mmcshane](https://github.com/mmcshane/eventbus) | It's an event bus. Subscribe to events. Publish events.|
+| [WormHoles](https://github.com/helcl42/WormHoles) | WormHoles is a multiplatform header-only library implementing a general and threadsafe event bus.|
+| [Events](https://github.com/itstristanb/Events) | Event system that allows for clients to attach callbacks to a host which then can be invoked at any time|
+| [PubBus](https://github.com/eXpl0it3r/PubBus) | PubBus is a simple, header-only implementation of a MessageBus.|
+| [Microcontroller message bus](https://github.com/cvra/msgbus) | Microcontroller message bus|
+| [Ichor](https://github.com/volt-software/Ichor) | C++ framework/middleware for thread confinement and dependency injection.|
+| [PhxQueue](https://github.com/Tencent/phxqueue) | A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.|
+| [cyan](https://github.com/sayan-chaliha/cyan) | A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.|
 
 # Threading, concurancy, task execution, timers
-* [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
-* [cpptask](https://github.com/Kolkir/cpptask) - "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
-* [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
-* [Async++](https://github.com/Amanieu/asyncplusplus) - Async++ is a lightweight concurrency framework for C++11
-* [riften::Thiefpool](https://github.com/ConorWilliams/Threadpool) - A blazing-fast, lightweight, work-stealing thread-pool for C++20
-* [transwarp](https://github.com/bloomen/transwarp) - C++ library for task concurrency
-* [Marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11.
-* [q](https://github.com/grantila/q) - A platform-independent promise library for C++, implementing asynchronous continuations.
-* [enkiTS](https://github.com/dougbinks/enkiTS) - Task Scheduler for creating parallel programs
-* [lockfreepool](https://github.com/leaout/lockfreepool) - a lockfree thread pool
-* [BlockingCollection](https://github.com/CodeExMachina/BlockingCollection) - C++11 thread safe, multi-producer, multi-consumer blocking queue, stack & priority queue class
-* [Smart Thread Pool](https://github.com/Leosocy/SmartThreadPool) - A smart C++11 thread pool. Efficiently schedule your threads using "Classify Thread Pool", "Priority Task Queue". And also provide "Self-Adaption Pool Capacity" policy, "State Monitor" of tasks and workers function.
-* [Grid Dispatcher](https://github.com/paintdream/grid_dispatcher) - Grid dispatcher is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher.
-* [psched](https://github.com/p-ranav/psched) - Priority-based Task Scheduling for Modern C++
-* [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool
-* [Thread-Safe Timer Pool](https://github.com/abcminiuser/cpptimerpool) - Simple C++14 thread-safe timer pool.
-* [TimerThread](https://github.com/Clovel/TimerThread) - This class impelements a threaded timer/clock system.
-* [Callback Timer](https://github.com/messenger1th/Callback-Timer) - Callback Timer: restart, pause, set_period, shutdown. Based On C++11.
-* [thread-pool-cpp](https://github.com/yvoinov/thread-pool-cpp) - High performance C++11 thread pool
-* [C++11 Task Scheduler](https://github.com/Naios/TaskScheduler) - Use functors, lambdas and std::chrono to schedule tasks in the near future
-* [ThreadPool + jthread](https://github.com/mjshakir/ThreadPool) - Efficient, flexible parallel task execution in C++ using std::jthread. ThreadPool simplifies thread management and offers priority-based task scheduling with Deque or PriorityQueue.
-* [Taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
-* [DeveloperPaul123-thread-pool](https://github.com/DeveloperPaul123/thread-pool) - A modern, fast, lightweight thread pool library based on C++20
+| Link | Description |
+| --- | --- |
+| [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
+| [cpptask](https://github.com/Kolkir/cpptask) - "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
+| [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
+| [Async++](https://github.com/Amanieu/asyncplusplus) | Async++ is a lightweight concurrency framework for C++11|
+| [riften::Thiefpool](https://github.com/ConorWilliams/Threadpool) | A blazing-fast, lightweight, work-stealing thread-pool for C++20|
+| [transwarp](https://github.com/bloomen/transwarp) | C++ library for task concurrency|
+| [Marl](https://github.com/google/marl) | Marl is a hybrid thread / fiber task scheduler written in C++ 11.|
+| [q](https://github.com/grantila/q) | A platform-independent promise library for C++, implementing asynchronous continuations.|
+| [enkiTS](https://github.com/dougbinks/enkiTS) | Task Scheduler for creating parallel programs|
+| [lockfreepool](https://github.com/leaout/lockfreepool) | a lockfree thread pool|
+| [BlockingCollection](https://github.com/CodeExMachina/BlockingCollection) | C++11 thread safe, multi-producer, multi-consumer blocking queue, stack & priority queue class|
+| [Smart Thread Pool](https://github.com/Leosocy/SmartThreadPool) | A smart C++11 thread pool. Efficiently schedule your threads using "Classify Thread Pool", "Priority Task Queue". And also provide "Self-Adaption Pool Capacity" policy, "State Monitor" of tasks and workers function.|
+| [Grid Dispatcher](https://github.com/paintdream/grid_dispatcher) | Grid dispatcher is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher.|
+| [psched](https://github.com/p-ranav/psched) | Priority-based Task Scheduling for Modern C++|
+| [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) | High performance C++11 thread pool|
+| [Thread-Safe Timer Pool](https://github.com/abcminiuser/cpptimerpool) | Simple C++14 thread-safe timer pool.|
+| [TimerThread](https://github.com/Clovel/TimerThread) | This class impelements a threaded timer/clock system.|
+| [Callback Timer](https://github.com/messenger1th/Callback-Timer) | Callback Timer: restart, pause, set_period, shutdown. Based On C++11.|
+| [thread-pool-cpp](https://github.com/yvoinov/thread-pool-cpp) | High performance C++11 thread pool|
+| [C++11 Task Scheduler](https://github.com/Naios/TaskScheduler) | Use functors, lambdas and std::chrono to schedule tasks in the near future|
+| [ThreadPool + jthread](https://github.com/mjshakir/ThreadPool) | Efficient, flexible parallel task execution in C++ using std::jthread. ThreadPool simplifies thread management and offers priority-based task scheduling with Deque or PriorityQueue.|
+| [Taskflow](https://github.com/taskflow/taskflow) | A General-purpose Task-parallel Programming System using Modern C++|
+| [DeveloperPaul123-thread-pool](https://github.com/DeveloperPaul123/thread-pool) | A modern, fast, lightweight thread pool library based on C++20|
 
 # Actor frameworks
 * [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
