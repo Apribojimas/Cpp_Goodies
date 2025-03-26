@@ -151,9 +151,9 @@ Links to various cpp patterns or tutorials
 # Threading, concurancy, task execution, timers
 | Link | Description |
 | --- | --- |
-| [ThreadPool](https://github.com/Fdhvdu/ThreadPool) - This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
-| [cpptask](https://github.com/Kolkir/cpptask) - "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
-| [concurrencpp](https://github.com/David-Haim/concurrencpp) - concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
+| [ThreadPool](https://github.com/Fdhvdu/ThreadPool) | This is a pure (which means it doesn't depend on any platform) and exception-safety C++ threadpool
+| [cpptask](https://github.com/Kolkir/cpptask) | "cpptask" is an open source library which implements load balanced task scheduler for developing parallel C++ programs.
+| [concurrencpp](https://github.com/David-Haim/concurrencpp) | concurrencpp is a tasking library for C++ allowing developers to write highly concurrent applications easily and safely by using tasks, executors and coroutines.
 | [Async++](https://github.com/Amanieu/asyncplusplus) | Async++ is a lightweight concurrency framework for C++11|
 | [riften::Thiefpool](https://github.com/ConorWilliams/Threadpool) | A blazing-fast, lightweight, work-stealing thread-pool for C++20|
 | [transwarp](https://github.com/bloomen/transwarp) | C++ library for task concurrency|
