@@ -96,7 +96,7 @@ Links to various cpp patterns or tutorials
 | [observer](https://github.com/PG1003/observer) | An observer pattern / signal slot pattern that can ignore extra parameters like Qt's signals and slots.|
 | [prettybxp](https://github.com/prettybxp/sigslot) | An implementation of the observer pattern by c++11|
 | [Proto](https://github.com/N-A-D/proto) | A dependency free, single-header C++17 signals and slots implementation.|
-| [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++17 Signals and Slots|
+| [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) | Pure C++17 Signals and Slots|
 
 # Property
 | Link | Description |
@@ -176,43 +176,47 @@ Links to various cpp patterns or tutorials
 | [DeveloperPaul123-thread-pool](https://github.com/DeveloperPaul123/thread-pool) | A modern, fast, lightweight thread pool library based on C++20|
 
 # Actor frameworks
-* [actor-zeta](https://github.com/cyberduckninja/actor-zeta) - virtual actor model implementation featuring lightweight & fast and more
-* [microAkka](https://github.com/vortex314/microAkka) - Akka framework in C++ on microcontrollers
-* [C++ Actor Framework](https://github.com/isndev/qb) - The qb framework is a thin-layer multicore-optimized the Actor model
-* [Rotor](https://github.com/basiliscos/cpp-rotor) - rotor is event loop friendly C++ actor micro framework.
-* [libagents](https://sourceforge.net/projects/libagents/) - A multi-threaded C++11 implementation of the Actor Model
-* [Theron](http://www.ashtonmason.net/portfolio/theron/) - For sources and doc http://www.ashtonmason.net/portfolio/theron/
-* [Theron++: An Actor Framework for C++](https://github.com/GeirHo/TheronPlusPlus) - Theron++ is an actor framework conforming to the Theron API with extensions for distributed communication
-* [RStein.AsyncCpp](https://github.com/renestein/Rstein.AsyncCpp) - threadless actors (agents)
-* [sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework
-* [qpcpp](https://github.com/QuantumLeaps/qpcpp) - for building modern embedded software as systems of asynchronous, event-driven active objects (actors)
-* [protoactor-cpp](https://github.com/whitglint/protoactor-cpp) - Ultra-fast, distributed, cross-platform actors.
-* [artpaul](https://github.com/artpaul/acto) -  Actors are light-weight objects, and they interact fully asynchronously with messages.
-* [christianparpart](https://github.com/christianparpart/actor-model) - Actor Model library. It was written purely out of fun.
-* [Asynchronous Agents Library](http://msdn.microsoft.com/en-us/library/dd492627.aspx) - The Agents Library is a C++ template library that promotes an actor-based programming model and in-process message passing for coarse-grained dataflow and pipelining tasks.
-* [syscpp](https://github.com/lightful/syscpp/) - ActorThread: Active Object pattern in C++
-* [HAM-2015/CPP-Actor-framework](https://github.com/HAM-2015/CPP-Actor-framework) - 
-* [libprocess](https://github.com/3rdparty/libprocess) - Library that provides an actor style message-passing programming model
-* [μActor](https://github.com/uActor/uActor) - μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.
-* [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) - A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)
-* [nano-caf](https://github.com/netcan/nano-caf) - A rapid tiny C++ actor framework for embedded system.
-* [nano-caf-2](https://github.com/godsme/nano-caf-2) - a simple C++ actor framework for embedded system.
-* [Sactor](https://github.com/r12f/sactor) - A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.
-* [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) - C++ 14 actor framework
-* [coroactors](https://github.com/snaury/coroactors) - Experimental actors with C++ coroutines
+| Link | Description |
+| --- | --- |
+| [actor-zeta](https://github.com/cyberduckninja/actor-zeta) | virtual actor model implementation featuring lightweight & fast and more|
+| [microAkka](https://github.com/vortex314/microAkka) | Akka framework in C++ on microcontrollers|
+| [C++ Actor Framework](https://github.com/isndev/qb) | The qb framework is a thin-layer multicore-optimized the Actor model|
+| [Rotor](https://github.com/basiliscos/cpp-rotor) | rotor is event loop friendly C++ actor micro framework.|
+| [libagents](https://sourceforge.net/projects/libagents/) | A multi-threaded C++11 implementation of the Actor Model|
+| [Theron](http://www.ashtonmason.net/portfolio/theron/) | For sources and doc http://www.ashtonmason.net/portfolio/theron/|
+| [Theron++: An Actor Framework for C++](https://github.com/GeirHo/TheronPlusPlus) | Theron++ is an actor framework conforming to the Theron API with extensions for distributed communication|
+| [RStein.AsyncCpp](https://github.com/renestein/Rstein.AsyncCpp) | threadless actors (agents)|
+| [sobjectizer](https://github.com/Stiffstream/sobjectizer) | An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework|
+| [qpcpp](https://github.com/QuantumLeaps/qpcpp) | for building modern embedded software as systems of asynchronous, event-driven active objects (actors)|
+| [protoactor-cpp](https://github.com/whitglint/protoactor-cpp) | Ultra-fast, distributed, cross-platform actors.|
+| [artpaul](https://github.com/artpaul/acto) | Actors are light-weight objects, and they interact fully asynchronously with messages.|
+| [christianparpart](https://github.com/christianparpart/actor-model) | Actor Model library. It was written purely out of fun.|
+| [Asynchronous Agents Library](http://msdn.microsoft.com/en-us/library/dd492627.aspx) | The Agents Library is a C++ template library that promotes an actor-based programming model and in-process message passing for coarse-grained dataflow and pipelining tasks.|
+| [syscpp](https://github.com/lightful/syscpp/) | ActorThread: Active Object pattern in C++|
+| [HAM-2015/CPP-Actor-framework](https://github.com/HAM-2015/CPP-Actor-framework) | |
+| [libprocess](https://github.com/3rdparty/libprocess) | Library that provides an actor style message-passing programming model|
+| [μActor](https://github.com/uActor/uActor) | μActor: Stateful Serverless at the Edge. Platform for running actors on various devices.|
+| [React++](https://git.uwaterloo.ca/mnakhan/ReactPlusPlus) | A lightweight C++ actor library. [A thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16389/Khan_MdNavidAlvee.pdf?sequence=3&isAllowed=y)|
+| [nano-caf](https://github.com/netcan/nano-caf) | A rapid tiny C++ actor framework for embedded system.|
+| [nano-caf-2](https://github.com/godsme/nano-caf-2) | a simple C++ actor framework for embedded system.|
+| [Sactor](https://github.com/r12f/sactor) | A light-weighted actor model framework designed for small IoT devices based on FreeRTOS.|
+| [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) | C++ 14 actor framework|
+| [coroactors](https://github.com/snaury/coroactors) | Experimental actors with C++ coroutines|
 
 # Serialization
-* [cpp-serializers](https://github.com/thekvs/cpp-serializers) - Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++
-* [FlatBuffers](http://google.github.io/flatbuffers/) - cross platform serialization library
-* [zpp serializer](https://github.com/eyalz800/serializer) - A single header only standard C++ serialization framework.
-* [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) - Fast and simple C++ serializer
-* [DAW JSON Link v2](https://github.com/beached/daw_json_link) - Fast JSON serialization and parsing in C++
-* [alpaca](https://github.com/p-ranav/alpaca) - Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code
-* [zpp::bits](https://github.com/eyalz800/zpp_bits) - A lightweight C++20 serialization and RPC library. [zpp serializer](https://github.com/eyalz800/serializer) - same C++17
-* [StructMapping](https://github.com/bk192077/struct_mapping) - Mapping json to and from a c++ structure
-* [Cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
-* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library.
-* [libnop: C++ Native Object Protocols](https://github.com/google/libnop) - libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.
+| Link | Description |
+| --- | --- |
+| [cpp-serializers](https://github.com/thekvs/cpp-serializers) | Benchmark comparing various data serialization libraries (thrift, protobuf etc.) for C++|
+| [FlatBuffers](http://google.github.io/flatbuffers/) | cross platform serialization library|
+| [zpp serializer](https://github.com/eyalz800/serializer) | A single header only standard C++ serialization framework.|
+| [Plain Old Data Serializer (PODS)](https://github.com/mtrempoltsev/pods) | Fast and simple C++ serializer|
+| [DAW JSON Link v2](https://github.com/beached/daw_json_link) | Fast JSON serialization and parsing in C++|
+| [alpaca](https://github.com/p-ranav/alpaca) | Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code|
+| [zpp::bits](https://github.com/eyalz800/zpp_bits) | A lightweight C++20 serialization and RPC library. [zpp serializer](https://github.com/eyalz800/serializer) - same C++17|
+| [StructMapping](https://github.com/bk192077/struct_mapping) | Mapping json to and from a c++ structure|
+| [Cista](https://github.com/felixguendling/cista) | Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.|
+| [Bitsery](https://github.com/fraillt/bitsery) | Header only C++ binary serialization library.|
+| [libnop: C++ Native Object Protocols](https://github.com/google/libnop) | libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.|
 
 # JSON
 * [Native JSON Benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
