@@ -1,6 +1,7 @@
 # Cpp_Goodies
 Links to various cpp patterns or tutorials
 
+---
 # Tutorials / Links collections
 | Link | Description |
 | --- | --- |
@@ -47,6 +48,7 @@ Links to various cpp patterns or tutorials
 | [STL Preview](https://github.com/lackhole/stl-preview) | C++26 STL for C++14~ developers|
 | [C++ links](https://github.com/MattPD/cpplinks) | A categorized list of C++ resources.|
 
+---
 # CMake
 | Link | Description |
 | --- | --- |
@@ -55,6 +57,7 @@ Links to various cpp patterns or tutorials
 | [CMake Scripts](https://github.com/StableCoder/cmake-scripts) | A selection of useful scripts for use in CMake projects, include code coverage, sanitizers, and dependency graph generation.|
 | [Awesome CMake](https://github.com/onqtam/awesome-cmake) | A curated list of awesome CMake resources, scripts, modules and examples.|
 
+---
 # Reactive systems
 | Link | Description |
 | --- | --- |
@@ -69,6 +72,7 @@ Links to various cpp patterns or tutorials
 | [reactor](https://github.com/fantasy-peak/reactor) | C++17 and reactor mode task/timer executor|
 | [ReCpp](https://github.com/pribault/ReCpp) | Reactive Extensions for C++|
 
+---
 # Delegate
 | Link | Description |
 | --- | --- |
@@ -83,6 +87,7 @@ Links to various cpp patterns or tutorials
 | [Unbelievably Fast Delegate](https://github.com/bitwizeshift/Delegate) | Delegate is an unbelievably fast, lightweight, and 0-overhead function container.|
 | [Armillus](https://github.com/Armillus/Delegate) | Blazing fast, lightweight, safe, heapless, non-templated and header-only replacement for std::function for C++ 17 and beyond.|
 
+---
 # Observable
 | Link | Description |
 | --- | --- |
@@ -98,6 +103,7 @@ Links to various cpp patterns or tutorials
 | [Proto](https://github.com/N-A-D/proto) | A dependency free, single-header C++17 signals and slots implementation.|
 | [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) | Pure C++17 Signals and Slots|
 
+---
 # Property
 | Link | Description |
 | --- | --- |
@@ -115,6 +121,7 @@ Links to various cpp patterns or tutorials
 | [basic_property](https://github.com/mvorbrodt/blog/blob/master/src/property.hpp) | Code samples from https://vorbrodt.blog|
 | [EntityX](https://github.com/alecthomas/entityx) | EntityX - A fast, type-safe C++ Entity-Component system|
 
+---
 # MPMC queue (multi-consumer multi-producer)
 | Link | Description |
 | --- | --- |
@@ -133,6 +140,7 @@ Links to various cpp patterns or tutorials
 | [riften::Deque](https://github.com/ConorWilliams/ConcurrentDeque) | Fast, generalized, implementation of the Chase-Lev lock-free work-stealing deque for C++17|
 | [Lock Free Data Structures](https://github.com/BagritsevichStepan/lock-free-data-structures) | Low latency lock free SPSC, SPMC, MPMC Queue and Stack. Fast SpinLock, SeqLock|
 
+---
 # Event bus
 | Link | Description |
 | --- | --- |
@@ -148,6 +156,7 @@ Links to various cpp patterns or tutorials
 | [PhxQueue](https://github.com/Tencent/phxqueue) | A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.|
 | [cyan](https://github.com/sayan-chaliha/cyan) | A lock-free, wait-free, event-driven, cross-platform, thread pool-backed asynchronous execution library in C++.|
 
+---
 # Threading, concurancy, task execution, timers
 | Link | Description |
 | --- | --- |
@@ -175,6 +184,7 @@ Links to various cpp patterns or tutorials
 | [Taskflow](https://github.com/taskflow/taskflow) | A General-purpose Task-parallel Programming System using Modern C++|
 | [DeveloperPaul123-thread-pool](https://github.com/DeveloperPaul123/thread-pool) | A modern, fast, lightweight thread pool library based on C++20|
 
+---
 # Actor frameworks
 | Link | Description |
 | --- | --- |
@@ -203,6 +213,7 @@ Links to various cpp patterns or tutorials
 | [Yaaf - yet another actor framework.](https://github.com/lysevi/yaaf) | C++ 14 actor framework|
 | [coroactors](https://github.com/snaury/coroactors) | Experimental actors with C++ coroutines|
 
+---
 # Serialization
 | Link | Description |
 | --- | --- |
@@ -218,6 +229,7 @@ Links to various cpp patterns or tutorials
 | [Bitsery](https://github.com/fraillt/bitsery) | Header only C++ binary serialization library.|
 | [libnop: C++ Native Object Protocols](https://github.com/google/libnop) | libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.|
 
+---
 # JSON
 | Link | Description |
 | --- | --- |
@@ -231,6 +243,7 @@ Links to various cpp patterns or tutorials
 | [Bourne](https://github.com/r-lyeh-archived/bourne) | Bourne is a lightweight JSON de/serializer (C++11).|
 | [Jsonifier](https://github.com/RealTimeChris/Jsonifier) | A few classes for parsing and serializing objects from/into JSON, in C++ - very rapidly.|
 
+---
 # Key/Value store
 Sometimes key/value store can replace configuration files, flat-file database, json files, log files
 | Link | Description |
@@ -251,6 +264,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 | [pupa key-value library](https://github.com/agile6v/pupa) | A simple and efficient key-value library that can be easily integrated into your projects.|
 | [C++ Cache implementation](https://github.com/vpetrigo/caches) | C++ cache with LRU/LFU/FIFO policies implementation|
 
+---
 # Data reflection
 | Link | Description |
 | --- | --- |
@@ -259,6 +273,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 | [meta.hpp](https://github.com/BlackMATov/meta.hpp) | C++20 Dynamic Reflection Library|
 | [visit_struct](https://github.com/cbeck88/visit_struct) | A miniature library for struct-field reflection in C++|
 
+---
 # Dependency Injection (DI), Inversion of Control, Lifecycle management
 | Link | Description |
 | --- | --- |
@@ -270,6 +285,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 | [cpp-di](https://github.com/snakster/cpp-di) | A minimalistic C++17 dependency injection framework.|
 | [DI: Dependency Injection library](https://github.com/qlibs/di) | C++20 Dependency Injection library|
 
+---
 # Design pattern
 | Link | Description |
 | --- | --- |
@@ -277,6 +293,7 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 | [C++ Design Patterns](https://github.com/JakubVojvoda/design-patterns-cpp)||
 | [Design-Patterns](https://github.com/arxitect/Design-Patterns) | Design patterns in the C++ programming language|
 
+---
 # Logging
 | Link | Description |
 | --- | --- |
@@ -289,11 +306,13 @@ Sometimes key/value store can replace configuration files, flat-file database, j
 | [g3log](https://github.com/KjellKod/g3log) | G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.|
 | [lwlog](https://github.com/ChristianPanov/lwlog) | Very fast synchronous and asynchronous C++17 logging library|
 
+---
 # Date
 | Link | Description |
 | --- | --- |
 | [Date](https://github.com/HowardHinnant/date) | Several separate C++11/C++14/C++17 libraries for date topics. Timezone library, ISO week date calendar, Julian calendar, Islamic calendar.|
 
+---
 # Finite state machine
 Good FSM implementation must support possibility easy inject custom code to:
 - STATE status/enter/exit
@@ -312,6 +331,7 @@ Good FSM implementation must support possibility easy inject custom code to:
 | [Finite State Machine for C++](https://github.com/eglimi/cppfsm) | A simple, generic, header-only state machine implementation for C++.|
 | [cuestate](https://github.com/doraxcyle/cuestate) | C++ template metaprogramming FSM|
 
+---
 # Libraries
 library: a collection of types, functions, classes, etc. implementing a set of facilities (abstractions) meant to be potentially used as part of more that one program.
 | Link | Description |
@@ -337,6 +357,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [amp-embedded-infra-lib (EmIL)](https://github.com/philips-software/amp-embedded-infra-lib) | amp-embedded-infra-lib is a set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development|
 | [bit::stl Standard library](https://github.com/bitwizeshift/bit-stl) | A header-only library of custom template types. This is the standard library for most personal libraries|
 
+---
 # GUI
 | Link | Description |
 | --- | --- |
@@ -347,6 +368,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [Light and Versatile Graphics Library](https://github.com/lvgl/lvgl) | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.|
 | [Elements C++ GUI library](https://github.com/cycfi/elements) | Elements is a lightweight, fine-grained, resolution independent, modular GUI library.|
 
+---
 ## Software
 | Link | Description |
 | --- | --- |
@@ -359,6 +381,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [Alligator](https://www.sikorskiy.net/info/prj/alligator/) | a tool to analyze debugger information .PDB files produced by 32/64-bit Visual Studio compiler and to present information about user defined structures (size, padding, members, etc).|
 | [Amap](https://www.sikorskiy.net/info/prj/amap/) | a tool to analyze .MAP files produced by 32/64-bit Visual Studio compiler and report the amount of memory being used by data and code. |
 
+---
 ## Code bloat
 * [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
 * [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
@@ -366,6 +389,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [SymbolSort](https://github.com/adrianstone55/SymbolSort) - SymbolSort is a utility for analyzing code bloat in C++ applications.
 * [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra Software Reverse Engineering Framework
 
+---
 # Embedded
 * [Awesome embedded software list](https://github.com/iDoka/awesome-embedded-software) - attempt to create list of software (HW, libs, protocols, etc) for Embedded Systems
 * [STM32Cube MCU Overall Offer](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer) - This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products
@@ -408,6 +432,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [class2](https://github.com/MCJack123/class2) - Object-oriented programming for Lua/ComputerCraft. Version 2.
 * [Luaoop](https://github.com/ImagicTheCat/Luaoop) - Lua library to do OOP (Object Oriented Programming).
 
+---
 # On review list
 * [SWIG](http://www.swig.org/) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
@@ -535,3 +560,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [nanothread](https://github.com/mitsuba-renderer/nanothread) - Minimal thread pool for task parallelism
 * [Not Enough Standards](https://github.com/Alairion/not-enough-standards) - A modern header-only C++ library that provides platform-independent utilities.
 * [xo](https://github.com/tgeijten/xo) - Lightweight c++17 utility library
+* [UTL](https://github.com/DmitriBogdanov/UTL) - Collection of self-contained header-only libraries for C++17
