@@ -561,3 +561,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Not Enough Standards](https://github.com/Alairion/not-enough-standards) - A modern header-only C++ library that provides platform-independent utilities.
 * [xo](https://github.com/tgeijten/xo) - Lightweight c++17 utility library
 * [UTL](https://github.com/DmitriBogdanov/UTL) - Collection of self-contained header-only libraries for C++17
+* [Non-Blocking Lock-Free/Wait-Free Circular-Queue](https://github.com/alpc62/lock-free-queue) - C/C++Non-Blocking Lock-Free/Wait-Free Circular-Queue
