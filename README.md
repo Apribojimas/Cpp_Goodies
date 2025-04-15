@@ -378,16 +378,18 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [sqlwatch.io](https://sqlwatch.io/) | Monitor and learn SQL Server for free.|
 | [DevToys](https://devtoys.app/) | An Open-Source Swiss Army knife for developers.|
 | [CPPINCLUDE](https://github.com/cppinclude/cppinclude) | Tool for analyzing includes in C++|
-| [Alligator](https://www.sikorskiy.net/info/prj/alligator/) | a tool to analyze debugger information .PDB files produced by 32/64-bit Visual Studio compiler and to present information about user defined structures (size, padding, members, etc).|
-| [Amap](https://www.sikorskiy.net/info/prj/amap/) | a tool to analyze .MAP files produced by 32/64-bit Visual Studio compiler and report the amount of memory being used by data and code. |
 
 ---
 ## Code bloat
-* [sizer](https://github.com/aras-p/sizer) - Win32/64 executable size report utility
-* [Bloaty McBloatface](https://github.com/google/bloaty) - Ever wondered what's making your binary big?
-* [The Inefficiency of C++, Fact or Fiction?](http://staffwww.fullcoll.edu/thegarty/iar_fact_the_inefficiency_of_C--.pdf) - The cost in terms of code size overhead compared to C for the C++ constructs
-* [SymbolSort](https://github.com/adrianstone55/SymbolSort) - SymbolSort is a utility for analyzing code bloat in C++ applications.
-* [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra Software Reverse Engineering Framework
+| Link | Description |
+| --- | --- |
+| [sizer](https://github.com/aras-p/sizer) | Win32/64 executable size report utility|
+| [Bloaty McBloatface](https://github.com/google/bloaty) | Ever wondered what's making your binary big?|
+| [The Inefficiency of C++, Fact or Fiction?](http://staffwww.fullcoll.edu/thegarty/iar_fact_the_inefficiency_of_C--.pdf) | The cost in terms of code size overhead compared to C for the C++ constructs|
+| [SymbolSort](https://github.com/adrianstone55/SymbolSort) | SymbolSort is a utility for analyzing code bloat in C++ applications.|
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra Software Reverse Engineering Framework|
+| [Alligator](https://www.sikorskiy.net/info/prj/alligator/) | a tool to analyze debugger information .PDB files produced by 32/64-bit Visual Studio compiler and to present information about user defined structures (size, padding, members, etc).|
+| [Amap](https://www.sikorskiy.net/info/prj/amap/) | a tool to analyze .MAP files produced by 32/64-bit Visual Studio compiler and report the amount of memory being used by data and code. |
 
 ---
 # Embedded
