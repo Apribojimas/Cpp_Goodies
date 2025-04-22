@@ -228,6 +228,7 @@ Links to various cpp patterns or tutorials
 | [Cista](https://github.com/felixguendling/cista) | Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.|
 | [Bitsery](https://github.com/fraillt/bitsery) | Header only C++ binary serialization library.|
 | [libnop: C++ Native Object Protocols](https://github.com/google/libnop) | libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.|
+| [Serdepp](https://github.com/injae/serdepp) | c++ serialize and deserialize adaptor library like rust serde.rs|
 
 ---
 # JSON
