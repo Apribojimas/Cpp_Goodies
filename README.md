@@ -394,46 +394,60 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 
 ---
 # Embedded
-* [Awesome embedded software list](https://github.com/iDoka/awesome-embedded-software) - attempt to create list of software (HW, libs, protocols, etc) for Embedded Systems
-* [STM32Cube MCU Overall Offer](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer) - This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products
-* [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life) - about collecting metrics that contribute to battery life
-* [Embedded Learning Library](https://github.com/microsoft/ELL) - 
+| Link | Description |
+| --- | --- |
+| [Awesome embedded software list](https://github.com/iDoka/awesome-embedded-software) | attempt to create list of software (HW, libs, protocols, etc) for Embedded Systems|
+| [STM32Cube MCU Overall Offer](https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer) | This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products|
+| [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life) | about collecting metrics that contribute to battery life|
+| [Embedded Learning Library](https://github.com/microsoft/ELL) | |
 ## Embedded oriented libs
-* [ETL](https://www.etlcpp.com/) - Embedded Template Library
-* [embxx](https://github.com/arobenko/embxx) - Embxx is Embedded C++ library
-* [theCore](https://github.com/theCore-embedded/theCore) - framework for various microcontroller applications, with or without RTOS (bare-metal).
-* [libcpp](https://github.com/peterzuger/libcpp) - C++ standard library for embedded systems
-* [Real-Time-C++](https://github.com/ckormanyos/real-time-cpp) - Source code for the book Real-Time C++, by Christopher Kormanyos
-* [estd](https://github.com/malachi-iot/estdlib) - C++ Standard Lib adapted to embedded environments
+| Link | Description |
+| --- | --- |
+| [ETL](https://www.etlcpp.com/) | Embedded Template Library|
+| [embxx](https://github.com/arobenko/embxx) | Embxx is Embedded C++ library|
+| [theCore](https://github.com/theCore-embedded/theCore) | framework for various microcontroller applications, with or without RTOS (bare-metal).|
+| [libcpp](https://github.com/peterzuger/libcpp) | C++ standard library for embedded systems|
+| [Real-Time-C++](https://github.com/ckormanyos/real-time-cpp) | Source code for the book Real-Time C++, by Christopher Kormanyos|
+| [estd](https://github.com/malachi-iot/estdlib) | C++ Standard Lib adapted to embedded environments|
 ## FreeRTOS
-* [freertos-addons](https://github.com/michaelbecker/freertos-addons) - Additions to FreeRTOS
-* [freertos_cpp_util](https://github.com/jacobschloss/freertos_cpp_util) - A collection of C++ wrappers and utility code for FreeRTOS.
-* [FreeRTOScpp](https://github.com/richard-damon/FreeRTOScpp) - FreeRTOS C++ Wrappers
-* [Book 'Building real-time embedded systems'](https://www.packtpub.com/product/hands-on-rtos-with-microcontrollers/9781838826734) - Hands-On RTOS with Microcontrollers: Building real-time embedded systems
-* [C++ FreeRTOS GCC](https://github.com/grygorek/FreeRTOS_cpp11) - Enable GCC C++ STL multitasking library in FreeRTOS projects
+| Link | Description |
+| --- | --- |
+| [freertos-addons](https://github.com/michaelbecker/freertos-addons) | Additions to FreeRTOS|
+| [freertos_cpp_util](https://github.com/jacobschloss/freertos_cpp_util) | A collection of C++ wrappers and utility code for FreeRTOS.|
+| [FreeRTOScpp](https://github.com/richard-damon/FreeRTOScpp) | FreeRTOS C++ Wrappers|
+| [Book 'Building real-time embedded systems'](https://www.packtpub.com/product/hands-on-rtos-with-microcontrollers/9781838826734) | Hands-On RTOS with Microcontrollers: Building real-time embedded systems|
+| [C++ FreeRTOS GCC](https://github.com/grygorek/FreeRTOS_cpp11) | Enable GCC C++ STL multitasking library in FreeRTOS projects|
 ## HAL
-* [corona](https://github.com/marangisto/corona) - Zero Cost HAL
-* [STM_HAL](https://github.com/polybassa/STM_HAL) - C++ Hardware Abstraction Layer and Framework for STM32F3 and STM32F1 with FreeRTOS
+| Link | Description |
+| --- | --- |
+| [corona](https://github.com/marangisto/corona) | Zero Cost HAL|
+| [STM_HAL](https://github.com/polybassa/STM_HAL) | C++ Hardware Abstraction Layer and Framework for STM32F3 and STM32F1 with FreeRTOS|
 ## Avoid anything what's starts "header only". Code bloat! Pure design! Too abstract!
-* [kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua 
-* [nlohmann](https://github.com/nlohmann/json) - JSON for Modern C++
-* [quicktype](https://quicktype.io/) - Convert JSON into gorgeous, typesafe code in any language.
-* [RapidJSON](https://github.com/Tencent/rapidjson) - Low quality code, requires lot of extra coding for proper usages, JSON parsing performance gains are diminishing. 
+| Link | Description |
+| --- | --- |
+| [kaguya](https://github.com/satoren/kaguya) | C++ binding to Lua |
+| [nlohmann](https://github.com/nlohmann/json) | JSON for Modern C++|
+| [quicktype](https://quicktype.io/) | Convert JSON into gorgeous, typesafe code in any language.|
+| [RapidJSON](https://github.com/Tencent/rapidjson) | Low quality code, requires lot of extra coding for proper usages, JSON parsing performance gains are diminishing. |
 ## LUA
-* [My Awesome Lua List](https://github.com/MegaBedder/my-awesome-lua) - My list of quality Lua packages and resources.
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
-* [lua-utils](https://github.com/ief015/lua-utils) - A small utility library to expand on Lua's standard library with some common functions.
-* [RxLua](https://github.com/bjornbytes/rxlua) - Reactive Extensions for Lua
-* [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) - LuaStandardLibrary
-* [Factorio-Stdlib](https://github.com/Afforess/Factorio-Stdlib) - Factorio Standard Library Project 
-* [Lua Async Await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
-* [date.lua](https://github.com/ReFreezed/LuaWebGen/blob/master/lib/date.lua) - date.lua
-* [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide
+| Link | Description |
+| --- | --- |
+| [My Awesome Lua List](https://github.com/MegaBedder/my-awesome-lua) | My list of quality Lua packages and resources.|
+| [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) | A curated list of quality Lua packages and resources.|
+| [lua-utils](https://github.com/ief015/lua-utils) | A small utility library to expand on Lua's standard library with some common functions.|
+| [RxLua](https://github.com/bjornbytes/rxlua) | Reactive Extensions for Lua|
+| [LuaStandardLibrary](https://github.com/losemymind/LuaStandardLibrary) | LuaStandardLibrary|
+| [Factorio-Stdlib](https://github.com/Afforess/Factorio-Stdlib) | Factorio Standard Library Project |
+| [Lua Async Await](https://github.com/ms-jpq/lua-async-await) | Async Await in 90 lines of code.|
+| [date.lua](https://github.com/ReFreezed/LuaWebGen/blob/master/lib/date.lua) | date.lua|
+| [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) | Olivine Labs Lua Style Guide|
 ### [LUA Object Oriented Programming (OOP)](http://lua-users.org/wiki/ObjectOrientedProgramming)
-* [luapower/oo](https://github.com/luapower/oo) - Object system for Lua with virtual properties and method overriding hooks
-* [LuaWOO](https://github.com/claudix/lua-woo) - A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.
-* [class2](https://github.com/MCJack123/class2) - Object-oriented programming for Lua/ComputerCraft. Version 2.
-* [Luaoop](https://github.com/ImagicTheCat/Luaoop) - Lua library to do OOP (Object Oriented Programming).
+| Link | Description |
+| --- | --- |
+| [luapower/oo](https://github.com/luapower/oo) | Object system for Lua with virtual properties and method overriding hooks|
+| [LuaWOO](https://github.com/claudix/lua-woo) | A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.|
+| [class2](https://github.com/MCJack123/class2) | Object-oriented programming for Lua/ComputerCraft. Version 2.|
+| [Luaoop](https://github.com/ImagicTheCat/Luaoop) | Lua library to do OOP (Object Oriented Programming).|
 
 ---
 # On review list
