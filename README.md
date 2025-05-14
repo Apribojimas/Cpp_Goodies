@@ -568,3 +568,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [spsc_queue](https://github.com/paulhuggett/spsc_queue) - A single producer, single consumer lock-free queue
 * [mpmc_queue](https://github.com/paulhuggett/mpmc_queue) - A bounded multi-producer multi-consumer concurrent queue based on rigtorp/MPMCQueue. Have slot approach! [pubsub](https://github.com/paulhuggett/pubsub)
 * [Toy ring buffer](https://github.com/jorgen/ring_buffer) - heterogeneous ring buffer
+* [Simple C++ command line parser](https://github.com/FlorianRappl/CmdParser) - A simple and lightweight command line parser using C++11.
