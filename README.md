@@ -583,3 +583,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [mpmc_queue](https://github.com/paulhuggett/mpmc_queue) - A bounded multi-producer multi-consumer concurrent queue based on rigtorp/MPMCQueue. Have slot approach! [pubsub](https://github.com/paulhuggett/pubsub)
 * [Toy ring buffer](https://github.com/jorgen/ring_buffer) - heterogeneous ring buffer
 * [Simple C++ command line parser](https://github.com/FlorianRappl/CmdParser) - A simple and lightweight command line parser using C++11.
+* [workspace](https://github.com/CodingHanYa/workspace) - workspace is a lightweight asynchronous execution framework based on C++11, which supports: asynchronous concurrent execution of general tasks, priority task scheduling, adaptive dynamic thread pools, efficient static thread pools, and exception handling mechanisms.
