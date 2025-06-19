@@ -585,3 +585,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [Simple C++ command line parser](https://github.com/FlorianRappl/CmdParser) - A simple and lightweight command line parser using C++11.
 * [workspace](https://github.com/CodingHanYa/workspace) - workspace is a lightweight asynchronous execution framework based on C++11, which supports: asynchronous concurrent execution of general tasks, priority task scheduling, adaptive dynamic thread pools, efficient static thread pools, and exception handling mechanisms.
 * [EmbedDB](https://github.com/ubco-db/EmbedDB) - EmbedDB Embedded Database for IoT and Sensors Supporting Key-Value and Relational Data
+* [Unexceptionally Consistent Set](https://github.com/unum-cloud/ucset) - If only std::set was a DBMS: collection of templated ACID in-memory exception-free thread-safe and concurrent containers in a header-only library
