@@ -587,3 +587,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [EmbedDB](https://github.com/ubco-db/EmbedDB) - EmbedDB Embedded Database for IoT and Sensors Supporting Key-Value and Relational Data
 * [Unexceptionally Consistent Set](https://github.com/unum-cloud/ucset) - If only std::set was a DBMS: collection of templated ACID in-memory exception-free thread-safe and concurrent containers in a header-only library
 * [TidesDB](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embedded storage engine designed for flash and RAM optimization. [tidesdb-cpp](https://github.com/tidesdb/tidesdb-cpp)
+* [meojson](https://github.com/MistEO/meojson) - Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | Unleash JSON Potential
