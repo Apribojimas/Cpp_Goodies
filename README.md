@@ -592,3 +592,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [IOWOW](https://github.com/Softmotions/iowow) - Multipurpose C library and persistent key/value storage
 * [microdb](https://github.com/microzzzf/microdb) - a simple key-value db
 * [logpp](https://github.com/oktal/logpp) - A modern, fast, structured logging framework in C++. Rolling file
+* [my-stl](https://github.com/ShreeChaturvedi/my-stl) - A modern C++ library implementing a subset of STL-style containers, RAII utilities, and core abstractions.
