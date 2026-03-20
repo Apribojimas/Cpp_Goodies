@@ -450,6 +450,13 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [Luaoop](https://github.com/ImagicTheCat/Luaoop) | Lua library to do OOP (Object Oriented Programming).|
 
 ---
+# AI
+| Link | Description |
+| --- | --- |
+| [claude-skills](https://github.com/Jeffallan/claude-skills) | Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.|
+
+
+---
 # On review list
 * [SWIG](http://www.swig.org/) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * [MQTT-Reactive](https://github.com/vortexmakes/MQTT-Reactive) - portable and non-blocking MQTT client
