@@ -455,6 +455,7 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | --- | --- |
 | [claude-skills](https://github.com/Jeffallan/claude-skills) | Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.|
 | [Claude Code Skills Collection](https://github.com/Mindrally/skills) | Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.|
+| [C++ Skills Repository](https://github.com/13eholder/Modern-Cpp-Skills) | Modern-Cpp-Skills cover topics such as lifecycle, concurrency, and error handling and provide a skill to generate customed cpp skills|
 
 
 ---
