@@ -49,6 +49,15 @@ Links to various cpp patterns or tutorials
 | [C++ links](https://github.com/MattPD/cpplinks) | A categorized list of C++ resources.|
 
 ---
+# AI
+| Link | Description |
+| --- | --- |
+| [claude-skills](https://github.com/Jeffallan/claude-skills) | Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.|
+| [Claude Code Skills Collection](https://github.com/Mindrally/skills) | Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.|
+| [C++ Skills Repository](https://github.com/13eholder/Modern-Cpp-Skills) | Modern-Cpp-Skills cover topics such as lifecycle, concurrency, and error handling and provide a skill to generate customed cpp skills|
+| [get-skilled](https://github.com/armandli/get-skilled) | Claude skill to create Claude skills, created by Claude|
+
+---
 # CMake
 | Link | Description |
 | --- | --- |
@@ -448,14 +457,6 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 | [LuaWOO](https://github.com/claudix/lua-woo) | A library that provides advanced Object Oriented Programming (OOP) mechanisms for the Lua language.|
 | [class2](https://github.com/MCJack123/class2) | Object-oriented programming for Lua/ComputerCraft. Version 2.|
 | [Luaoop](https://github.com/ImagicTheCat/Luaoop) | Lua library to do OOP (Object Oriented Programming).|
-
----
-# AI
-| Link | Description |
-| --- | --- |
-| [claude-skills](https://github.com/Jeffallan/claude-skills) | Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.|
-| [Claude Code Skills Collection](https://github.com/Mindrally/skills) | Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.|
-| [C++ Skills Repository](https://github.com/13eholder/Modern-Cpp-Skills) | Modern-Cpp-Skills cover topics such as lifecycle, concurrency, and error handling and provide a skill to generate customed cpp skills|
 
 
 ---
