@@ -56,6 +56,9 @@ Links to various cpp patterns or tutorials
 | [Claude Code Skills Collection](https://github.com/Mindrally/skills) | Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.|
 | [C++ Skills Repository](https://github.com/13eholder/Modern-Cpp-Skills) | Modern-Cpp-Skills cover topics such as lifecycle, concurrency, and error handling and provide a skill to generate customed cpp skills|
 | [get-skilled](https://github.com/armandli/get-skilled) | Claude skill to create Claude skills, created by Claude|
+| [graphify](https://github.com/safishamsi/graphify) | Turn any folder into a queryable knowledge graph |
+| [Skills for Real Engineers](https://github.com/mattpocock/skills) | Skills for Real Engineers. |
+
 
 ---
 # CMake
