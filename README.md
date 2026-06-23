@@ -58,6 +58,7 @@ Links to various cpp patterns or tutorials
 | [get-skilled](https://github.com/armandli/get-skilled) | Claude skill to create Claude skills, created by Claude|
 | [graphify](https://github.com/safishamsi/graphify) | Turn any folder into a queryable knowledge graph |
 | [Skills for Real Engineers](https://github.com/mattpocock/skills) | Skills for Real Engineers. |
+| [AI-Agent-Skills](https://github.com/jesalerno/AI-Agent-Skills) | AI Coding Agent Skills & Instructions |
 
 
 ---
