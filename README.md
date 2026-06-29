@@ -610,3 +610,4 @@ library: a collection of types, functions, classes, etc. implementing a set of f
 * [my-stl](https://github.com/ShreeChaturvedi/my-stl) - A modern C++ library implementing a subset of STL-style containers, RAII utilities, and core abstractions.
 * [TinyLogDB](https://github.com/TrevorAttema/TinyLogDB) - TinyLogDB – A lightweight, high-performance key-value database engine for embedded systems, featuring log-based storage and a memory-efficient paged index system.
 * [SlothDB](https://github.com/SouravRoy-ETL/slothdb) - SlothDB is an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. Built from scratch. Up to 5x faster where it counts.
+* [STX](https://github.com/lamarrr/STX) - C++17 & C++ 20 error-handling and utility extensions.
